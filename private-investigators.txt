@@ -1,0 +1,59 @@
+# Private Investigators - United States
+# Major PI firms, associations, and directories
+
+# ============================================
+# PI ASSOCIATIONS
+# ============================================
+pinow.com
+pimall.com
+# intellenetwork.org
+# nciss.org
+asisonline.org
+
+# ============================================
+# MAJOR INVESTIGATION FIRMS
+# ============================================
+# krollassociates.com
+# pinkerton.com
+# controlrisks.com
+# nardelloandco.com
+guidepostsolutions.com
+# hillardheintze.com
+
+# ============================================
+# CORPORATE & RISK
+# ============================================
+g4s.com
+# securitasusa.com
+# navigant.com
+
+# ============================================
+# BACKGROUND CHECKS
+# ============================================
+# checkr.com
+sterlingcheck.com
+hireright.com
+goodhire.com
+accuratebackground.com
+
+# ============================================
+# PEOPLE SEARCH & RECORDS
+# ============================================
+beenverified.com
+spokeo.com
+intelius.com
+truthfinder.com
+instantcheckmate.com
+
+# ============================================
+# DIGITAL FORENSICS
+# ============================================
+crowdstrike.com
+mandiant.com
+secureworks.com
+
+# ============================================
+# DATA & SKIP TRACING
+# ============================================
+lexisnexis.com
+# tracersinfo.com

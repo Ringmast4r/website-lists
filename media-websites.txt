@@ -1,0 +1,10151 @@
+# US Media & Magazine Websites - Comprehensive List
+# High-traffic sites with many authors/contributors
+
+# ============================================
+# NEWS & TECH
+# ============================================
+techcrunch.com
+wired.com
+engadget.com
+9to5mac.com
+9to5google.com
+theverge.com
+mashable.com
+gizmodo.com
+lifehacker.com
+kotaku.com
+jalopnik.com
+jezebel.com
+deadspin.com
+arstechnica.com
+cnet.com
+zdnet.com
+tomshardware.com
+pcmag.com
+pcworld.com
+macworld.com
+techradar.com
+digitaltrends.com
+androidcentral.com
+imore.com
+windowscentral.com
+anandtech.com
+howtogeek.com
+makeuseof.com
+slashgear.com
+bgr.com
+phonearena.com
+gsmarena.com
+tomsguide.com
+venturebeat.com
+recode.net
+techdirt.com
+theregister.com
+hackernoon.com
+thenextweb.com
+readwrite.com
+gigaom.com
+informationweek.com
+eweek.com
+computerworld.com
+infoworld.com
+networkworld.com
+crn.com
+channele2e.com
+lightreading.com
+fiercewireless.com
+fiercetelecom.com
+
+# ============================================
+# MAJOR NEWS NETWORKS & BROADCASTERS
+# ============================================
+cnn.com
+foxnews.com
+msnbc.com
+nbcnews.com
+abcnews.go.com
+cbsnews.com
+pbs.org
+npr.org
+c-span.org
+newsmax.com
+oann.com
+thehill.com
+politico.com
+axios.com
+vox.com
+vice.com
+buzzfeednews.com
+huffpost.com
+dailykos.com
+rawstory.com
+mediaite.com
+theintercept.com
+propublica.org
+revealnews.org
+themarkup.org
+apnews.com
+upi.com
+
+# ============================================
+# MAJOR NEWSPAPERS
+# ============================================
+nytimes.com
+washingtonpost.com
+wsj.com
+usatoday.com
+latimes.com
+chicagotribune.com
+nypost.com
+nydailynews.com
+bostonglobe.com
+sfchronicle.com
+sfgate.com
+mercurynews.com
+denverpost.com
+dallasnews.com
+houstonchronicle.com
+chron.com
+ajc.com
+tampabay.com
+miamiherald.com
+sun-sentinel.com
+orlandosentinel.com
+philly.com
+inquirer.com
+baltimoresun.com
+startribune.com
+freep.com
+detroitnews.com
+cleveland.com
+dispatch.com
+jsonline.com
+stltoday.com
+kansascity.com
+azcentral.com
+seattletimes.com
+oregonlive.com
+sandiegouniontribune.com
+sacbee.com
+ocregister.com
+newsday.com
+courant.com
+providencejournal.com
+buffalonews.com
+post-gazette.com
+pilotonline.com
+richmond.com
+charlotteobserver.com
+newsobserver.com
+postandcourier.com
+tennessean.com
+courier-journal.com
+indystar.com
+desmoinesregister.com
+omaha.com
+arkansasonline.com
+oklahoman.com
+statesman.com
+expressnews.com
+lvrj.com
+reviewjournal.com
+sltrib.com
+abqjournal.com
+azstarnet.com
+tucson.com
+honolulustar-advertiser.com
+anchoragedailynews.com
+
+# ============================================
+# NEWS & POLITICS MAGAZINES
+# ============================================
+newyorker.com
+theatlantic.com
+slate.com
+salon.com
+thedailybeast.com
+motherjones.com
+reason.com
+observer.com
+newrepublic.com
+weeklystandard.com
+nationalreview.com
+theamericanconservative.com
+spectator.org
+prospect.org
+thenation.com
+jacobinmag.com
+currentaffairs.org
+washingtonmonthly.com
+commentarymagazine.com
+foreignpolicy.com
+foreignaffairs.com
+thediplomat.com
+worldpoliticsreview.com
+nationalinterest.org
+cfr.org
+brookings.edu
+heritage.org
+cato.org
+aei.org
+
+# ============================================
+# GENERAL INTEREST MAGAZINES
+# ============================================
+time.com
+newsweek.com
+theweek.com
+rd.com
+mentalfloss.com
+smithsonianmag.com
+atlasobscura.com
+aeon.co
+nautil.us
+longreads.com
+theringer.com
+thebaffler.com
+
+# ============================================
+# BUSINESS & FINANCE
+# ============================================
+fortune.com
+forbes.com
+inc.com
+fastcompany.com
+entrepreneur.com
+businessinsider.com
+qz.com
+bloomberg.com
+marketwatch.com
+barrons.com
+investopedia.com
+fool.com
+seekingalpha.com
+thestreet.com
+cnbc.com
+foxbusiness.com
+yahoo.com/finance
+money.com
+kiplinger.com
+bankrate.com
+nerdwallet.com
+creditkarma.com
+moneyunder30.com
+daveramsey.com
+thepennyhoarder.com
+wisebread.com
+getrichslowly.org
+mrmoneymustache.com
+financialsamurai.com
+obliviousinvestor.com
+bogleheads.org
+corporatefinanceinstitute.com
+hbr.org
+mckinsey.com
+bcg.com
+bain.com
+strategy-business.com
+sloanreview.mit.edu
+
+# ============================================
+# ENTERTAINMENT & CELEBRITY
+# ============================================
+variety.com
+hollywoodreporter.com
+deadline.com
+ew.com
+vulture.com
+eonline.com
+tmz.com
+pagesix.com
+justjared.com
+people.com
+usmagazine.com
+usweekly.com
+okmagazine.com
+starmagazine.com
+intouchweekly.com
+lifeandstylemag.com
+instyle.com
+tvguide.com
+tvline.com
+cinemablend.com
+screenrant.com
+collider.com
+slashfilm.com
+indiewire.com
+filmschoolrejects.com
+rogerebert.com
+avclub.com
+theonion.com
+cracked.com
+collegehumor.com
+funnyordie.com
+thrillist.com
+complex.com
+uproxx.com
+pajiba.com
+theplaylist.net
+slantmagazine.com
+thedissolve.com
+birthmoviesdeath.com
+
+# ============================================
+# MUSIC
+# ============================================
+rollingstone.com
+billboard.com
+pitchfork.com
+consequence.net
+stereogum.com
+spin.com
+nme.com
+loudwire.com
+metalinjection.net
+metalsucks.net
+blabbermouth.net
+brooklynvegan.com
+thelineofbestfit.com
+diymagazine.com
+clashmusic.com
+thefader.com
+tinymixtapes.com
+residentadvisor.net
+dancingastronaut.com
+youredm.com
+magneticmag.com
+djmag.com
+mixmag.net
+xlr8r.com
+factmag.com
+undertheradarmag.com
+americansongwriter.com
+pastemagazine.com
+popmatters.com
+allmusic.com
+genius.com
+songfacts.com
+setlist.fm
+
+# ============================================
+# FASHION & STYLE
+# ============================================
+vogue.com
+harpersbazaar.com
+elle.com
+wmagazine.com
+marieclaire.com
+glamour.com
+allure.com
+cosmopolitan.com
+teenvogue.com
+nylon.com
+refinery29.com
+whowhatwear.com
+thezoereport.com
+manrepeller.com
+cupofjo.com
+goop.com
+thecut.com
+fashionista.com
+highsnobiety.com
+hypebeast.com
+gq.com
+esquire.com
+mensjournal.com
+details.com
+complex.com
+coolhunting.com
+uncrate.com
+gear patrol.com
+heddels.com
+putthison.com
+dieworkwear.com
+permanentstyle.com
+
+# ============================================
+# BEAUTY & GROOMING
+# ============================================
+allure.com
+byrdie.com
+thebeautybrains.com
+temptalia.com
+intothegloss.com
+beautylish.com
+makeupalley.com
+xovain.com
+thebeautydepartment.com
+essie.com
+oribe.com
+sephora.com
+ulta.com
+
+# ============================================
+# HEALTH & FITNESS
+# ============================================
+menshealth.com
+womenshealthmag.com
+health.com
+webmd.com
+healthline.com
+medicalnewstoday.com
+mayoclinic.org
+everydayhealth.com
+prevention.com
+shape.com
+self.com
+wellandgood.com
+mindbodygreen.com
+yogajournal.com
+runnersworld.com
+bicycling.com
+outsideonline.com
+backpacker.com
+trailrunnermag.com
+triathlete.com
+swimmingworldmagazine.com
+muscleandfitness.com
+bodybuilding.com
+t-nation.com
+mensfitness.com
+stack.com
+greatist.com
+sparkpeople.com
+fitbit.com
+myfitnesspal.com
+livestrong.com
+acefitness.org
+ideafit.com
+nsca.com
+acsm.org
+
+# ============================================
+# FOOD & DRINK
+# ============================================
+bonappetit.com
+foodandwine.com
+epicurious.com
+saveur.com
+tastingtable.com
+seriouseats.com
+thekitchn.com
+food52.com
+eater.com
+grubstreet.com
+foodnetwork.com
+delish.com
+allrecipes.com
+simplyrecipes.com
+smittenkitchen.com
+minimalistbaker.com
+halfbakedharvest.com
+thepioneerwoman.com
+budgetbytes.com
+skinnytaste.com
+cookinglight.com
+myrecipes.com
+chowhound.com
+marthastewart.com
+finecooking.com
+cooksillustrated.com
+americastestkitchen.com
+kingarthurbaking.com
+sallysbakingaddiction.com
+handletheheat.com
+browneyedbaker.com
+sprinklebakes.com
+joyofbaking.com
+davidlebovitz.com
+101cookbooks.com
+loveandlemons.com
+ohsheglows.com
+thefullhelping.com
+veganyumminess.com
+hotforfoodblog.com
+vinepair.com
+winemag.com
+winespectator.com
+decanter.com
+whiskyadvocate.com
+cocktailkingdom.com
+liquor.com
+punchdrink.com
+imbibemagazine.com
+diffordsguide.com
+talesofthecocktail.com
+
+# ============================================
+# TRAVEL & LEISURE
+# ============================================
+travelandleisure.com
+cntraveler.com
+afar.com
+lonelyplanet.com
+fodors.com
+frommers.com
+tripadvisor.com
+timeout.com
+atlasobscura.com
+roadsandkingdoms.com
+nomadicmatt.com
+theplanetd.com
+adventurouskate.com
+expertvagabond.com
+legalnomads.com
+worldofwanderlust.com
+handluggageonly.co.uk
+danflyingsolo.com
+theculturetrip.com
+matadornetwork.com
+hostelworld.com
+skift.com
+travelweekly.com
+travelpulse.com
+budgettravel.com
+smartertravel.com
+cruisecritic.com
+travelzoo.com
+oyster.com
+jetsetter.com
+tablethotels.com
+
+# ============================================
+# HOME & DESIGN
+# ============================================
+architecturaldigest.com
+dwell.com
+dezeen.com
+designboom.com
+archdaily.com
+curbed.com
+apartmenttherapy.com
+domino.com
+elledecor.com
+housebeautiful.com
+goodhousekeeping.com
+bhg.com
+countryliving.com
+marthastewart.com
+mydomaine.com
+remodelista.com
+houzz.com
+thespruce.com
+bobvila.com
+thisoldhouse.com
+familyhandyman.com
+diynetwork.com
+hgtv.com
+younghouselove.com
+chrislovesjulia.com
+stylebyemilyhenderson.com
+designsponge.com
+sfgirlbybay.com
+decor8blog.com
+scandinavianlovesong.com
+coco-lapinedesign.com
+
+# ============================================
+# PARENTING & FAMILY
+# ============================================
+parents.com
+parenting.com
+babycenter.com
+whattoexpect.com
+thebump.com
+motherly.com
+scarymommy.com
+romper.com
+fatherly.com
+todaysparent.com
+mother.ly
+workingmother.com
+familycircle.com
+familyfun.com
+highlights.com
+pbskids.org
+nickjr.com
+commonsensemedia.org
+coolmompicks.com
+modernparentsmessykids.com
+alphamom.com
+handsonaswegrow.com
+busytoddler.com
+themeasuredmom.com
+notimeforflashcards.com
+funathomewithkids.com
+
+# ============================================
+# SCIENCE & NATURE
+# ============================================
+nationalgeographic.com
+scientificamerican.com
+popsci.com
+popularmechanics.com
+discovermagazine.com
+livescience.com
+sciencenews.org
+sciencedaily.com
+nature.com
+sciencemag.org
+newscientist.com
+quantamagazine.org
+wired.com/category/science
+theatlantic.com/science
+arstechnica.com/science
+phys.org
+space.com
+astronomy.com
+skyandtelescope.org
+universetoday.com
+nasa.gov
+esa.int
+spacenews.com
+planetary.org
+seti.org
+psychologytoday.com
+apa.org
+scientificamerican.com/mind
+mindful.org
+theconversation.com
+
+# ============================================
+# SPORTS - GENERAL
+# ============================================
+espn.com
+si.com
+cbssports.com
+nbcsports.com
+foxsports.com
+bleacherreport.com
+sportingnews.com
+fansided.com
+theathletic.com
+theringer.com/sports
+deadspin.com
+sbnation.com
+yardbarker.com
+sportsgrid.com
+
+# ============================================
+# SPORTS - FOOTBALL
+# ============================================
+nfl.com
+profootballtalk.nbcsports.com
+profootballreference.com
+footballoutsiders.com
+thebiglead.com
+12up.com
+turfshowtimes.com
+fieldgulls.com
+milehighreport.com
+bigblueview.com
+behindthesteelcurtain.com
+dawgsbynature.com
+prideofdetroit.com
+acmepackingcompany.com
+dailynorseman.com
+windycitygridiron.com
+bloggingtheboys.com
+hogshaven.com
+bleedinggreennation.com
+bigcatcountry.com
+stampedeblue.com
+arrowheadpride.com
+boltsfromtheblue.com
+silverandblackpride.com
+ninersnation.com
+
+# ============================================
+# SPORTS - BASKETBALL
+# ============================================
+nba.com
+hoopshype.com
+basketball-reference.com
+netsdaily.com
+postingandtoasting.com
+bulletsforever.com
+libertyhangover.com
+cavstheblog.com
+indycornrows.com
+detroitbadboys.com
+brewhoop.com
+blogabull.com
+welcometoloudcity.com
+denverstiffs.com
+slcdunk.com
+blazersedge.com
+goldenstateofmind.com
+clipsnation.com
+silverscreenandroll.com
+brightsideofthesun.com
+sactown royalty.com
+poundingtherock.com
+mavsmoneyball.com
+thedreamshake.com
+grizzlybearblues.com
+hothothoops.com
+orlandopinstripedpost.com
+peachtreehoops.com
+atthehive.com
+
+# ============================================
+# SPORTS - BASEBALL
+# ============================================
+mlb.com
+baseball-reference.com
+fangraphs.com
+baseballprospectus.com
+mlbtraderumors.com
+hardballtalk.nbcsports.com
+justbaseball.com
+pinstripealley.com
+overthemonster.com
+bluebirdbanter.com
+camdenchat.com
+draysbay.com
+royalsreview.com
+twinsdaily.com
+southsidesox.com
+blessyouboys.com
+letsgotribe.com
+lookoutlanding.com
+athleticsnation.com
+lonestarball.com
+halosheaven.com
+truebluela.com
+mccoveychronicles.com
+gaslampball.com
+azsnakepit.com
+purplerow.com
+amazinavenue.com
+fishstripes.com
+federalbaseball.com
+batterypower.com
+bleedcubbieblue.com
+brewcrewball.com
+vivaelbirdos.com
+bucsdugout.com
+redreporter.com
+
+# ============================================
+# SPORTS - HOCKEY
+# ============================================
+nhl.com
+hockeydb.com
+hockey-reference.com
+thehockeynews.com
+eliteprospects.com
+capfriendly.com
+blueshirtbanter.com
+lighthousehockey.com
+allaboutthejersey.com
+japersrink.com
+pensburgh.com
+wingingitinmotown.com
+secondcityhockey.com
+ontheforecheck.com
+defendingbigd.com
+stlouisgametime.com
+milehighhockey.com
+jewelssfromthecrown.com
+battleofcali.com
+coppernblue.com
+nucksmisconduct.com
+canucksarmy.com
+flamesfrom80feet.com
+arcticicehockey.com
+fearthefin.com
+anaaborchers.com
+rawcharge.com
+jacketscannon.com
+habseyesontheprize.com
+diebytheblade.com
+stanleycupofchowder.com
+
+# ============================================
+# SPORTS - SOCCER
+# ============================================
+mlssoccer.com
+ussoccer.com
+goal.com
+fourfourtwo.com
+worldsoccertalk.com
+brotherlygame.com
+sounderatheart.com
+lagconfidential.com
+hottimeinoldtown.com
+blackandredunited.com
+hudsonriverblue.com
+massivereport.com
+wakingthered.com
+eightysixforever.com
+centerlinesoccer.com
+onceametro.com
+dirtysouthsoccer.com
+dynamotheory.com
+
+# ============================================
+# SPORTS - GOLF
+# ============================================
+golf.com
+golfdigest.com
+golfweek.com
+golfchannel.com
+pgatour.com
+lpga.com
+golfwrx.com
+thegolfnewsnet.com
+gearsportsscience.com
+mygolfspy.com
+pluggedingolf.com
+
+# ============================================
+# SPORTS - TENNIS
+# ============================================
+tennis.com
+atptour.com
+wtatennis.com
+tennisnow.com
+tennisworld.com
+essentialtennis.com
+
+# ============================================
+# SPORTS - COMBAT SPORTS
+# ============================================
+ufc.com
+mmafighting.com
+mmajunkie.com
+sherdog.com
+bloodyelbow.com
+boxingscene.com
+ringtv.com
+espn.com/boxing
+badlefthook.com
+
+# ============================================
+# SPORTS - MOTORSPORTS
+# ============================================
+motorsport.com
+autosport.com
+racer.com
+nascar.com
+formula1.com
+f1.com
+jalopnik.com
+thedrive.com
+roadandtrack.com
+caranddriver.com
+motortrend.com
+autoweek.com
+hemmings.com
+bringatrailer.com
+petrolicious.com
+drivetribe.com
+
+# ============================================
+# GAMING
+# ============================================
+ign.com
+gamespot.com
+polygon.com
+kotaku.com
+gamesradar.com
+pcgamer.com
+rockpapershotgun.com
+eurogamer.net
+destructoid.com
+giantbomb.com
+escapistmagazine.com
+gameinformer.com
+toucharcade.com
+pocketgamer.com
+mobilesyrup.com
+dualshockers.com
+pushsquare.com
+nintendolife.com
+operationsports.com
+pastapadre.com
+thesixthaxis.com
+vg247.com
+shacknews.com
+gamefaqs.gamespot.com
+howlongtobeat.com
+trueachievements.com
+truetrophies.com
+strategyguide.com
+
+# ============================================
+# OUTDOOR & ADVENTURE
+# ============================================
+outsideonline.com
+backpacker.com
+rei.com/blog
+gearjunkie.com
+adventure.com
+climbing.com
+rockandice.com
+mountainproject.com
+supertopo.com
+alpinist.com
+powder.com
+skimag.com
+freeskier.com
+snowboarder.com
+transworld.net
+surfermag.com
+surfer.com
+theinertia.com
+stabmag.com
+magicseaweed.com
+surfline.com
+paddling.com
+canoekayak.com
+sailmagazine.com
+cruisingworld.com
+boatingmag.com
+fieldandstream.com
+outdoorlife.com
+sportingclassicsdaily.com
+gunsandammo.com
+americanhunter.org
+bowhunter.com
+deerseason.com
+wildfowlmag.com
+bassmaster.com
+flyfisherman.com
+saltwatersportsman.com
+sportfishingmag.com
+gameandfishmag.com
+in-fisherman.com
+
+# ============================================
+# AUTOMOTIVE
+# ============================================
+caranddriver.com
+roadandtrack.com
+motortrend.com
+automobilemag.com
+autoweek.com
+autoblog.com
+thetruthaboutcars.com
+carbuzz.com
+carscoops.com
+motor1.com
+topgear.com
+jalopnik.com
+thedrive.com
+leftlanenews.com
+automotive news.com
+wards auto.com
+edmunds.com
+kbb.com
+carfax.com
+cargurus.com
+autotrader.com
+cars.com
+truecar.com
+vroom.com
+carvana.com
+bringatrailer.com
+hagerty.com
+hemmings.com
+barnfinds.com
+classiccars.com
+petrolicious.com
+drivetribe.com
+6speedonline.com
+rennlist.com
+bimmerpost.com
+audizine.com
+vwvortex.com
+clubrsx.com
+civicx.com
+ft86club.com
+mustang6g.com
+camaro6.com
+corvetteforum.com
+ferrarichat.com
+
+# ============================================
+# PHOTOGRAPHY
+# ============================================
+dpreview.com
+petapixel.com
+fstoppers.com
+diyphotography.net
+photographylife.com
+kenrockwell.com
+thephoblographer.com
+bhphotovideo.com/explora
+imaging-resource.com
+photofocus.com
+shutterbug.com
+popphoto.com
+outdoorphotographer.com
+digitalcameraworld.com
+digitalrev.com
+lensrentals.com/blog
+rogerebert.com/photography
+aperture.org
+magnumphotos.com
+pdnonline.com
+americanphotomag.com
+
+# ============================================
+# ART & DESIGN
+# ============================================
+artforum.com
+artnews.com
+artnet.com
+artsy.net
+hyperallergic.com
+frieze.com
+theartnewspaper.com
+juxtapoz.com
+beautifuldecay.com
+booooooom.com
+designboom.com
+dezeen.com
+colossal.com
+thisiscolossal.com
+designmilk.com
+core77.com
+creativebloq.com
+creativereview.co.uk
+printmag.com
+commarts.com
+aiga.org
+itsnicethat.com
+underconsideration.com
+brandnew.underconsideration.com
+logopond.com
+dribbble.com/stories
+behance.net/galleries
+abduzeedo.com
+smashingmagazine.com
+webdesignerdepot.com
+sitepoint.com
+cssauthor.com
+awwwards.com
+webbyawards.com
+
+# ============================================
+# TECHNOLOGY REVIEWS & GUIDES
+# ============================================
+wirecutter.com
+rtings.com
+techradar.com
+tomsguide.com
+reviewed.com
+consumerreports.org
+bestproducts.com
+toptenreviews.com
+digitaltrends.com
+techhive.com
+laptopmag.com
+notebookcheck.net
+ultrabookreview.com
+theverge.com/reviews
+cnet.com/reviews
+engadget.com/reviews
+gizmodo.com/reviews
+
+# ============================================
+# CRYPTOCURRENCY & FINTECH
+# ============================================
+coindesk.com
+cointelegraph.com
+bitcoinmagazine.com
+decrypt.co
+theblock.co
+cryptoslate.com
+newsbtc.com
+coingape.com
+ambcrypto.com
+beincrypto.com
+dailyhodl.com
+bitcoinist.com
+cryptobriefing.com
+blockonomi.com
+cryptonews.com
+u.today
+cryptopotato.com
+zycrypto.com
+investinblockchain.com
+nulltx.com
+globalcryptopress.com
+
+# ============================================
+# REAL ESTATE
+# ============================================
+realtor.com
+zillow.com
+redfin.com
+trulia.com
+curbed.com
+inman.com
+housingwire.com
+therealdeal.com
+bisnow.com
+globest.com
+commercialobserver.com
+costar.com
+multihousingnews.com
+propmodo.com
+mansionglobal.com
+luxuryrealestate.com
+sothebysrealty.com
+christiesrealestate.com
+
+# ============================================
+# EDUCATION & LEARNING
+# ============================================
+edweek.org
+chronicle.com
+insidehighered.com
+edsurge.com
+edutopia.org
+teachingchannel.org
+scholastic.com
+khanacademy.org
+coursera.org
+edx.org
+udemy.com
+skillshare.com
+masterclass.com
+lynda.com
+pluralsight.com
+codecademy.com
+freecodecamp.org
+udacity.com
+datacamp.com
+brilliant.org
+duolingo.com
+babbel.com
+memrise.com
+
+# ============================================
+# CAREER & PROFESSIONAL
+# ============================================
+linkedin.com
+glassdoor.com
+indeed.com
+monster.com
+careerbuilder.com
+vault.com
+themuse.com
+flexjobs.com
+weworkremotely.com
+remoteok.io
+angellist.com
+hired.com
+triplebyte.com
+lever.co
+greenhouse.io
+workable.com
+ladders.com
+thebalancecareers.com
+askamanager.org
+hbr.org/career
+
+# ============================================
+# LGBTQ+ MEDIA
+# ============================================
+advocate.com
+out.com
+pride.com
+them.us
+gaytimes.co.uk
+pinknews.co.uk
+queerty.com
+lgbtqnation.com
+autostraddle.com
+curve.com
+diva-magazine.com
+instinctmagazine.com
+
+# ============================================
+# BLACK MEDIA
+# ============================================
+theroot.com
+essence.com
+ebony.com
+bet.com
+blackenterprise.com
+thegrio.com
+afrotech.com
+blavity.com
+atlantablackstar.com
+madamenoire.com
+newsone.com
+blackamericaweb.com
+hellobeautiful.com
+globalgrind.com
+
+# ============================================
+# HISPANIC/LATINO MEDIA
+# ============================================
+hispanicexecutive.com
+latinousa.org
+mitutv.com
+vivala.com
+hiplatina.com
+latina.com
+peopleenespanol.com
+laopinion.com
+eldiariony.com
+univision.com
+telemundo.com
+
+# ============================================
+# ASIAN AMERICAN MEDIA
+# ============================================
+nextshark.com
+angryasianman.com
+asamnews.com
+goldsea.com
+hyphenmagazine.com
+yomyomf.com
+charactermedia.com
+
+# ============================================
+# WOMEN'S INTEREST
+# ============================================
+bustle.com
+theeverygirl.com
+theeverygirlmay.com
+purewow.com
+byrdie.com
+mydomaine.com
+whowhatwear.com
+brit.co
+helloflo.com
+hellogiggles.com
+theskimm.com
+lenny.com
+thecut.com
+jezebel.com
+xojane.com
+ravishly.com
+feministing.com
+msmagazine.com
+bitchmedia.org
+bust.com
+dame.com
+themessenger.com
+
+# ============================================
+# MEN'S INTEREST
+# ============================================
+gq.com
+esquire.com
+menshealth.com
+mensjournal.com
+askmen.com
+artofmanliness.com
+mantelligence.com
+primer.com
+gearpatrol.com
+uncrate.com
+coolmaterial.com
+brobible.com
+barstoolsports.com
+dudeiwantthat.com
+manofmany.com
+hiconsumption.com
+themanual.com
+insidehook.com
+
+# ============================================
+# SENIOR/RETIREMENT
+# ============================================
+aarp.org
+seniorliving.org
+nextavenue.org
+retirementliving.com
+silversneakers.com
+seniorplanet.org
+
+# ============================================
+# PETS & ANIMALS
+# ============================================
+akc.org
+petmd.com
+thedodo.com
+catster.com
+dogster.com
+vetstreet.com
+rover.com/blog
+chewy.com/petcentral
+iheartdogs.com
+iheartcats.com
+petfinder.com/blog
+barkpost.com
+cuteness.com
+animalplanet.com
+nationalgeographic.com/animals
+wildlifetrusts.org
+audubon.org
+allaboutbirds.org
+birdwatching.com
+
+# ============================================
+# WEDDING & BRIDAL
+# ============================================
+theknot.com
+weddingwire.com
+brides.com
+marthastewartweddings.com
+bridesmagazine.co.uk
+stylemepretty.com
+greenweddingshoes.com
+oncewed.com
+100layercake.com
+ruffledblog.com
+snippetandink.com
+loverly.com
+junebugweddings.com
+rocknrollbride.com
+offbeatbride.com
+apracticalwedding.com
+
+# ============================================
+# HOBBY & CRAFT
+# ============================================
+craftsy.com
+creativebug.com
+instructables.com
+makezine.com
+hackaday.com
+sparkfun.com
+adafruit.com/blog
+diynetwork.com
+ana-white.com
+popularmechanics.com/home/how-to
+familyhandyman.com
+woodmagazine.com
+finewoodworking.com
+popularwoodworking.com
+lumberjocks.com
+sawdustgirl.com
+kregtool.com/learn
+modelairplanenews.com
+rcgroups.com
+rcuniverse.com
+flitetest.com
+horizonhobby.com
+traxxas.com
+amainhobbies.com
+
+# ============================================
+# GARDENING & PLANTS
+# ============================================
+gardenersworld.com
+gardeningknowhow.com
+thespruce.com/gardening
+finegardening.com
+garden.org
+oldhouseonline.com/gardens
+gardendesign.com
+houseplantsexpert.com
+houseplantjournal.com
+bloomscape.com/plant-mom
+thesill.com/blog
+gardenbetty.com
+savvygardening.com
+youhadmeatgardening.com
+epicgardening.com
+joegardener.com
+harvesttotable.com
+vegetablegardener.com
+organicgardening.com
+
+# ============================================
+# RELIGION & SPIRITUALITY
+# ============================================
+christianitytoday.com
+relevantmagazine.com
+beliefnet.com
+patheos.com
+religionnews.com
+ncronline.org
+americamagazine.org
+commonwealmagazine.org
+firstthings.com
+desiringgod.org
+thegospelcoalition.org
+crosswalk.com
+biblestudytools.com
+biblegateway.com
+churchtimes.co.uk
+reformejournal.com
+sojo.net
+tikkun.org
+tricycle.org
+lionsroar.com
+buddhistdoor.net
+hinduismtoday.com
+chabad.org
+myjewishlearning.com
+tabletmag.com
+forward.com
+
+# ============================================
+# MILITARY & VETERANS
+# ============================================
+military.com
+militarytimes.com
+armytimes.com
+navytimes.com
+airforcetimes.com
+marinecorpstimes.com
+stripes.com
+taskandpurpose.com
+coffeeordie.com
+sandboxx.us
+wearethemighty.com
+thewarzone.com
+defenseone.com
+defensenews.com
+janes.com
+breakingdefense.com
+c4isrnet.com
+federaltimes.com
+nextgov.com
+govexec.com
+
+# ============================================
+# LEGAL
+# ============================================
+law.com
+lawfare.com
+scotusblog.com
+abovethelaw.com
+law360.com
+natlawreview.com
+jdsupra.com
+lexology.com
+lawsitesblog.com
+lawyerist.com
+abajournal.com
+jurist.org
+courthousenews.com
+law.cornell.edu
+findlaw.com
+justia.com
+oyez.org
+
+# ============================================
+# MEDICAL & HEALTHCARE
+# ============================================
+medscape.com
+medpagetoday.com
+healio.com
+mdedge.com
+clinicaladvisor.com
+consultant360.com
+the-hospitalist.org
+physiciansweekly.com
+kevinmd.com
+fiercehealthcare.com
+beckershospitalreview.com
+modernhealthcare.com
+healthcaredive.com
+healthaffairs.org
+statnews.com
+khn.org
+commonhealth.org
+shotofprevention.com
+
+# ============================================
+# AGRICULTURE & FARMING
+# ============================================
+agriculture.com
+successfulfarmingcom
+farmprogress.com
+agweb.com
+dtnpf.com
+farmjournal.com
+beefmagazine.com
+drovers.com
+nationalhogfarmer.com
+dairyherd.com
+lancasterfarming.com
+farmanddairy.com
+farmandranch.com
+thefencepost.com
+highplainsjournal.net
+agupdate.com
+westernfarmpress.com
+deltafarmpress.com
+southeastfarmpress.com
+farmonline.com
+
+# ============================================
+# MANUFACTURING & INDUSTRY
+# ============================================
+industryweek.com
+manufacturing.net
+assemblymag.com
+machinedesign.com
+designnews.com
+plantservices.com
+foodmanufacturing.com
+packagingdigest.com
+plasticsnews.com
+rubbernews.com
+mmsonline.com
+productionmachining.com
+moldmakingtechnology.com
+additivemanufacturing.com
+3dprintingmedia.network
+sme.org
+asme.org
+
+# ============================================
+# TRUCKING & LOGISTICS
+# ============================================
+truckinginfo.com
+ccjdigital.com
+fleetowner.com
+ttnews.com
+freightwaves.com
+supplychaindive.com
+logisticsmgmt.com
+dcvelocity.com
+americanshipper.com
+joc.com
+freightcaviar.com
+landlinemag.com
+overdriveonline.com
+truckersreport.com
+
+# ============================================
+# AVIATION
+# ============================================
+flyingmag.com
+aopa.org
+avweb.com
+aviationweek.com
+flightglobal.com
+ainonline.com
+bizavadvisor.com
+bjtonline.com
+skies.com
+verticalmag.com
+airlinerworld.com
+airwaysmag.com
+simpleflying.com
+onemileatatime.com
+thepointsguy.com
+upgradedpoints.com
+frequentflyer.com
+headforpoints.com
+viewfromthewing.com
+
+# ============================================
+# MARITIME
+# ============================================
+maritime-executive.com
+marinelog.com
+gcaptain.com
+splashmaritime.com
+lloydslist.com
+tradewindsnews.com
+seatrade-maritime.com
+marinelink.com
+workboat.com
+professionalmariner.com
+
+# ============================================
+# ENERGY
+# ============================================
+utilitydive.com
+energycentral.com
+greentechmedia.com
+pv-magazine.com
+renewableenergyworld.com
+windpowermonthly.com
+rechargenews.com
+solarindustrymag.com
+cleantechnica.com
+electrek.co
+insideevs.com
+greencarreports.com
+oilprice.com
+rigzone.com
+worldoil.com
+offshoreenergytoday.com
+naturalgasintel.com
+naturalgasworld.com
+
+# ============================================
+# CONSTRUCTION & ARCHITECTURE
+# ============================================
+constructiondive.com
+enr.com
+bdcnetwork.com
+constructionexec.com
+forconstructionpros.com
+equipmentworld.com
+constructionequipment.com
+gradeall.com
+architecturalrecord.com
+architectmagazine.com
+archpaper.com
+archinect.com
+architizer.com
+worldarchitecture.org
+archello.com
+dezeen.com
+designboom.com
+archdaily.com
+metalarchitecture.com
+usgbc.org
+buildinggreen.com
+
+# ============================================
+# INSURANCE
+# ============================================
+insurancejournal.com
+propertycasualty360.com
+carriermanagement.com
+claimsjournal.com
+insurancebusinessmag.com
+dig-in.com
+insurancethoughtleadership.com
+thinkadvisor.com
+benefitspro.com
+employeebenefitadviser.com
+lifehealthpro.com
+
+# ============================================
+# RETAIL & ECOMMERCE
+# ============================================
+retaildive.com
+retailwire.com
+chainstoreage.com
+nrf.com/blog
+risnews.com
+totalretail.com
+practicalecommerce.com
+ecommercetimes.com
+digitalcommerce360.com
+retailtouchpoints.com
+modernretail.co
+grocerydive.com
+supermarketnews.com
+progressivegrocer.com
+winsightgrocerybusiness.com
+theshelbyreport.com
+
+# ============================================
+# RESTAURANT & HOSPITALITY
+# ============================================
+restaurantbusinessonline.com
+nrn.com
+qsrmagazine.com
+fsrmagazine.com
+pizzatoday.com
+restauranthospitality.com
+eater.com
+thrillist.com/eat
+thedailymeal.com
+foodandwine.com/restaurants
+bonappetit.com/restaurants
+hotelmanagement.net
+hotelnewsnow.com
+hotelsmag.com
+lodgingmagazine.com
+hospitalitynet.org
+skift.com
+
+# ============================================
+# ALCOHOL & TOBACCO
+# ============================================
+brewersassociation.org
+craftbeer.com
+beeradvocate.com
+ratebeer.com
+untappd.com
+hopculture.com
+goodbeerhunting.com
+draftmag.com
+allaboutbeer.com
+brewbound.com
+winebusiness.com
+wineenthusiast.com
+winespectator.com
+decanter.com
+jancisrobinson.com
+thedrinksbusiness.com
+spiritsbusiness.com
+distillermagazine.com
+whiskeyadvocate.com
+bourbonbanter.com
+thecigarsource.com
+cigaraficionado.com
+halfwheel.com
+
+# ============================================
+# CANNABIS
+# ============================================
+leafly.com
+weedmaps.com
+hightimes.com
+cannabisnow.com
+ganjapreneur.com
+mjbizdaily.com
+newcannabisventures.com
+greenentrepreneur.com
+marijuana.com
+thefreshtoast.com
+thecannabist.co
+merry jane.com
+herb.co
+benzinga.com/cannabis
+
+# ============================================
+# ALTERNATIVE & COUNTERCULTURE
+# ============================================
+vice.com
+noisey.vice.com
+thump.vice.com
+broadly.vice.com
+dazeddigital.com
+crackmagazine.net
+thequietus.com
+tinymixtapes.com
+thefader.com
+papermag.com
+interviewmagazine.com
+bullett.com
+anothermag.com
+ssense.com/en-us/editorial
+highsnobiety.com
+hypebeast.com
+coolhunting.com
+notcot.org
+ffffound.com
+designyoutrust.com
+fubiz.net
+ignant.com
+
+# ============================================
+# SATIRE & HUMOR
+# ============================================
+theonion.com
+clickhole.com
+babylonbee.com
+thehardtimes.net
+harddrivemag.com
+reductress.com
+mcsweeneys.net
+newyorker.com/humor
+theborowitz report.com
+funnyordie.com
+cracked.com
+collegehumor.com
+someecards.com
+theoatmeal.com
+explosm.net
+
+# ============================================
+# PODCASTING & AUDIO
+# ============================================
+podnews.net
+podcastbusinessjournal.com
+hotpodnews.com
+insideradio.com
+radioink.com
+radioworld.com
+allaccess.com
+rainews.com
+current.org
+niemanlab.org
+
+# ============================================
+# STREAMING & DIGITAL MEDIA
+# ============================================
+streamingmedia.com
+mediapost.com
+adweek.com
+adage.com
+digiday.com
+marketingland.com
+thedrum.com
+campaignlive.com
+prnewswire.com
+businesswire.com
+globenewswire.com
+prweek.com
+holmesreport.com
+odwyerpr.com
+
+# ============================================
+# FACT-CHECKING & MEDIA CRITICISM
+# ============================================
+snopes.com
+factcheck.org
+politifact.com
+poynter.org
+niemanlab.org
+cjr.org
+mediamatters.org
+newsbusters.org
+fair.org
+pressthink.org
+onthemedia.org
+
+# ============================================
+# REGIONAL/CITY MAGAZINES
+# ============================================
+nymag.com
+lamag.com
+texasmonthly.com
+chicagomag.com
+phillymag.com
+bostonmagazine.com
+washingtonian.com
+atlantamagazine.com
+sfmagazine.com
+seattlemet.com
+portlandmonthly.com
+5280.com
+dmagazine.com
+houstoniamagazine.com
+mpls.stpaul.magazine.com
+stlmag.com
+cincinnatimag.com
+clevelandmagazine.com
+pittsburghmagazine.com
+indianapolismonthly.com
+milwaukeemag.com
+detroitmagazine.com
+columbusmag.com
+nashvillelifestyles.com
+memphismagazine.com
+louisville.com
+neworleansmagazine.com
+austinmonthly.com
+sanantoniomag.com
+phoenixmag.com
+tucsonlifestyle.com
+albuquerquemagazine.com
+saltlakemagazine.com
+vegasmagazine.com
+lasvegasweekly.com
+honolulumagazine.com
+alaskamagazine.com
+gardenandgun.com
+oxfordamerican.org
+southernliving.com
+sunset.com
+yankeemagazine.com
+downeast.com
+vermontmagazine.com
+mainemagazine.com
+newjerseymag.com
+connecticutmag.com
+rhodemag.com
+hamptons.com
+saratogaliving.com
+buffalospree.com
+rochestermagazine.com
+syracusenewtimes.com
+albanymagazine.com
+virginialiving.com
+richmondmag.com
+charlottemagazine.com
+wral.com
+charlestonmag.com
+savannahmagazine.com
+jacksonvillemagazine.com
+orlandoweekly.com
+tampamagazine.com
+sarasotamagazine.com
+palmbeachillustrated.com
+bocaratonmagazine.com
+birminghammag.com
+montgomeryliving.com
+mobilebaymagazine.com
+jacksonmississippimagazine.com
+littlerocksoiree.com
+tulsamagazine.com
+okgazette.com
+wichitamagazine.com
+topekamag.com
+omahahomemag.com
+dsmmagazine.com
+madison.com
+405magazine.com
+boisemagazine.com
+spokanemagazine.com
+coloradospringsmagazine.com
+bouldermagazine.com
+montanamagazine.com
+wyomingmagazine.com
+nevadamagazine.com
+arizonafoothillsmagazine.com
+palmspringlife.com
+orangecoast.com
+socalmagazine.com
+santabarbaramagazine.com
+diablomag.com
+marinmagazine.com
+sacramentomag.com
+sanjosemade.com
+montereycountyweekly.com
+pacificamagazine.com
+
+# ============================================
+# WOMEN'S LIFESTYLE - ADDITIONAL
+# ============================================
+oprahdaily.com
+realsimple.com
+womansday.com
+redbook.com
+seventeen.com
+marthastewartliving.com
+rachaelraymag.com
+droz.com
+healthywomen.org
+womenshealthnetwork.com
+sheknows.com
+popsugar.com
+totalbeauty.com
+newbeauty.com
+beautyriot.com
+dailymakeover.com
+more.com
+grandparents.com
+modernmom.com
+momseveryday.com
+momtastic.com
+cafemom.com
+whatmomslove.com
+motherandbaby.com
+pregnant.com
+fitpregnancy.com
+expectingscience.com
+mamanatural.com
+weespring.com
+baby-chick.com
+peanut-app.io/blog
+mommyish.com
+momfilter.com
+momables.com
+
+# ============================================
+# LITERARY & POETRY MAGAZINES
+# ============================================
+theparisreview.org
+poetryfoundation.org
+poets.org
+pw.org
+granta.com
+tinhouse.com
+ploughshares.org
+agni.bu.edu
+thegeorgiareview.com
+thesouthernreview.org
+kenyonreview.org
+vqronline.org
+missourireview.com
+iowareview.org
+coloradoreview.colostate.edu
+gettysburgreview.com
+cincinnatireviw.com
+nereview.com
+threepenny.com
+conjunctions.com
+zyzzyva.org
+narrative.ly
+onestory.com
+guernicamag.com
+theoffingmag.com
+catapult.co
+lithub.com
+electricliterature.com
+theamericanscholar.org
+laphamquarterly.org
+nplus1mag.com
+believermag.com
+bookforum.com
+theliteraryreview.org
+fictionwritersreview.com
+newyorker.com/books
+nytimes.com/books
+washingtonpost.com/books
+latimes.com/books
+chicagoreader.com/books
+bookpage.com
+booklist.ala.org
+publishersweekly.com
+kirkusreviews.com
+libraryjournal.com
+schoollibraryjournal.com
+hornbookmagazine.com
+
+# ============================================
+# HISTORY MAGAZINES
+# ============================================
+historynet.com
+americanheritage.com
+historytoday.com
+americanhistorymagazine.com
+civilwarmonitor.com
+civilwartimes.com
+militaryhistorynow.com
+warfare historynetwork.com
+wwiimuseum.org/magazine
+worldwar2history.info
+worldwariimagazine.com
+vietnamwarmagazine.com
+armchairgeneral.com
+strategygames.com
+medievalists.net
+ancient.eu
+archaeology.org
+archaeologicalconservancy.org
+biblicalarchaeology.org
+antiquity.ac.uk
+oldtimeislands.org
+historyireland.com
+historyscotland.com
+
+# ============================================
+# KIDS & TEEN MAGAZINES
+# ============================================
+natgeokids.com
+sikids.com
+timeforkids.com
+scholasticnews.com
+rangerrick.org
+cricketmedia.com
+askmag.com
+clickmag.com
+ladybugmagkids.com
+spidermagkids.com
+musemag.com
+facesmag.com
+cobblestonepub.com
+dig.com
+calliope.com
+odysseymagazine.com
+teenink.com
+teenvoices.com
+teenvogue.com
+seventeen.com
+girlslife.com
+americangirlmag.com
+discoverygirls.com
+boyslife.org
+newmoon.com
+kazoomagazine.com
+stonesoup.com
+youngwriters.com
+
+# ============================================
+# FOOD - ADDITIONAL
+# ============================================
+tasteofhome.com
+eatingwell.com
+cleaneatingmag.com
+vegetariantimes.com
+vegoutmag.com
+paleo.io
+primalpalate.com
+paleomagazine.com
+glutenfreeliving.com
+allergyliving.com
+diabeticlivingonline.com
+diatribe.org
+drinkingmadeeasy.com
+totalwine.com/blog
+winefolly.com
+wineandspiritmagazine.com
+spiritedmag.com
+distillerymag.com
+cocktailstudio.com
+
+# ============================================
+# HOME - ADDITIONAL
+# ============================================
+veranda.com
+traditionalhome.com
+coastalliving.com
+luxesource.com
+oldhouseonline.com
+oldhousejournal.com
+artsandcraftshomes.com
+loghome.com
+timberhomemag.com
+cabinlife.com
+lakehomemag.com
+mountainliving.com
+modernluxury.com
+dujourmedia.com
+hamptonsmag.com
+gotham-magazine.com
+angelenomag.com
+miamimag.com
+
+# ============================================
+# AUTOMOTIVE - ADDITIONAL
+# ============================================
+hotrod.com
+lowrider.com
+superstreet.com
+superstreetonline.com
+drivingline.com
+motorheadmag.com
+powerperformancenews.com
+enginelabs.com
+dragzine.com
+lsxmag.com
+fordmuscle.com
+chevyhardcore.com
+moparconnectionmagazine.com
+streetmusclemag.com
+gmhightechperformance.com
+truckinweb.com
+8lug.com
+dieselpowermag.com
+fourwheeler.com
+jpmagazine.com
+offroadxtreme.com
+dirtridemag.com
+utvdriver.com
+utvunderground.com
+utvactionmag.com
+atvridemag.com
+dunesanddeserts.com
+sxsworld.com
+motorcyclistonline.com
+cycleworld.com
+motorcyclenews.com
+ridermagazine.com
+ultimatemotorcycling.com
+revzilla.com/common-tread
+asphaltandrubber.com
+
+# ============================================
+# FIREARMS & HUNTING - ADDITIONAL
+# ============================================
+shootingtimes.com
+rifleshooter.com
+handgunsmag.com
+combathandguns.com
+personaldefenseworld.com
+tactical-life.com
+recoilweb.com
+ballisticmag.com
+gunsmagazine.com
+americanrifleman.org
+shootingillustrated.com
+americanhunter.org
+petersenshunting.com
+northamericanwhitetail.com
+bowhuntingmag.com
+archerymag.com
+traditionalarcher.com
+bowandarro whunting.com
+predatorxtreme.com
+furtakermag.com
+trapperxandxpredatorcaller.com
+waterfowlmag.com
+ducksunlimited.org
+pheasantsforever.org
+turkeyandturkeyhunting.com
+uplandjournal.com
+gundog.com
+sportingclassicsdaily.com
+shootingsportsman.com
+clayshootingusa.com
+shotgunlife.com
+
+# ============================================
+# MODEL & HOBBY - ADDITIONAL
+# ============================================
+modelrailroader.com
+trainsmagazine.com
+classictoytrains.com
+railfan.com
+finescalemodeler.com
+scaleauto.com
+scalehobbyist.com
+modelcars.com
+aircraftmodeling.com
+scaleaviation.com
+fineartsminiatures.com
+miniatureaddict.com
+militarymodeler.com
+militaryinminiature.com
+armorama.com
+missing-lynx.com
+hyperscale.com
+cybermodeler.com
+ipmsstockholm.org
+ipmsusa.org
+ampersandgroup.com
+modelpursuitmagazine.com
+collectorsweekly.com
+toyworld-online.com
+diecastmagazine.com
+collectingtoysmagazine.com
+
+# ============================================
+# QUILTING & SEWING
+# ============================================
+allpeoplequilt.com
+quiltingdaily.com
+fonsandporter.com
+mccallsquilting.com
+americanpatchworkandquilting.com
+lovepatchworkandquilting.com
+modernquiltsunlimited.com
+quiltfolk.com
+generationsquiltpatterns.com
+sewaliciouspatterns.com
+sewmamasew.com
+burdastyle.com
+seamwork.com
+threads.com
+sewnews.com
+sewingnews.com
+lovetoknow.com/crafts/sewing
+weallsew.com
+bernina.com/blog
+brothersews.com/blog
+janome.com/blog
+singer.com/blog
+babylock.com/blog
+
+# ============================================
+# KNITTING & CROCHET
+# ============================================
+knitty.com
+vogueknitting.com
+interweaveknits.com
+knittingpatterncentral.com
+lionbrand.com/blog
+redheart.com/blog
+yarnspirations.com/blog
+ravelry.com
+lovecrafts.com/blog
+allfreeknitting.com
+allfreecrochet.com
+crochetpatterncentral.com
+annies-catalog.com/crochet
+anniescatalog.com/knit
+craftsy.com/knitting
+craftsy.com/crochet
+thesprucecrafts.com/knitting
+thesprucecrafts.com/crochet
+
+# ============================================
+# SCRAPBOOKING & PAPER CRAFTS
+# ============================================
+scrapbookandcards.com
+createmagazine.com
+cardmakingandpapercraft.com
+stampington.com
+papercraftermagazine.com
+scrapbook.com
+twopeasinabucket.com
+studiocalico.com
+aliedwards.com
+beckyhiggins.com
+bigpictureclasses.com
+onelittlebird.com
+sweetshoppecommunity.com
+thedigichick.com
+oscraps.com
+digitalscrapbookingmagazine.com
+
+# ============================================
+# JEWELRY & BEADING
+# ============================================
+beadingdaily.com
+interweavestore.com/beading
+firemountaingems.com/resources
+rfrjewelry.com/blog
+jewelrymakingjournal.com
+jewelrymaking-beading-tips.com
+createyourstyle.com/magazine
+artbeads.com/blog
+rings-things.com/blog
+halsteadbead.com/blog
+rfrjewelry.com/blog
+metalsmith.org
+ganoksin.com
+snagmetalsmith.org
+jcksonline.com
+nationaljeweler.com
+instore.com
+jqmagazine.com
+
+# ============================================
+# MEN'S LIFESTYLE - ADDITIONAL
+# ============================================
+maxim.com
+playboy.com
+complex.com
+thrillist.com
+mel-magazine.com
+dollarshaveclub.com/original-content
+birchbox.com/magazine
+toddsnyder.com/journal
+huckberry.com/journal
+bombfell.com/blog
+trendhim.com/blog
+bespokeedge.com
+bespoke-unit.com
+bespokepost.com/the-post
+ramseysolutions.com
+successmagazine.com
+betterhelp.com/advice
+
+# ============================================
+# WEDDING - ADDITIONAL
+# ============================================
+bridalguide.com
+weddingsmagazine.com
+destinationweddings.com
+destinationweddingmag.com
+insideweddings.com
+strictlyweddings.com
+weddingchicks.com
+ellewedding.com
+bridesmagazine.co.uk
+youandyourwedding.co.uk
+confettimag.co.uk
+bridestoday.com
+asianbrideuk.com
+southasianbride.com
+munaluchibride.com
+blackbride.com
+lgbtqweddingmagazine.com
+equallyewed.com
+dancingwithhermagazine.com
+
+# ============================================
+# EQUESTRIAN
+# ============================================
+horseandrider.com
+equisearch.com
+thehorse.com
+horsechannel.com
+usefnetwork.com
+chronofhorse.com
+practicalhorseman.com
+dressagetoday.com
+jumpmediallc.com
+horseandhound.co.uk
+horsemagazine.com
+equusmagazine.com
+westernhorseman.com
+horseshowmagazine.com
+horseillustrated.com
+youngrider.com
+americashorseDaily.com
+aqha.com/journal
+arabianhorsemagazine.com
+appaloosajournal.com
+painthorsejournal.com
+quarterhorseneews.com
+barrelhorseneews.com
+teamropingjournal.com
+spintowinrodeo.com
+
+# ============================================
+# BOATING & SAILING - ADDITIONAL
+# ============================================
+boatingmag.com
+powerboatmagazine.com
+sportfishingmag.com
+floridassportsman.com
+coastalanglermag.com
+bigwaterfishingjournal.com
+marlinmag.com
+yachtingmagazine.com
+sailingworld.com
+sailmagazine.com
+cruisingworld.com
+goodoldboat.com
+48north.com
+sailingbreezes.com
+windcheckmagazine.com
+sailingmagazine.com
+multihulls.com
+catamaranmagazine.com
+passagemaker.com
+trawlerfest.com
+lakelandboating.com
+heartlandboating.com
+chesapeakebaymagazine.com
+soundingsonline.com
+pointseast.com
+southernboating.com
+gulfcoastmarinetimes.com
+pacificyachting.com
+
+# ============================================
+# RV & CAMPING
+# ============================================
+motorhome.com
+trailerlife.com
+goodsam.com/blog
+rvmagazine.com
+familyrvingmagazine.com
+rv.net/blog
+gorving.com
+doityourselfrv.com
+campingworld.com/blog
+koa.com/blog
+reserveamerica.com/blog
+campendium.com/blog
+thedyrt.com/magazine
+50campfires.com
+coolofthewild.com
+freshoffthegrid.com
+bearfoottheory.com
+climbingmount.com
+adventurealan.com
+sectionhiker.com
+thebigsitlife.com
+fulltimeexplorer.com
+lesswithless.com
+gonewiththewynns.com
+technomadia.com
+wheelsanwanderlust.com
+
+# ============================================
+# ASTROLOGY & METAPHYSICAL
+# ============================================
+astrology.com
+astrostyle.com
+cafeastrology.com
+astrologyzone.com
+chani nicholas.com
+theastrologypodcast.com
+mountainastrologer.com
+astro.com/magazine
+tarot.com
+biddytarot.com
+labyrinthos.co/blogs
+thetarotlady.com
+littleredtarot.com
+autostraddle.com/tarot
+witchesandpagans.com
+patheos.com/pagan
+wildwomanmagazine.com
+spiritdaughter.com
+thehoodwitch.com
+chaninicholas.com
+astrotwins.com
+jessicaadams.com
+darkstarastrology.com
+
+# ============================================
+# COMICS & GRAPHIC NOVELS
+# ============================================
+comicsbeat.com
+bleedingcool.com
+newsarama.com
+cbr.com
+comicbookresources.com
+comicsalliance.com
+theouthousers.com
+multiversitycomics.com
+comicon.com
+comicbook.com
+screenrant.com/comics
+syfy.com/syfy-wire/comics
+polygon.com/comics
+avclub.com/comics
+tcj.com
+comicsreporter.com
+comixology.com/blog
+imagecomics.com/news
+dccomics.com/blog
+marvel.com/comics
+darkhorse.com/blog
+idwpublishing.com/news
+boomstudios.com/news
+dynamite.com/news
+valiententertainment.com/news
+aftershockcomics.com/news
+ahoycomics.com/news
+oni-press.com/news
+topshelf.com/blog
+drawnandquarterly.com/blog
+fantagraphics.com/blog
+wwnorton.com/graphic-novels
+
+# ============================================
+# ANIME & MANGA
+# ============================================
+animenewsnetwork.com
+crunchyroll.com/news
+funimation.com/blog
+animenews.com
+otakuusamagazine.com
+animemagazine.com
+japanator.com
+myanimelist.net/news
+animuk.co.uk
+animeherald.com
+animefeminist.com
+animenation.net
+tokyopop.com/blog
+vizsignature.com/blog
+kodanshacomics.com/news
+yenpress.com/news
+sevenseasentertainment.com/news
+verticalcomics.com/news
+fanfare-ponent.com/news
+
+# ============================================
+# TABLETOP GAMING
+# ============================================
+dicebreaker.com
+boardgamegeek.com/blog
+polygon.com/tabletop-games
+icv2.com
+tabletopgaming.co.uk
+geekandundry.com
+belleoflostsouls.net
+wargamer.com
+miniaturemarket.com/blog
+coolstuffinc.com/blog
+cardkingdom.com/blog
+tcgplayer.com/articles
+channelfireball.com
+starcitygames.com/articles
+mtggoldfish.com
+edhrec.com/articles
+wizards.com/articles
+gf9games.com/blog
+fantasyflightgames.com/news
+games-workshop.com/community
+warhammercommunity.com
+beastsofwar.com
+ontabletop.com
+warseer.com
+dakka.com
+spikeybitsblog.com
+
+# ============================================
+# ESPORTS
+# ============================================
+espn.com/esports
+esportsbusiness.com
+esportsinsider.com
+esportsobserver.com
+dotesports.com
+win.gg
+dexerto.com
+invenglobal.com
+vpesports.com
+overwatchleague.com/news
+lolesports.com/news
+nba2kleague.com/news
+mlg.com
+eslgaming.com/news
+faceit.com/blog
+blast.tv/news
+gfinityesports.com
+ginx.tv
+upcomer.com
+shiftrle.gg
+liquipedia.net
+esportspedia.com
+
+# ============================================
+# PARANORMAL & TRUE CRIME
+# ============================================
+weekinweird.com
+mysteriousuniverse.org
+llewellyn.com/journal
+gaia.com/articles
+coasttocoastam.com
+unknowncountry.com
+openminds.tv
+nuforc.org
+mufon.com
+cryptozoonews.com
+cryptomundo.com
+lochnessinvestigation.com
+bigfootevidence.blogspot.com
+sasquatchchronicles.com
+crimereads.com
+crimelibrary.org
+truecrimeedition.com
+murderpedia.org
+investigationdiscovery.com
+oxygen.com/true-crime
+biography.com/crime
+aetv.com/real-crime
+courttv.com
+lawandcrime.com/court
+thedailycrime.com
+serialpodcast.org
+truecrimeobsessed.com
+
+# ============================================
+# SCIENCE FICTION & FANTASY
+# ============================================
+tor.com
+locusmag.com
+sfsite.com
+sfsignal.com
+clarkesworld.com
+lightspeedmagazine.com
+nightshademagazine.com
+uncannymagazine.com
+strangehorizons.com
+beneath-ceaseless-skies.com
+fantasticstoriesofimag.com
+asimovs.com
+analogsf.com
+fantasy-magazine.com
+apex-magazine.com
+firesidefiction.com
+escapepod.org
+podcastle.org
+pseudopod.org
+castofwonders.org
+dailysciencefiction.com
+diabolicalplots.com
+sfwa.org
+worldsf.org
+sfencyclopedia.com
+io9.gizmodo.com
+syfy.com/syfywire
+denofgeek.com
+
+# ============================================
+# WIRE SERVICES & NEWS AGENCIES
+# ============================================
+apnews.com
+reuters.com
+upi.com
+afp.com
+bloomberg.com/news
+dowjones.com
+prnewswire.com
+businesswire.com
+globenewswire.com
+accesswire.com
+einpresswire.com
+prweb.com
+newswire.com
+marketwired.com
+cisionpr.com
+maborrowsnews.com
+cnw.ca
+kyodonews.net
+xinhuanet.com
+taborrowsss.ru
+aborrowsncia.efe.com
+dpa-international.com
+ansa.it
+pap.pl
+mti.hu
+bta.bg
+agerpres.ro
+mia.mk
+srna.rs
+hina.hr
+sta.si
+apa.at
+sda.ch
+belga.be
+anp.nl
+lusa.pt
+aborrowsncia.lusa.pt
+
+# ============================================
+# MAJOR TV NETWORK NEWS DIVISIONS
+# ============================================
+abcnews.go.com
+cbsnews.com
+nbcnews.com
+foxnews.com
+cnn.com
+msnbc.com
+cnbc.com
+foxbusiness.com
+cbsnews.com/news
+today.com
+goodmorningamerica.com
+cbsmornings.com
+foxandfriends.com
+60minutes.com
+48hours.com
+dateline.com
+2020.abc.com
+nightline.com
+facethenation.com
+meetthepress.com
+foxnewssunday.com
+thisweek.abc.com
+newshour.pbs.org
+vice.com/news
+vicenews.com
+
+# ============================================
+# CABLE NEWS & COMMENTARY
+# ============================================
+cnn.com
+foxnews.com
+msnbc.com
+newsmax.com
+oann.com
+newsnation.com
+theblaze.com
+dailywire.com
+tytnetwork.com
+democracynow.org
+freespeech.org
+linktv.org
+fstv.org
+rtamerica.tv
+aljazeera.com/americas
+france24.com/en/americas
+dw.com/en/americas
+nhk.or.jp/nhkworld
+arirang.com
+cgtn.com/america
+i24news.tv
+
+# ============================================
+# PUBLIC BROADCASTING
+# ============================================
+npr.org
+pbs.org
+pri.org
+prx.org
+apmreports.org
+marketplace.org
+wnyc.org
+wbur.org
+wgbh.org
+kqed.org
+kpbs.org
+kpcc.org
+kuow.org
+opb.org
+kera.org
+wamu.org
+whyy.org
+wunc.org
+wlrn.org
+wusf.org
+wfae.org
+wmfe.org
+wjct.org
+wuft.org
+wfsu.org
+wlpb.org
+gpb.org
+wabe.org
+wpln.org
+wkno.org
+wuot.org
+wkms.org
+wfpl.org
+wvxu.org
+wosu.org
+wcpn.org
+wdet.org
+michiganradio.org
+interlochen.org
+wbez.org
+wuwm.org
+wpr.org
+mprnews.org
+iowapublicradio.org
+sdpb.org
+npr.org/stations
+kcur.org
+kwmu.org
+ktep.org
+kut.org
+houstonpublicmedia.org
+keranews.org
+kera.org
+kosu.org
+kgou.org
+knau.org
+kjzz.org
+kunm.org
+kuer.org
+wyomingpublicmedia.org
+yellowstonepublicradio.org
+mtpr.org
+boisestatepublicradio.org
+nwpr.org
+kuow.org
+opb.org
+kplu.org
+kbbi.org
+alaskapublic.org
+hpr2.org
+
+# ============================================
+# TV STATION GROUPS
+# ============================================
+# Sinclair Broadcast Group
+sbgi.net
+# Nexstar Media Group
+nexstar.tv
+# Gray Television
+gray.tv
+# Tegna
+tegna.com
+# Hearst Television
+hearst.com/broadcasting
+# Cox Media Group
+coxmediagroup.com
+# Tribune Broadcasting (now Nexstar)
+# E.W. Scripps Company
+scripps.com
+# Meredith Corporation (now Gray)
+# Graham Media Group
+grahammedia.com
+# Hubbard Broadcasting
+hubbardbroadcasting.com
+# Univision
+univision.com
+# Telemundo
+telemundo.com
+# Ion Media
+iontelevision.com
+
+# ============================================
+# LOCAL TV NEWS - TOP MARKETS
+# ============================================
+# New York
+abc7ny.com
+cbsnews.com/newyork
+nbcnewyork.com
+fox5ny.com
+pix11.com
+ny1.com
+news12.com
+
+# Los Angeles
+abc7.com
+cbsla.com
+nbclosangeles.com
+foxla.com
+ktla.com
+laist.com
+
+# Chicago
+abc7chicago.com
+cbschicago.com
+nbcchicago.com
+fox32chicago.com
+wgntv.com
+chicagotribune.com
+
+# Philadelphia
+6abc.com
+cbsphiladelphia.com
+nbcphiladelphia.com
+fox29.com
+whyy.org
+
+# Dallas-Fort Worth
+wfaa.com
+cbsdfw.com
+nbcdfw.com
+fox4news.com
+
+# San Francisco-Bay Area
+abc7news.com
+cbssf.com
+nbcbayarea.com
+ktvu.com
+kron4.com
+
+# Boston
+wcvb.com
+cbsboston.com
+nbcboston.com
+boston25news.com
+
+# Atlanta
+wsbtv.com
+cbsatlanta.com
+11alive.com
+fox5atlanta.com
+
+# Houston
+abc13.com
+khou.com
+click2houston.com
+fox26houston.com
+
+# Washington DC
+wjla.com
+wusa9.com
+nbcwashington.com
+fox5dc.com
+wtop.com
+
+# Phoenix
+abc15.com
+cbs5az.com
+12news.com
+fox10phoenix.com
+
+# Seattle
+komonews.com
+cbsseattle.com
+king5.com
+q13fox.com
+
+# Tampa
+abcactionnews.com
+baynews9.com
+wfla.com
+fox13news.com
+
+# Minneapolis
+kstp.com
+wcco.com
+kare11.com
+fox9.com
+
+# Denver
+thedenverchannel.com
+cbsdenver.com
+9news.com
+kdvr.com
+
+# Orlando
+wftv.com
+clickorlando.com
+wesh.com
+fox35orlando.com
+
+# Miami
+wsvn.com
+cbsmiami.com
+nbcmiami.com
+local10.com
+
+# Cleveland
+newsnet5.com
+fox8.com
+wkyc.com
+cleveland19.com
+
+# Sacramento
+abc10.com
+cbssacramento.com
+kcra.com
+fox40.com
+
+# St. Louis
+kmov.com
+ksdk.com
+fox2now.com
+ktvi.com
+
+# Portland OR
+katu.com
+kgw.com
+koin.com
+kptv.com
+
+# Charlotte
+wsoctv.com
+wbtv.com
+wcnc.com
+fox46.com
+
+# Pittsburgh
+wtae.com
+kdka.com
+wpxi.com
+wpgh53.com
+
+# San Diego
+10news.com
+cbs8.com
+nbcsandiego.com
+fox5sandiego.com
+
+# Baltimore
+wbaltv.com
+cbsbaltimore.com
+wbff.com
+foxbaltimore.com
+
+# Raleigh-Durham
+abc11.com
+wral.com
+wncn.com
+
+# Nashville
+newschannel5.com
+wkrn.com
+wsmv.com
+fox17.com
+
+# Salt Lake City
+abc4.com
+kutv.com
+ksl.com
+fox13now.com
+
+# San Antonio
+ksat.com
+kens5.com
+news4sanantonio.com
+
+# Kansas City
+kmbc.com
+kctv5.com
+kshb.com
+fox4kc.com
+
+# Columbus OH
+10tv.com
+nbc4i.com
+abc6onyourside.com
+
+# Milwaukee
+wisn.com
+cbs58.com
+tmj4.com
+fox6now.com
+
+# Indianapolis
+theindychannel.com
+wishtv.com
+wthr.com
+fox59.com
+
+# Austin
+kvue.com
+cbsaustin.com
+kxan.com
+fox7austin.com
+
+# Las Vegas
+ktnv.com
+8newsnow.com
+news3lv.com
+fox5vegas.com
+
+# Oklahoma City
+koco.com
+news9.com
+kfor.com
+okcfox.com
+
+# Louisville
+wlky.com
+wave3.com
+wdrb.com
+
+# Memphis
+wmcactionnews5.com
+localmemphis.com
+fox13memphis.com
+
+# New Orleans
+wdsu.com
+wwltv.com
+wvue.com
+fox8live.com
+
+# Albuquerque
+koat.com
+krqe.com
+kob.com
+
+# Tucson
+kgun9.com
+kvoa.com
+tucsonewsnow.com
+
+# Fresno
+abc30.com
+yourcentralvalley.com
+kmph.com
+
+# Birmingham
+abc3340.com
+wbrc.com
+al.com
+
+# Honolulu
+kitv.com
+khon2.com
+hawaiinewsnow.com
+
+# Omaha
+ketv.com
+wowt.com
+3newsnow.com
+
+# Buffalo
+wkbw.com
+wgrz.com
+wivb.com
+
+# Rochester
+rochesterfirst.com
+13wham.com
+whec.com
+
+# Albany NY
+news10.com
+cbs6albany.com
+wnyt.com
+
+# Providence
+wpri.com
+turnto10.com
+abc6.com
+
+# Hartford
+wtnh.com
+wfsb.com
+fox61.com
+
+# Greensboro
+wxii12.com
+wfmynews2.com
+myfox8.com
+
+# Richmond
+wric.com
+wtvr.com
+nbc12.com
+
+# Greenville-Spartanburg
+wyff4.com
+wspa.com
+foxcarolina.com
+
+# Jacksonville
+news4jax.com
+firstcoastnews.com
+actionnewsjax.com
+
+# Grand Rapids
+woodtv.com
+wzzm13.com
+fox17online.com
+
+# West Palm Beach
+wpbf.com
+cbs12.com
+wptv.com
+
+# Harrisburg
+abc27.com
+cbs21.com
+fox43.com
+
+# Norfolk
+wavy.com
+wtkr.com
+wvec.com
+
+# Tulsa
+ktul.com
+newson6.com
+fox23.com
+
+# Knoxville
+wate.com
+wbir.com
+wvlt.com
+
+# Little Rock
+katv.com
+thv11.com
+fox16.com
+
+# Lexington
+wkyt.com
+lex18.com
+wtvq.com
+
+# Dayton
+whiotv.com
+wdtn.com
+abc22now.com
+
+# Charleston WV
+wchstv.com
+wsaz.com
+wvnstv.com
+
+# Wichita
+kwch.com
+ksnw.com
+kake.com
+
+# Mobile
+wkrg.com
+wpmi.com
+fox10tv.com
+
+# Syracuse
+localsyr.com
+cnycentral.com
+yourerie.com
+
+# Des Moines
+kcci.com
+whotv.com
+weareiowa.com
+
+# Spokane
+kxly.com
+krem.com
+khq.com
+
+# Roanoke
+wsls.com
+wdbj7.com
+wfxrtv.com
+
+# Baton Rouge
+wafb.com
+wbrz.com
+theadvocate.com
+
+# # ============================================
+# DIGITAL-FIRST NEWS ORGANIZATIONS
+# ============================================
+huffpost.com
+buzzfeednews.com
+vox.com
+vice.com
+axios.com
+theintercept.com
+quartz.com
+mic.com
+ozy.com
+thedailybeast.com
+theinformation.com
+theoutline.com
+splinter news.com
+fusion.tv
+nowthisnews.com
+attn.com
+ajplus.net
+cheddar.com
+newsy.com
+scripps.com/newsy
+watchtime.com
+
+# ============================================
+# INVESTIGATIVE JOURNALISM
+# ============================================
+propublica.org
+revealnews.org
+icij.org
+publicintegrity.org
+themarkup.org
+muckrock.com
+documentcloud.org
+opensecrets.org
+followthemoney.org
+irw.org
+investigativepost.org
+wisconsinwatch.org
+texasobserver.org
+floridabulldog.org
+dcist.com
+njspotlight.com
+njspotlightnews.org
+spotlightpa.org
+ctmirror.org
+vtdigger.org
+mainebiz.biz
+nhbr.com
+ripr.org
+connecticutmirror.org
+marylandmatters.org
+virginiamercury.com
+ncpolicywatch.com
+scnow.com
+georgiarecorder.com
+floridaphoenix.com
+alreporter.com
+mississippitoday.org
+louisianaweekly.com
+arkansastimes.com
+oklahomawatch.org
+texastribune.org
+voiceofoc.org
+calmatters.org
+coloradosun.com
+nevadacurrent.com
+utahpolicy.com
+wyofile.com
+montanafreepress.org
+idahoednews.org
+oregoncapitalchronicle.com
+washingtonstatewire.com
+alaskalandmine.com
+honolulucivilbeat.org
+inewsource.org
+voiceofsandiego.org
+laist.com
+kpcc.org
+berkeleyside.org
+missionlocal.org
+sfpublicpress.org
+richmondsunlight.com
+
+# ============================================
+# NONPROFIT NEWS ORGANIZATIONS
+# ============================================
+texastribune.org
+voiceofoc.org
+calmatters.org
+coloradosun.com
+thenevadaindependent.com
+minnpost.com
+wisconsinwatch.org
+bridgemi.com
+chalkbeat.org
+the74million.org
+hechingereport.org
+hechingerreport.org
+educationweek.org
+teacherbeat.org
+stateline.org
+pewtrusts.org/stateline
+kff.org
+kaiserhealthnews.org
+khn.org
+undark.org
+insideclimatenews.org
+grist.org
+eenews.net
+climatecentral.org
+yaleclimateconnections.org
+carbonbrief.org
+desmog.com
+drilled.media
+canary media.com
+energynews.us
+electricitymap.org
+
+# ============================================
+# ALTERNATIVE & INDEPENDENT NEWS
+# ============================================
+democracynow.org
+commondreams.org
+truthout.org
+truthdig.com
+counterpunch.org
+consortiumnews.com
+alternet.org
+nationofchange.org
+popularresistance.org
+wsws.org
+peoplesworld.org
+laborpress.org
+inthesetimes.com
+jacobinmag.com
+currentaffairs.org
+dissent magazine.org
+thenation.com
+theprogressivemagazine.org
+yesmagazine.org
+utne.com
+adbusters.org
+theconsciousresistance.com
+mintpressnews.com
+theantimedia.com
+activistpost.com
+zerohedge.com
+infowars.com
+breitbart.com
+dailycaller.com
+townhall.com
+redstate.com
+hotair.com
+pjmedia.com
+twitchy.com
+ijr.com
+westernjournal.com
+thefederalist.com
+dailysignal.com
+freebeacon.com
+washingtonexaminer.com
+nationalreview.com
+americanthinker.com
+spectator.org
+americanconservative.com
+theamericanmind.org
+claremontreviewofbooks.com
+city-journal.org
+lawliberty.org
+realclearpolitics.com
+realclearinvestigations.com
+realclearmarkets.com
+realcleardefense.com
+realclearenergy.com
+realclearscience.com
+realclearpolicy.com
+
+# ============================================
+# NEWS AGGREGATORS & CURATORS
+# ============================================
+news.google.com
+news.yahoo.com
+news.bing.com
+apple.news
+flipboard.com
+feedly.com
+inoreader.com
+newsblur.com
+theoldreader.com
+feedbin.com
+netvibes.com
+protopage.com
+alltop.com
+techmeme.com
+mediagazer.com
+memeorandum.com
+longform.org
+longreads.com
+instapaper.com
+pocket.com
+readitlater.com
+refind.com
+nuzzel.com
+smartnews.com
+ground.news
+1440.com
+thenewspaper.io
+theweek.com
+theweeklylist.org
+
+# ============================================
+# ETHNIC & MULTICULTURAL PRESS
+# ============================================
+# African American
+theroot.com
+essence.com
+ebony.com
+blackenterprise.com
+bet.com
+thegrio.com
+blavity.com
+afrotech.com
+atlantablackstar.com
+amsterdamnews.com
+chicagodefender.com
+lasentinel.net
+philadelphiatribune.com
+afro.com
+call-post.com
+miamitimesonline.com
+houstondefender.com
+dallasnewsweekly.com
+stlamerican.com
+milwaukeecourierweekly.com
+detroitcourier.com
+indianapolisrecorder.com
+louisvilledefender.com
+nashavillepride.com
+birminghamtimes.com
+jacksonadvocateonline.com
+triceedneywire.com
+blackpressusa.com
+nnpa.org
+
+# Hispanic/Latino
+laopinion.com
+elpasotimes.com
+houstonchronicle.com/espanol
+dallasnews.com/espanol
+latimes.com/espanol
+sfchronicle.com/espanol
+chron.com/espanol
+azcentral.com/espanol
+chicagotribune.com/espanol
+miamiherald.com/espanol
+tampabay.com/espanol
+orlandosentinel.com/espanol
+sun-sentinel.com/espanol
+elnuevoherald.com
+diariodelasamaricas.com
+voicesofny.org
+eldiariode ny.com
+impremedia.com
+mundohispanico.com
+laprensatexas.com
+laraza.com
+eltecolote.org
+elsalvadortimes.com
+lanoticia.com
+noticiasya.com
+entravision.com
+hispanicbusiness.com
+
+# Asian American
+asianweek.com
+asianjournal.com
+asianfortunenews.com
+koreatimes.com
+koreadaily.com
+singtaousa.com
+worldjournal.com
+chinatownla.com
+angryasianman.com
+nextshark.com
+asamnews.com
+charactermedia.com
+koreaam.com
+yomyomf.com
+reappropriate.co
+colorlines.com
+
+# Native American
+indiancountrytoday.com
+nativenewsonline.net
+navajotimes.com
+indianz.com
+thecirclenews.org
+hcn.org
+narf.org/nill
+tribalnews.org
+
+# Arab American
+arabamericannews.com
+alarabiya.net/en
+middleeasteye.net
+
+# Jewish
+forward.com
+jta.org
+jewishjournal.com
+tabletmag.com
+timesofisrael.com
+haaretz.com
+jpost.com
+algemeiner.com
+jewishweek.timesofisrael.com
+
+# ============================================
+# COLLEGE & UNIVERSITY NEWS
+# ============================================
+dailycollegian.com
+thedp.com
+yaledailynews.com
+thecrimson.com
+columbiaspectator.com
+browndailyherald.com
+thedartmouth.com
+cornellsun.com
+dailyprincetonian.com
+stanforddaily.com
+dailycal.org
+dailybruin.com
+dailytrojan.com
+michigandaily.com
+badgerherald.com
+dailynorthwestern.com
+iowastatedaily.com
+collegian.psu.edu
+lantern.com
+dailyillini.com
+mndaily.com
+kansan.com
+themaneater.com
+dailynebraskan.com
+omaha.com/student
+statepress.com
+dailytexanonline.com
+dailytargum.com
+technician.ncsu.edu
+dailytarheel.com
+redandblack.com
+fsunews.com
+alligator.org
+tnhonline.com
+diamondbackonline.com
+thehoya.com
+guhoyas.com
+theduquesne.com
+pittnews.com
+heights.com
+gwhatchet.com
+huntnewsnu.com
+
+# ============================================
+# JOURNALISM ORGANIZATIONS & RESOURCES
+# ============================================
+spj.org
+asne.org
+onlinenewsassociation.org
+rtdna.org
+ap.org
+nab.org
+naa.org
+newsleaders.org
+americanpressinstitute.org
+journalism.org
+poynter.org
+niemanlab.org
+cjr.org
+ajr.org
+ire.org
+sej.org
+sabew.org
+nasw.org
+ahcj.org
+naja.com
+nlgja.org
+aaja.org
+nahj.org
+saja.org
+iwmf.org
+journalists.org
+newsguild.org
+pressfreedomfoundation.org
+rcfp.org
+splc.org
+freedomforum.org
+newsmediaalliance.org
+
+# ============================================
+# MEDIA TRADE PUBLICATIONS
+# ============================================
+niemanlab.org
+cjr.org
+poynter.org
+mediapost.com
+adweek.com
+adage.com
+campaignlive.com
+thedrum.com
+digiday.com
+mediaite.com
+tvnewser.com
+fishbowlny.com
+prnewser.com
+agencyspy.com
+broadcastingcable.com
+multichannel.com
+nexttv.com
+tvtechnology.com
+radioworld.com
+radioink.com
+insideradio.com
+allaccess.com
+talkers.com
+rbr.com
+tvspy.com
+adrants.com
+clickz.com
+marketingland.com
+searchengineland.com
+contentmarketinginstitute.com
+convinceandconvert.com
+contentlymagazine.com
+editorsweblog.org
+writersdigest.com
+publishersweekly.com
+shelfawareness.com
+bookbusiness.com
+foliomag.com
+minonline.com
+publishingexecutive.com
+printingimpressions.com
+
+# ============================================
+# RADIO NETWORKS & SYNDICATORS
+# ============================================
+iheartmedia.com
+cumulus.com
+entercom.com
+townsquaremedia.com
+beasley.com
+salemcommunications.com
+emmis.com
+entravision.com
+spanishbroadcastingsystem.com
+univision.com/radio
+westwood one.com
+premiere networks.com
+abc.radio.com
+cbs.radio.com
+nbcnews.radio.com
+foxnewsradio.com
+apradio.com
+npr.org
+pri.org
+prx.org
+marketplace.org
+americanpublicmedia.org
+wnyc.org
+wbez.org
+kcrw.com
+kpcc.org
+kqed.org
+kuow.org
+opb.org
+wgbh.org
+wbur.org
+whyy.org
+wamu.org
+wunc.org
+mprnews.org
+
+# ============================================
+# PODCAST NETWORKS
+# ============================================
+gimletmedia.com
+stitcher.com
+acast.com
+libsyn.com
+podbean.com
+anchor.fm
+buzzsprout.com
+simplecast.com
+transistor.fm
+captivate.fm
+spreaker.com
+blubrry.com
+podomatic.com
+podiant.co
+whooshkaa.com
+omny.fm
+megaphone.fm
+art19.com
+tritondigital.com
+midroll.com
+podcast one.com
+wondery.com
+theringer.com/podcasts
+slate.com/podcasts
+vox.com/podcasts
+nytimes.com/podcasts
+washingtonpost.com/podcasts
+npr.org/podcasts
+cnn.com/audio
+foxnews.com/podcasts
+espn.com/podcasts
+theatlantic.com/podcasts
+newyorker.com/podcasts
+
+# ============================================
+# NEWSLETTER PLATFORMS & PUBLISHERS
+# ============================================
+substack.com
+ghost.org
+buttondown.email
+revue.co
+beehiiv.com
+convertkit.com
+mailchimp.com
+getresponse.com
+constantcontact.com
+campaign monitor.com
+sendinblue.com
+mailerlite.com
+aweber.com
+drip.com
+activecampaign.com
+klaviyo.com
+hubspot.com/email
+marketo.com
+pardot.com
+eloqua.com
+responsys.com
+sailthru.com
+iterable.com
+braze.com
+onesignal.com
+pusher.com
+pubnub.com
+
+# Notable Substack Newsletters
+newsletter.pragmaticengineer.com
+platformer.news
+stratechery.com
+seths.blog
+waitbutwhy.com
+marginalrevolution.com
+astral codexten.substack.com
+slowboring.com
+noahpinion.substack.com
+mattyglesias.substack.com
+bariweiss.substack.com
+andrewsullivan.substack.com
+taibbi.substack.com
+glenngroonwald.substack.com
+unreported truths.substack.com
+jessesingal.substack.com
+freddiedeboer.substack.com
+scottaaronson.blog
+overcomingbias.com
+lesswrong.com
+slatestarcodex.com
+acx.substack.com
+doomberg.substack.com
+theovershoot.co
+chartbooksubstack.com
+adamtooze.substack.com
+noemamag.com
+
+# ============================================
+# NEWS STARTUPS & DIGITAL VENTURES
+# ============================================
+axios.com
+theinfo.com
+theinformation.com
+semafor.com
+puck.news
+notus.org
+messenger.com
+thenevadaindependent.com
+borderlandbeat.com
+bellingcat.com
+popularinfo.substack.com
+heathercoxrichardson.substack.com
+simonwilliamson.substack.com
+kottke.org
+daringfireball.net
+boingboing.net
+metafilter.com
+fark.com
+slashdot.org
+arstechnica.com
+theverge.com
+vox.com
+recode.net
+qz.com
+protocol.com
+restofworld.org
+coda story.com
+opendemocracy.net
+globalvoices.org
+witness.org
+newlines mag.com
+bulwark.com
+dispatch.com
+persuasion.community
+arcdigital.media
+merionwest.com
+quillette.com
+areomagazine.com
+heterodoxacademy.org
+
+# ============================================
+# WEATHER NEWS
+# ============================================
+weather.com
+accuweather.com
+wunderground.com
+weathernation.com
+weather.gov
+noaa.gov
+nhc.noaa.gov
+spc.noaa.gov
+tornadohq.com
+ustornadoes.com
+severestudios.com
+stormtrack.org
+extremeplanet.me
+earthsky.org
+spaceweather.com
+spaceweatherlive.com
+solarham.net
+watchers.news
+
+# ============================================
+# TRAFFIC & TRANSPORTATION NEWS
+# ============================================
+thetransportpolitic.com
+streetsblog.org
+usa.streetsblog.org
+nyc.streetsblog.org
+la.streetsblog.org
+sf.streetsblog.org
+chi.streetsblog.org
+dc.streetsblog.org
+mass.streetsblog.org
+cal.streetsblog.org
+transitcenter.org
+humantransit.org
+citylab.com
+strongtowns.org
+smartgrowthamerica.org
+t4america.org
+transalt.org
+bikeportland.org
+streetfilms.org
+nacto.org
+apta.com
+railpassengers.org
+amtrakmag.com
+
+# ============================================
+# CRIME & PUBLIC SAFETY NEWS
+# ============================================
+policeone.com
+officer.com
+lawenforcementtoday.com
+calibrepress.com
+policechiefmagazine.org
+policing.com
+corrections1.com
+firerescue1.com
+ems1.com
+firehouse.com
+fireengineering.com
+jems.com
+hstoday.us
+emergencymgmt.com
+govtech.com/em
+disastersnews.com
+crimeresearch.org
+thetrace.org
+gunviolencearchive.org
+
+# ============================================
+# OBITUARIES & MEMORIALS
+# ============================================
+legacy.com
+tributearchive.com
+findagrave.com
+billiongraves.com
+obituaries.com
+echovita.com
+dignitymemorial.com
+neptunesociety.com
+everplans.com
+joincake.com
+everdays.com
+memories.net
+forevermissed.com
+remembered.com
+ilasting.com
+funeralinnovations.com
+
+# ============================================
+# FACT-CHECKING EXPANDED
+# ============================================
+snopes.com
+factcheck.org
+politifact.com
+washingtonpost.com/news/fact-checker
+nytimes.com/spotlight/fact-checks
+apnews.com/APFactCheck
+reuters.com/fact-check
+bbc.com/news/reality_check
+fullfact.org
+leadstories.com
+checkyourfact.com
+truthorfiction.com
+hoax-slayer.net
+factcheckni.org
+africacheck.org
+chequeado.com
+maldita.es
+newtral.es
+correctiv.org
+mimikama.at
+nieuwscheckers.nl
+factuel.afp.com
+stopfake.org
+bellingcat.com
+forensic-architecture.org
+
+# ============================================
+# PRESS FREEDOM & MEDIA DEFENSE
+# ============================================
+pressfreedomtracker.us
+cpj.org
+rsf.org
+freedomhouse.org
+pen.org
+article19.org
+freepressunlimited.org
+mediadefence.org
+rcfp.org
+splc.org
+studentpress.org
+firstamendmentcoalition.org
+newsleaders.org
+nppa.org
+asmp.org
+freelancersunion.org
+authorsgguild.org
+pen.org
+writersunion.ca
+societyofauthors.org
+
+# ============================================
+# COURT & LEGAL NEWS
+# ============================================
+scotusblog.com
+courthousenews.com
+lawandcrime.com
+law360.com
+law.com
+abajournal.com
+justia.com
+findlaw.com
+oyez.org
+uscourts.gov
+fjc.gov
+pacer.gov
+courtlistener.com
+casetext.com
+leagle.com
+justicia.com
+casemine.com
+vlex.com
+fastcase.com
+lexisnexis.com
+westlaw.com
+bloomberglaw.com
+
+# ============================================
+# GOVERNMENT & POLITICS NEWS
+# ============================================
+politico.com
+thehill.com
+rollcall.com
+cqrollcall.com
+nationaljournal.com
+govexec.com
+federaltimes.com
+fcw.com
+nextgov.com
+meritalk.com
+defenseone.com
+routefifty.com
+governing.com
+statescoop.com
+edscoop.com
+cyberscoop.com
+fedscoop.com
+workscoop.com
+ballotpedia.org
+votesmart.org
+opensecrets.org
+followthemoney.org
+maplight.org
+govtrack.us
+congress.gov
+whitehouse.gov
+state.gov
+justice.gov
+treasury.gov
+defense.gov
+energy.gov
+epa.gov
+hhs.gov
+ed.gov
+dot.gov
+dhs.gov
+dol.gov
+hud.gov
+interior.gov
+usda.gov
+commerce.gov
+va.gov
+sba.gov
+opm.gov
+gsa.gov
+ssa.gov
+gao.gov
+cbo.gov
+federalregister.gov
+regulations.gov
+usa.gov
+data.gov
+
+# ============================================
+# ECONOMICS & POLICY NEWS
+# ============================================
+brookings.edu
+urban.org
+rand.org
+cfr.org
+csis.org
+carnegieendowment.org
+wilsoncenter.org
+hoover.org
+heritage.org
+cato.org
+aei.org
+manhattan-institute.org
+newamerica.org
+demos.org
+epi.org
+cbpp.org
+taxpolicycenter.org
+taxfoundation.org
+nber.org
+federalreserve.gov
+bls.gov
+bea.gov
+census.gov
+imf.org
+worldbank.org
+oecd.org
+wto.org
+piie.com
+voxeu.org
+econlib.org
+marginalrevolution.com
+freakonomics.com
+conversableeconomist.com
+calculatedriskblog.com
+nakedcapitalism.com
+wolfstreet.com
+mishtalk.com
+ritholtz.com
+thereformedbroker.com
+
+# ============================================
+# ELECTION & VOTING NEWS
+# ============================================
+fivethirtyeight.com
+electoral-vote.com
+270towin.com
+electionlab.mit.edu
+electproject.org
+democracydocket.com
+brennancenter.org
+fairvote.org
+votingrightslab.org
+campaignlegalcenter.org
+electionline.org
+verifiedvoting.org
+eac.gov
+ncsl.org/elections
+nass.org
+sos.state.(various)
+vote.org
+vote.gov
+ballotpedia.org
+ballotready.org
+isidewith.com
+votesaveamerica.com
+headcount.org
+rockthevote.org
+whenweallvote.org
+morethanvote.org
+fairfight.com
+staceyabrams.com
+letamericavote.org
+priorities.org
+actblue.com
+winred.com
+opensecrets.org
+fec.gov
+
+# ============================================
+# ALTERNATIVE WEEKLY NEWSPAPERS
+# ============================================
+villagevoice.com
+laweekly.com
+sfweekly.com
+eastbayexpress.com
+ocweekly.com
+sdcitybeat.com
+phoenixnewtimes.com
+westword.com
+dallasobserver.com
+houstonpress.com
+sacurrent.com
+austinchronicle.com
+riverfronttimes.com
+pitch.com
+chicagoreader.com
+clevescene.com
+metrotimes.com
+citypages.com
+isthmus.com
+shepherdexpress.com
+columbusalive.com
+cincinnatimagazine.com
+indyweek.com
+creativeloafing.com
+orlandoweekly.com
+tampabaynewtimes.com
+miaminewtimes.com
+browardpalmbeach.com
+jacksonvilleweekly.com
+nashvillescene.com
+memphisflyer.com
+gambitweekly.com
+arkansastimes.com
+okgazette.com
+alibi.com
+tucsonweekly.com
+saltlakecityweekly.com
+boiseweekly.com
+seattleweekly.com
+portlandmercury.com
+eugeneweekly.com
+sfbayguardian.com
+northcoastjournal.com
+montereyweekly.com
+pasadenaweekly.com
+larecord.com
+atlantamagazine.com/atlanta-magazine
+boulderweekly.com
+nuvo.net
+styleweekly.com
+c-ville.com
+washingtoncitypaper.com
+philadelphiaweekly.com
+bostonstudio.com
+providencephoenix.com
+hartfordadvocate.com
+newhavenadvocate.com
+worcestermag.com
+sevennightsvt.com
+thestranger.com
+willamette week.com
+
+# ============================================
+# BUSINESS JOURNALS BY CITY
+# ============================================
+bizjournals.com
+bizjournals.com/newyork
+bizjournals.com/losangeles
+bizjournals.com/chicago
+bizjournals.com/dallas
+bizjournals.com/houston
+bizjournals.com/washington
+bizjournals.com/philadelphia
+bizjournals.com/atlanta
+bizjournals.com/boston
+bizjournals.com/phoenix
+bizjournals.com/sanfrancisco
+bizjournals.com/sanjose
+bizjournals.com/seattle
+bizjournals.com/minneapolis
+bizjournals.com/denver
+bizjournals.com/stlouis
+bizjournals.com/tampa
+bizjournals.com/baltimore
+bizjournals.com/sandiego
+bizjournals.com/charlotte
+bizjournals.com/pittsburgh
+bizjournals.com/portland
+bizjournals.com/sacramento
+bizjournals.com/orlando
+bizjournals.com/cleveland
+bizjournals.com/columbus
+bizjournals.com/indianapolis
+bizjournals.com/sanantonio
+bizjournals.com/austin
+bizjournals.com/cincinnati
+bizjournals.com/kansascity
+bizjournals.com/milwaukee
+bizjournals.com/nashville
+bizjournals.com/jacksonville
+bizjournals.com/memphis
+bizjournals.com/louisville
+bizjournals.com/oklahomacity
+bizjournals.com/hartford
+bizjournals.com/neworleans
+bizjournals.com/buffalo
+bizjournals.com/saltlakecity
+bizjournals.com/birmingham
+bizjournals.com/richmond
+bizjournals.com/albany
+bizjournals.com/hawaii
+bizjournals.com/triad
+bizjournals.com/triangle
+bizjournals.com/southflorida
+bizjournals.com/eastbay
+bizjournals.com/dayton
+bizjournals.com/wichita
+bizjournals.com/albuquerque
+bizjournals.com/tampabay
+crainschicago.com
+crainsnewyork.com
+crainsdetroit.com
+crainscleveland.com
+
+# ============================================
+# HYPERLOCAL NEWS NETWORKS
+# ============================================
+patch.com
+patch.com/new-york
+patch.com/new-jersey
+patch.com/connecticut
+patch.com/massachusetts
+patch.com/california
+patch.com/illinois
+patch.com/pennsylvania
+patch.com/texas
+patch.com/florida
+patch.com/virginia
+patch.com/maryland
+patch.com/georgia
+patch.com/ohio
+patch.com/michigan
+patch.com/arizona
+patch.com/colorado
+patch.com/washington
+patch.com/minnesota
+patch.com/north-carolina
+tapinto.net
+dailyvoice.com
+lohud.com
+northjersey.com
+app.com
+mycentraljersey.com
+dailyrecord.com
+courierpostonline.com
+burlingtoncountytimes.com
+buckscountycouriertimes.com
+delawareonline.com
+ydr.com
+eveningsun.com
+ldnews.com
+publicopiniononline.com
+therecordherald.com
+echo-pilot.com
+greencastlerecordherald.com
+waynesboroday.com
+shipbg.com
+gettysburgtimes.com
+hanaborrowsveningstar.com
+thesentinel.com
+caborrowslisle.com
+
+# ============================================
+# LABOR & UNION NEWS
+# ============================================
+labornotes.org
+paydayreport.com
+inthesetimes.com
+jacobinmag.com
+thelaborpress.org
+laborpress.org
+workdayminnesota.org
+nwlaborpress.org
+thestand.org
+aflcio.org/blog
+seiu.org/blog
+ufcw.org/press
+teamster.org/news
+ibew.org/media-center
+ua.org/news
+iuoe.org/news
+liuna.org/news
+nabtu.org/news
+smart-union.org/news
+afscme.org/blog
+aft.org/news
+nea.org/advocating-for-change
+unite here.org/press
+workerscenter.org
+nelp.org/blog
+epi.org/blog
+clasp.org/publications
+economicpolicy.org
+prosperitynow.org
+newamerica.org/work-workers-technology
+
+# ============================================
+# ENVIRONMENTAL NEWS EXPANDED
+# ============================================
+insideclimatenews.org
+grist.org
+eenews.net
+climatecentral.org
+yaleclimateconnections.org
+carbonbrief.org
+desmog.com
+drilled.media
+canarymedia.com
+energynews.us
+renewableenergyworld.com
+greentechmedia.com
+cleantechnica.com
+electrek.co
+sierraclub.org/sierra
+earthisland.org/journal
+onearth.org
+ensia.com
+mongabay.com
+treehugger.com
+mnn.com
+earthjustice.org/blog
+nrdc.org/stories
+environmentaldefensefund.org/blog
+nature.org/stories
+worldwildlife.org/stories
+oceanconservancy.org/blog
+surfrider.org/news
+350.org/blog
+greenpeace.org/usa/news
+foodandwaterwatch.org
+ewg.org/news-insights
+centerforfoodsafety.org
+organicconsumers.org
+rodaleinstitute.org
+beyondpesticides.org
+panna.org
+biologicaldiversity.org/news
+defenders.org/newsroom
+audubon.org/news
+birdsandblooms.com
+allaboutbirds.org/news
+ebird.org/news
+americanforests.org
+rainforest-alliance.org
+ran.org
+amazonwatch.org
+pachamama.org
+standearth.org
+forestethics.org
+dogwoodalliance.org
+southernenvironment.org
+appvoices.org
+earthworksaction.org
+minesandcommunities.org
+oilwatchinternational.org
+globalwitness.org
+banktrack.org
+rfrjewelry.com
+
+# ============================================
+# EDUCATION NEWS EXPANDED
+# ============================================
+educationweek.org
+edweek.org
+the74million.org
+chalkbeat.org
+hechingerreport.org
+edsurge.com
+insidehighered.com
+chronicle.com
+diverseeducation.com
+educationdive.com
+k12dive.com
+higheredjobs.com
+academicjobs.wikia.org
+edsource.org
+laschoolreport.com
+the notebook.org
+phillyvoice.com/education
+chalkbeat.org/chicago
+chalkbeat.org/colorado
+chalkbeat.org/detroit
+chalkbeat.org/indiana
+chalkbeat.org/newark
+chalkbeat.org/newyork
+chalkbeat.org/philadelphia
+chalkbeat.org/tennessee
+tnledger.com/editorial/education
+texastribune.org/education
+voiceofoc.org/education
+calmatters.org/education
+laist.com/news/education
+kqed.org/education
+wbez.org/education
+wnyc.org/education
+stlpublicradio.org/education
+michiganradio.org/education
+mprnews.org/education
+learningpolicyinstitute.org
+americanprogress.org/education
+brookings.edu/topic/education
+urban.org/policy-centers/cross-center-initiatives/education
+rand.org/education
+ewa.org
+nassp.org
+naesp.org
+ascd.org
+aasa.org
+nsba.org
+ccsso.org
+nga.org/education
+ncsl.org/research/education
+ecs.org
+
+# ============================================
+# HEALTHCARE NEWS EXPANDED
+# ============================================
+statnews.com
+khn.org
+modernhealthcare.com
+healthcaredive.com
+beckershospitalreview.com
+fiercehealthcare.com
+healthaffairs.org
+commonwealthfund.org
+kff.org
+healthleadersmedia.com
+hcinnovationgroup.com
+healthitanalytics.com
+ehrintelligence.com
+healthcareitnews.com
+himss.org/news
+chime.org/news
+healthdatamanagement.com
+medcitynews.com
+mobihealthnews.com
+healthcarefinancenews.com
+revcycleintelligence.com
+healthpayerintelligence.com
+pharmavoice.com
+pharmexec.com
+fiercepharma.com
+fiercebiotech.com
+biopharmadive.com
+genengnews.com
+biotechniques.com
+the-scientist.com
+sciencemag.org/news
+nature.com/news
+cell.com/cell/news
+nejm.org/medical-news
+jamanetwork.com/journals/jama/news
+thelancet.com/news
+bmj.com/news
+aafp.org/news
+aamc.org/news
+aha.org/news
+cms.gov/newsroom
+hhs.gov/about/news
+fda.gov/news-events
+cdc.gov/media
+nih.gov/news-events
+samhsa.gov/newsroom
+ahrq.gov/news
+jointcommission.org/resources/news
+leapfroggroup.org/news
+consumerreports.org/health
+webmd.com/news
+healthline.com/health-news
+medicalnewstoday.com
+healio.com
+medpagetoday.com
+medscape.com/news
+physiciansweekly.com
+mdlinx.com
+doximity.com/news
+kevinmd.com
+healthcareblog.com
+gooznews.com
+healthnewsreview.org
+
+# ============================================
+# CYBERSECURITY NEWS
+# ============================================
+krebsonsecurity.com
+schneier.com
+darkreading.com
+threatpost.com
+securityweek.com
+scmagazine.com
+csoonline.com
+infosecurity-magazine.com
+bleepingcomputer.com
+hackernews.cc
+thehackernews.com
+securityaffairs.co
+cyberscoop.com
+cybersecuritydive.com
+securityintelligence.com
+helpnetsecurity.com
+bankinfosecurity.com
+healthcareinfosecurity.com
+govinfosecurity.com
+databreachtoday.com
+inforisktoday.com
+cuinfosecurity.com
+ismgcorp.com
+nakedsecurity.sophos.com
+blog.malwarebytes.com
+welivesecurity.com
+blog.talosintelligence.com
+unit42.paloaltonetworks.com
+securelist.com
+blog.checkpoint.com
+fireeye.com/blog
+crowdstrike.com/blog
+sentinelone.com/blog
+cybereason.com/blog
+elastic.co/blog/category/security
+splunk.com/blog/security
+rapid7.com/blog
+tenable.com/blog
+qualys.com/blog
+beyondtrust.com/blog
+cyberark.com/blog
+sailpoint.com/blog
+okta.com/blog
+duo.com/blog
+proofpoint.com/us/blog
+mimecast.com/blog
+barracuda.com/blog
+fortinet.com/blog
+cisco.com/c/en/us/products/security/blog
+juniper.net/us/en/security
+f5.com/labs
+akamai.com/blog
+cloudflare.com/blog
+zscaler.com/blogs
+paloaltonetworks.com/blog
+
+# ============================================
+# PRIVACY & SURVEILLANCE NEWS
+# ============================================
+eff.org/deeplinks
+aclu.org/news
+epic.org/news
+accessnow.org/blog
+privacyinternational.org/news
+theintercept.com/privacy-surveillance
+techdirt.com
+torrentfreak.com
+vice.com/en/topic/privacy
+wired.com/tag/privacy
+nytimes.com/topic/subject/privacy
+washingtonpost.com/privacy
+theguardian.com/world/privacy
+arstechnica.com/tag/privacy
+theregister.com/security
+themarkup.org/privacy
+protocol.com/privacy
+restofworld.org/privacy
+404media.co
+cdt.org/insights
+fightforthefuture.org/news
+demandprogress.org/news
+openrightsgroup.org/blog
+globalnetworkinitiative.org/news
+ranking digitalrights.org/news
+
+# ============================================
+# AI & MACHINE LEARNING NEWS
+# ============================================
+aiweekly.co
+artificialintelligence-news.com
+aitopics.org/news
+aitrends.com
+analyticsinsight.net
+analyticsvidhya.com/blog
+datasciencecentral.com
+dataversity.net
+informationweek.com/ai-machine-learning
+infoworld.com/category/artificial-intelligence
+kdnuggets.com
+machinelearningmastery.com/blog
+marktechpost.com
+medium.com/tag/artificial-intelligence
+mit.edu/research/artificial-intelligence
+mitsloan.mit.edu/ideas-made-to-matter/artificial-intelligence
+openai.com/blog
+deepmind.com/blog
+ai.google/research
+ai.facebook.com/blog
+aws.amazon.com/blogs/machine-learning
+cloud.google.com/blog/products/ai-machine-learning
+azure.microsoft.com/en-us/blog/tag/ai
+developer.nvidia.com/blog
+venturebeat.com/ai
+wired.com/tag/artificial-intelligence
+theverge.com/ai-artificial-intelligence
+technologyreview.com/artificial-intelligence
+spectrum.ieee.org/tag/artificial-intelligence
+nature.com/natmachintell
+arxiv.org/list/cs.AI
+paperswithcode.com
+huggingface.co/blog
+towardsdatascience.com
+synced.review
+jack-clark.net
+importai.net
+lastweekin.ai
+theaipodcast.com
+thegradient.pub
+distill.pub
+bair.berkeley.edu/blog
+ainowinstitute.org
+
+# ============================================
+# DEVELOPER & PROGRAMMING NEWS
+# ============================================
+hackernews.ycombinator.com
+news.ycombinator.com
+reddit.com/r/programming
+dev.to
+hashnode.com
+medium.com/tag/programming
+freecodecamp.org/news
+css-tricks.com
+smashingmagazine.com
+sitepoint.com
+scotch.io
+tutorialspoint.com/articles
+geeksforgeeks.org
+stackoverflow.blog
+github.blog
+gitlab.com/blog
+bitbucket.org/blog
+atlassian.com/blog
+jetbrains.com/blog
+visualstudiomagazine.com
+infoq.com
+dzone.com
+theserverside.com
+javaworld.com
+javacodegeeks.com
+baeldung.com
+spring.io/blog
+kotlinlang.org/blog
+swift.org/blog
+developer.apple.com/news
+android-developers.googleblog.com
+developer.chrome.com/blog
+blog.chromium.org
+blog.mozilla.org
+webkit.org/blog
+nodejs.org/blog
+npmjs.com/blog
+yarnpkg.com/blog
+deno.land/blog
+bun.sh/blog
+rust-lang.org/blog
+go.dev/blog
+python.org/blogs
+pypi.org/blog
+rubygems.org/blog
+rubyonrails.org/blog
+elixir-lang.org/blog
+erlang.org/news
+haskell.org/news
+fsharp.org/news
+dotnet.microsoft.com/blog
+typescriptlang.org/blog
+reactjs.org/blog
+vuejs.org/blog
+angular.io/blog
+svelte.dev/blog
+nextjs.org/blog
+remix.run/blog
+astro.build/blog
+solidjs.com/blog
+qwik.builder.io/blog
+htmx.org/essays
+alpinejs.dev/blog
+tailwindcss.com/blog
+
+# ============================================
+# DEVOPS & CLOUD NEWS
+# ============================================
+devops.com
+thenewstack.io
+containerjournal.com
+kubernetes.io/blog
+docker.com/blog
+hashicorp.com/blog
+terraform.io/blog
+ansible.com/blog
+puppet.com/blog
+chef.io/blog
+saltstack.com/blog
+prometheus.io/blog
+grafana.com/blog
+datadog.com/blog
+newrelic.com/blog
+dynatrace.com/news/blog
+appdynamics.com/blog
+splunk.com/blog
+elastic.co/blog
+mongodb.com/blog
+redis.com/blog
+postgresql.org/about/news
+mysql.com/news-and-events
+mariadb.com/resources/blog
+cockroachlabs.com/blog
+timescale.com/blog
+influxdata.com/blog
+clickhouse.com/blog
+snowflake.com/blog
+databricks.com/blog
+confluent.io/blog
+apache.org/foundation/news
+spark.apache.org/news
+kafka.apache.org/blog
+airflow.apache.org/blog
+beam.apache.org/blog
+flink.apache.org/news
+pulsar.apache.org/blog
+aws.amazon.com/blogs
+cloud.google.com/blog
+azure.microsoft.com/blog
+digitalocean.com/blog
+linode.com/blog
+vultr.com/blog
+render.com/blog
+fly.io/blog
+railway.app/blog
+vercel.com/blog
+netlify.com/blog
+cloudflare.com/blog
+fastly.com/blog
+akamai.com/blog
+bunny.net/blog
+keycdn.com/blog
+stackpath.com/blog
+
+# ============================================
+# STARTUP & VC NEWS
+# ============================================
+techcrunch.com/startups
+venturebeat.com/category/entrepreneur
+pando.com
+strictlyvc.com
+fortune.com/venture
+forbes.com/venture-capital
+pitchbook.com/news
+crunchbase.com/news
+cbinsights.com/research
+mattermark.com
+angellist.com/blog
+ycombinator.com/blog
+a16z.com/blog
+sequoiacap.com/articles
+accel.com/noteworthy
+indexventures.com/perspectives
+greylock.com/greymatter
+benchmark.com/blog
+bessemer.com/blog
+generalcatalyst.com/perspectives
+nea.com/blog
+kleinerperkins.com/perspectives
+lightspeedvp.com/blog
+firstround.com/review
+usv.com/blog
+foundersfund.com/blog
+socialcapital.com/annual-letters
+initialized.com/blog
+combinator.com/library
+visible.vc/blog
+carta.com/blog
+strikethrough.vc
+bothsidesofthetable.com
+avc.com
+feld.com
+cdixon.org
+paulgraham.com
+samaltman.com
+balajis.com
+naval.ravikant.com
+andrewchen.com
+lennysnewsletter.com
+stratechery.com
+benthompson.com
+
+# ============================================
+# REAL ESTATE NEWS BY MARKET
+# ============================================
+therealdeal.com
+therealdeal.com/new-york
+therealdeal.com/la
+therealdeal.com/miami
+therealdeal.com/chicago
+therealdeal.com/texas
+commercialobserver.com
+bisnow.com
+bisnow.com/new-york
+bisnow.com/los-angeles
+bisnow.com/chicago
+bisnow.com/washington-dc
+bisnow.com/boston
+bisnow.com/atlanta
+bisnow.com/dallas-ft-worth
+bisnow.com/houston
+bisnow.com/san-francisco
+bisnow.com/seattle
+bisnow.com/denver
+bisnow.com/philadelphia
+bisnow.com/south-florida
+globest.com
+costar.com/news
+creconsult.net
+connectcre.com
+rejournals.com
+cpexecutive.com
+multi-housingnews.com
+rebusinessonline.com
+france-medianetwork.com
+rew-online.com
+nyrej.com
+marej.com
+nerej.com
+heartlandrealestatebiz.com
+rebusinessonline.com/southeast
+rebusinessonline.com/midwest
+rebusinessonline.com/southwest
+rebusinessonline.com/west
+rebusinessonline.com/northeast
+housingwire.com
+inman.com
+realtrends.com
+tomferry.com/blog
+theclose.com
+geekestateblog.com
+retipster.com
+biggerpockets.com/blog
+
+# ============================================
+# FOOD & RESTAURANT INDUSTRY
+# ============================================
+restaurantbusinessonline.com
+nrn.com
+qsrmagazine.com
+fsrmagazine.com
+pizzatoday.com
+restauranthospitality.com
+foodservicedirector.com
+fesmag.com
+foodmanagement.com
+foodservice.com
+nationsrestaurantnews.com
+skift.com/table
+modernrestaurantmanagement.com
+restaurantowner.com
+backofhouse.io
+pos.toasttab.com/blog
+opentable.com/blog
+yelp.com/restaurant-owners
+ubereats.com/restaurant/blog
+doordash.com/merchant/blog
+grubhub.com/merchant/blog
+postmates.com/merchant
+seamless.com/merchant
+caviar.com/merchant
+deliveroo.co.uk/merchant
+justeat.co.uk/blog
+woltmerchants.com/blog
+rappi.com/blog
+ifood.com.br/blog
+swiggy.com/blog
+zomato.com/blog
+foodontv.com
+starchefs.com
+toquemag.com
+chefsfeed.com
+eater.com/archives/chefs
+foodandwine.com/chefs
+bonappetit.com/people
+saveur.com/tags/chefs
+
+# ============================================
+# RETAIL & CONSUMER GOODS
+# ============================================
+retaildive.com
+retailwire.com
+nrf.com/blog
+chainstoreage.com
+risnews.com
+totalretail.com
+retailtouchpoints.com
+modernretail.co
+retailbrew.com
+grocerydive.com
+supermarketnews.com
+progressivegrocer.com
+winsightgrocerybusiness.com
+theshelbyreport.com
+storemagazine.com
+apparelnews.net
+wwd.com
+footwearnews.com
+businessoffashion.com
+glossy.co
+2pminc.com
+voguebusiness.com
+drapersotonline.com
+retailgazette.co.uk
+chargedretail.co.uk
+essentialretail.com
+just-style.com
+just-food.com
+cosmeticsdesign.com
+cosmeticsbusiness.com
+beautyindependent.com
+beautypackaging.com
+happi.com
+gcimagazine.com
+perfumerflavorist.com
+packagedesignmag.com
+printedelectronicsnow.com
+packworld.com
+fooddive.com
+bevnet.com
+brewbound.com
+winebusiness.com
+spiritsbusiness.com
+thedrinksbusiness.com
+barmagazine.co.uk
+classmagazine.co.uk
+imbibemagazine.com
+punchdrink.com
+
+# ============================================
+# HOSPITALITY & TRAVEL INDUSTRY
+# ============================================
+skift.com
+phocuswire.com
+travelweekly.com
+travelpulse.com
+ttgmedia.com
+travelmarketreport.com
+travelandtouristworld.com
+hotelnewsnow.com
+hotelbusiness.com
+hotelmanagement.net
+hotelsmag.com
+hospitalitynet.org
+hospitalitytech.com
+hotelexecutive.com
+htrends.com
+lodgingmagazine.com
+aaborrowshla.com
+hotelnewsresource.com
+hotelinteractive.com
+traveldailynews.com
+eturbonews.com
+webintravel.com
+chinaaviationdaily.com
+aviationweek.com
+flightglobal.com
+routesonline.com
+airlinegeeks.com
+paddleyourownkanoo.com
+viewfromthewing.com
+thepointsguy.com
+onemileatatime.com
+liveandletsfly.com
+upgradedpoints.com
+frequentmiler.com
+milestomemories.com
+doctorofcredit.com
+uponarriving.com
+turningleftforless.com
+headforpoints.com
+insideflyer.com
+flyertalk.com/forum
+milecards.com
+awardwallet.com/blog
+
+# ============================================
+# SPORTS LEAGUES & ORGANIZATIONS
+# ============================================
+nfl.com
+nba.com
+mlb.com
+nhl.com
+mls.com
+wnba.com
+nwsl.com
+xfl.com
+usfl.com
+cfl.ca
+aaf.com
+milb.com
+g-league.nba.com
+echl.com
+ahl.com
+uslsoccer.com
+nisa-soccer.com
+npsl.com
+nasl.com
+masl.com
+pga.com
+lpga.com
+pgatour.com
+europeantour.com
+masters.com
+usopen.com
+theopen.com
+rfrjournal.com
+atptour.com
+wtatennis.com
+itftennis.com
+ausopen.com
+rolandgarros.com
+wimbledon.com
+usopen.org
+ufc.com
+bellator.com
+pfl.com
+onechampionship.com
+boxingscene.com
+wbcboxing.com
+wbaboxing.com
+ibf-usba-boxing.com
+wboboxing.com
+toprank.com
+matchroomboxing.com
+pbcboxing.com
+goldenboy.com
+nascar.com
+indycar.com
+formula1.com
+motogp.com
+supercross.com
+ama-d36.org
+usacycling.org
+ustriathlon.org
+usaswimming.org
+usagym.org
+usatf.org
+usaboxing.org
+usawrestling.org
+usfencing.org
+usrowing.org
+ussailing.org
+usskiandsnowboard.org
+usaspeedskating.org
+usacurling.org
+usahockey.com
+usafigureskating.org
+usashooting.org
+usarchery.org
+usaweightlifting.org
+usavolleyball.org
+usawaterski.org
+usasurfing.org
+usaclimbing.org
+usaskateboarding.org
+olympicchannel.com
+teamusa.org
+usopc.org
+paralympic.org
+specialolympics.org
+ncaa.com
+ncaa.org
+naia.org
+njcaa.org
+
+# ============================================
+# COLLEGE SPORTS
+# ============================================
+espn.com/college-football
+espn.com/college-basketball
+espn.com/college-sports
+cbssports.com/college-football
+cbssports.com/college-basketball
+foxsports.com/college-football
+foxsports.com/college-basketball
+nbcsports.com/college-football
+nbcsports.com/college-basketball
+247sports.com
+rivals.com
+scout.com
+on3.com
+si.com/college
+theathletic.com/college-football
+theathletic.com/college-basketball
+saturdaydownsouth.com
+saturdaytradition.com
+rockytoptalk.com
+rollbamaroll.com
+dawgsports.com
+garnetandblackattack.com
+teamspeedkills.com
+alligatorarmy.com
+rockmnation.com
+footballstudyhall.com
+bcinterruption.com
+cardchronicle.com
+cardiachill.com
+fromtherumbles.com
+vuhoops.com
+streakingthelawn.com
+smokingmusket.com
+addictedtoquack.com
+buildingthedam.com
+ruleoftree.com
+californiagoldenblogs.com
+cougcenter.com
+uwdawgpound.com
+pacificmediagroup.com
+gobigbluecountry.com
+aseaofblue.com
+onthebanks.com
+blackshoediaries.com
+offtackleempire.com
+landgrantholyland.com
+elevenwarriors.com
+maizeandblue.com
+buckys5thquarter.com
+insidenu.com
+blackheartgoldpants.com
+cornnation.com
+widerightnattylite.com
+bringonthecats.com
+rockchalk.com
+frogsowar.com
+bloggingtheboys.com
+goodbullhunting.com
+burntorangenation.com
+barkingroyaldogs.com
+cowboysrideforfree.com
+okctoday.com
+crimsonandcreammachine.com
+soonerscoop.com
+pistolsfiringblog.com
+blocku.com
+rfrjournalism.com
+houseofsparky.com
+cougcenter.com
+vanquishthefoe.com
+blocku.com
+buildingthedam.com
+
+# ============================================
+# FANTASY SPORTS & BETTING
+# ============================================
+espn.com/fantasy
+cbssports.com/fantasy
+sports.yahoo.com/fantasy
+nfl.com/fantasy
+nba.com/fantasy
+mlb.com/fantasy
+nhl.com/fantasy
+fantasypros.com
+rotowire.com
+rotoworld.com
+rotogrinders.com
+numberfire.com
+lineups.com
+4for4.com
+footballguys.com
+pff.com/fantasy
+thefantasyfootballers.com
+rfrfantasyfootball.com
+actionnetwork.com
+covers.com
+oddsshark.com
+vegasinsider.com
+sportsbookreview.com
+bettingpros.com
+pickswise.com
+scoresandodds.com
+linestarapp.com
+draftkings.com
+fanduel.com
+betmgm.com
+caesars.com/sportsbook
+pointsbet.com
+barstoolsportsbook.com
+wynnbet.com
+bet365.com
+williamhill.com
+betfair.com
+paddypower.com
+unibet.com
+betway.com
+888sport.com
+bwin.com
+betvictor.com
+marathonbet.com
+sportingbet.com
+pinnacle.com
+betonline.ag
+bovada.lv
+mybookie.ag
+intertops.eu
+
+# ============================================
+# ESPORTS EXPANDED
+# ============================================
+esportsinsider.com
+esportsobserver.com
+dotesports.com
+dexerto.com
+invenglobal.com
+win.gg
+upcomer.com
+ginx.tv
+esportsheaven.com
+vpesports.com
+afkgaming.com
+sportskeeda.com/esports
+thegamer.com/tag/esports
+gamerant.com/tag/esports
+pcgamesn.com/esports
+rockpapershotgun.com/esports
+eurogamer.net/esports
+kotaku.com/tag/esports
+polygon.com/esports
+theverge.com/esports
+wired.com/tag/esports
+cnet.com/tags/esports
+espn.com/esports
+washingtonpost.com/video-games
+nytimes.com/topic/subject/esports
+bbc.com/news/topics/cvenzmgz7jpt/esports
+skysports.com/esports
+reuters.com/esports
+bloomberg.com/esports
+forbes.com/esports
+businessinsider.com/esports
+cnbc.com/esports
+sportico.com/esports
+sportsbusinessjournal.com/esports
+liquipedia.net
+esportspedia.com
+leaguepedia.com
+dotaprotracker.com
+hltv.org
+vlr.gg
+over.gg
+gol.gg
+lol.fandom.com
+valorant.fandom.com
+dota2.fandom.com
+cs.fandom.com
+smash.gg
+start.gg
+challonge.com
+toornament.com
+battlefy.com
+faceit.com
+esea.net
+esl.com
+blast.tv
+pgl.com
+weplay.tv
+rfrjesports.com
+
+# ============================================
+# LUXURY & HIGH-END LIFESTYLE
+# ============================================
+robbreport.com
+luxurymagazine.com
+elitetraveler.com
+hauteliving.com
+thedupontregistry.com
+jamesedition.com
+luxuryproperty.com
+sothebysrealty.com
+christiesrealestate.com
+engelvol kers.com
+knightfrank.com
+savills.com
+luxuryportfolio.com
+coldwellbankerluxury.com
+berkshirehathawayhs.com
+compassrealestate.com
+elliman.com
+corcoran.com
+brownharrisstevens.com
+halstead.com
+warburgrealty.com
+stribling.com
+townresidential.com
+lesliegarfield.com
+vanderbilt-appraisal.com
+millersamuel.com
+archdigest.com
+elledecor.com
+veranda.com
+departures.com
+townandcountrymag.com
+vanityfair.com
+harpersbazaar.com
+vogue.com
+wmagazine.com
+interviewmagazine.com
+papermag.com
+dujour.com
+gotham-magazine.com
+angeleno.com
+hamptons-magazine.com
+oceandrivemagmag.com
+modernluxury.com
+luxurydaily.com
+jingdaily.com
+businessoffashion.com
+wwd.com
+footwearnews.com
+hodinkee.com
+watchtime.com
+ablogtowatch.com
+fratellowatches.com
+watchonista.com
+monochrome-watches.com
+revolutionwatch.com
+watchesbysjx.com
+quillandpad.com
+deployant.com
+
+# ============================================
+# WATCHES & JEWELRY INDUSTRY
+# ============================================
+hodinkee.com
+watchtime.com
+ablogtowatch.com
+fratellowatches.com
+watchonista.com
+monochrome-watches.com
+revolutionwatch.com
+watchesbysjx.com
+quillandpad.com
+deployant.com
+watchpaper.com
+kahuna.guru
+professionalwatches.com
+europeanwatch.com
+jckonline.com
+nationaljeweler.com
+instore.com
+rapaport.com
+diamonds.net
+idexonline.com
+jewellerynet.com
+professionaljeweller.com
+jewelleryoutlook.com
+jewellermagazine.com
+jewellerybusiness.com
+jewelrynewsasia.com
+jewelleryworld.com
+gjepc.org
+srijewellery.com
+jnawards.com
+couturelasvegas.com
+jcklasvegas.com
+nycjewelryweek.com
+vicenzaoro.com
+baselworld.com
+watchesandwonders.com
+sihh.org
+hodinkee.com/events
+
+# ============================================
+# ART MARKET & AUCTIONS
+# ============================================
+artnet.com/auctions
+artsy.net/auctions
+christies.com
+sothebys.com
+phillips.com
+bonhams.com
+heritage.com
+ha.com
+juliens auctions.com
+rfrjauctions.com
+skinnerinc.com
+freemansauction.com
+doyle.com
+swanngalleries.com
+lesliehindman.com
+cowansauctions.com
+copleyart.com
+eldreds.com
+garths.com
+riponforum.org
+antiquetrader.com
+maineanitquedigest.com
+collectorsweekly.com
+kovels.com
+worthpoint.com
+liveauctioneers.com
+invaluable.com
+bidsquare.com
+artfixdaily.com
+artdaily.cc
+artnewspaper.com
+artforum.com
+artnews.com
+artreview.com
+frieze.com
+hyperallergic.com
+artcritical.com
+brooklynrail.org
+artpulsemagazine.com
+whitehot magazine.com
+artsyshark.com
+artbusiness.com
+artmarketmonitor.com
+arttactic.com
+artprice.com
+artmarketresearch.com
+tefaf.com/tefafstories
+artbasel.com/stories
+theartnewspaper.com
+apollo-magazine.com
+aestheticamagazine.com
+
+# ============================================
+# ANTIQUES & COLLECTIBLES
+# ============================================
+antiquetrader.com
+antiquesandthearts.com
+maineantiquedigest.com
+artandantiquesmag.com
+collectorsweekly.com
+kovels.com
+worthpoint.com
+invaluable.com
+liveauctioneers.com
+bidsquare.com
+rubylane.com
+1stdibs.com
+chairish.com
+viyet.com
+incollect.com
+the hoarde.com
+sellingantiques.co.uk
+antiques-atlas.com
+proantic.com
+anticstore.com
+antiquesnavigator.com
+trocadero.com
+goantiques.com
+antiquesonold-plank.com
+rfrjantiques.com
+skinner.com/blog
+doylenewyork.com/blog
+cowans.com/blog
+bonhams.com/magazine
+christies.com/features
+sothebys.com/en/articles
+phillips.com/article
+heritage.com/blog
+
+# ============================================
+# NUMISMATICS (COINS)
+# ============================================
+ngccoin.com
+pcgs.com
+cointalk.com
+coinworld.com
+numismaticnews.net
+coinnews.net
+coinweek.com
+cointrackers.com
+coincommunity.com
+usacoinbook.com
+cointalk.com
+coincollector.org
+numismaster.com
+numismaticsonline.com
+coinsandmedals.org
+americannumismatic.org
+money.org
+coinclub.com
+ccgroup.com
+davidlawrence.com
+legend numismatics.com
+stacksbowers.com
+greatcollections.com
+ha.com/coins
+apmex.com
+jmbullion.com
+sdbullion.com
+goldsilver.com
+monex.com
+kitco.com
+
+# ============================================
+# PHILATELY (STAMPS)
+# ============================================
+linns.com
+stampworld.com
+stampcommunity.org
+stampboards.com
+americanphilatelic.org
+stamps.org
+mysticstamp.com
+stanleygibbons.com
+sifrjegelsam mlarna.se
+briefmarken.de
+stampmagazine.co.uk
+gibbons stampmonthly.com
+stampnews.com
+philatelicexporter.com
+allaboutstamps.co.uk
+crafts4kids.co.uk/stamp-collecting
+wnsstamps.post
+colnect.com/stamps
+hipstamp.com
+delcampe.net
+stampworld.com
+ebay.com/b/Stamps
+usps.com/shop/collectors
+royalmail.com/stamps
+canadapost.ca/shop/collecting
+
+# ============================================
+# MEMORABILIA & COLLECTIBLES
+# ============================================
+psacard.com
+beckett.com
+cardboardconnection.com
+blowoutcards.com
+sportscollectorsdaily.com
+sportsmemorabilia.com
+pristineauction.com
+goldinauctions.com
+heritagesports.com
+lelands.com
+scp auctions.com
+greyx.com
+memrabilia.com
+raremaps.com
+antiquehelper.com
+figurerealm.com
+toyworth.com
+bbtoystore.com
+entertainmentearth.com
+bigbadtoystore.com
+toywiz.com
+sideshowtoy.com
+hottoys.com.hk
+gentlegiantltd.com
+ironsstudios.com
+primeone.com
+queen studios.com
+blitzway.com
+damtoys.com
+easy and simple.com
+
+# ============================================
+# DIY & MAKER MOVEMENT
+# ============================================
+makezine.com
+hackaday.com
+instructables.com
+hackster.io
+adafruit.com
+sparkfun.com
+seeedstudio.com
+dfrobot.com
+arduino.cc/blog
+raspberrypi.com/news
+beagleboard.org/blog
+particle.io/blog
+tessel.io/blog
+resin.io/blog
+balena.io/blog
+platformio.org/blog
+kicad.org/blog
+fritzing.org/blog
+eaglecad.com/blog
+altium.com/blog
+circuitmaker.com/blog
+easyeda.com/blog
+upverter.com/blog
+oshpark.com/blog
+pcbway.com/blog
+jlcpcb.com/blog
+seeedstudio.com/blog
+digikey.com/blog
+mouser.com/blog
+newark.com/blog
+adafruit.com/blog
+sparkfun.com/news
+hackaday.io
+element14.com/community
+allaboutcircuits.com
+electronics-tutorials.ws
+circuitdigest.com
+electronicshub.org
+electronicsnotes.com
+learningaboutelectronics.com
+electronicsclub.info
+electronicspoint.com
+electropages.com
+electronicdesign.com
+
+# ============================================
+# 3D PRINTING
+# ============================================
+3dprint.com
+3dprintingindustry.com
+3dprintingmedia.network
+all3dp.com
+3ders.org
+3dprinting.com
+aniwaa.com
+3dprintboard.com
+fabbaloo.com
+3dprinter.net
+3dprintforums.com
+simplify3d.com/blog
+ultimaker.com/blog
+prusa3d.com/blog
+creality.com/blog
+anycubic.com/blog
+flashforge.com/blog
+formlabs.com/blog
+markforged.com/blog
+carbon3d.com/blog
+hp.com/3dprint
+stratasys.com/blog
+3dsystems.com/blog
+desk topmetal.com/blog
+xjet3d.com/blog
+eos.info/blog
+slm-solutions.com/blog
+trumpf.com/blog
+dmgmori.com/blog
+additivemanufacturing.com
+rapidreadymfg.com
+sme.org/am
+amug.com/blog
+tctmagazine.com
+
+# ============================================
+# DRONES & UNMANNED SYSTEMS
+# ============================================
+dronedj.com
+dronelife.com
+thedronegirl.com
+droneblog.com
+uavcoach.com/blog
+dronerush.com
+dronethusiast.com
+mydronelab.com
+dronezon.com
+halfchrome.com
+droneflyers.com
+rcgroups.com/forums/forumdisplay.php?f=702
+rfrjdrones.com
+fpvknowitall.com
+getfpv.com/blog
+racedayquads.com/blog
+rotorbuilds.com
+oscarliang.com
+propwashed.com
+airbornevelocity.com
+dronebelow.com
+commercialdroneprofessional.com
+suasnews.com
+insideunmannedsystems.com
+unmannedairspace.info
+droneanalyst.com
+droneii.com
+aaborrowsssa.org/drones
+faa.gov/uas
+easa.europa.eu/drones
+casa.gov.au/drones
+
+# ============================================
+# VR/AR/XR
+# ============================================
+uploadvr.com
+roadtovr.com
+vrscout.com
+vrfocus.com
+virtualrealitytimes.com
+vrandfun.com
+immersivetech.co
+thevirtualreport.biz
+vrroom.buzz
+arvrtips.com
+xrtoday.com
+aaborrowsrsxr.org/blog
+immersivelearning.news
+trainingxrmagazine.com
+greenlight insights.com/blog
+superdata-research.com/blog
+digi-capital.com/blog
+techcrunch.com/tag/virtual-reality
+theverge.com/vr-virtual-reality
+polygon.com/virtual-reality
+cnet.com/topics/virtual-reality
+wired.com/tag/virtual-reality
+venturebeat.com/tag/virtual-reality
+engadget.com/tag/virtual-reality
+mashable.com/category/virtual-reality
+oculus.com/blog
+meta.com/blog/quest
+htc.com/vive/blog
+playstation.com/en-us/ps-vr
+valve.com/index
+pico-interactive.com/blog
+varjo.com/blog
+magicleap.com/blog
+microsoft.com/hololens/blog
+nreal.ai/blog
+snapchat.com/lens-studio/news
+spark.meta.com/blog
+8thwall.com/blog
+zappar.com/blog
+blippar.com/blog
+wikitude.com/blog
+vuforia.com/blog
+arkit.dev/blog
+arcore.dev/blog
+webxr.dev/blog
+aframe.io/blog
+babylonjs.com/blog
+unity.com/blog
+unrealengine.com/blog
+
+# ============================================
+# SMART HOME & IOT
+# ============================================
+smarthomebeginner.com
+the-ambient.com
+smarthome.com/blog
+homeautomationblog.com
+automatedhome.co.uk
+homealarmreport.com
+safewise.com/blog
+security.org/blog
+iotforall.com
+iot-now.com
+iottechnews.com
+iotworld today.com
+iotworldtoday.com
+embedded.com/iot
+electronicdesign.com/iot
+edn.com/iot
+eetimes.com/iot
+semiengineering.com/iot
+allaboutcircuits.com/iot
+hackernoon.com/tagged/iot
+medium.com/tag/iot
+dzone.com/iot
+infoworld.com/iot
+networkworld.com/iot
+techrepublic.com/iot
+zdnet.com/iot
+cnet.com/home/smart-home
+theverge.com/smart-home
+wired.com/tag/smart-home
+engadget.com/tag/smart-home
+tomsguide.com/smart-home
+techhive.com/smart-home
+pcmag.com/smart-home
+cio.com/iot
+computerworld.com/iot
+informationweek.com/iot
+forbes.com/iot
+businessinsider.com/iot
+reuters.com/iot
+bloomberg.com/iot
+mckinsey.com/iot
+gartner.com/iot
+forrester.com/iot
+idc.com/iot
+
+# ============================================
+# GENEALOGY & ANCESTRY
+# ============================================
+ancestry.com/blog
+familysearch.org/blog
+myheritage.com/blog
+findmypast.com/blog
+23andme.com/blog
+ancestrydna.com/blog
+familytreedna.com/blog
+gedmatch.com/blog
+geni.com/blog
+wikitree.com/blog
+billiongraves.com/blog
+findagrave.com/blog
+newspapers.com/blog
+fold3.com/blog
+archives.com/blog
+genealogybank.com/blog
+genealogy.com/blog
+cyndislist.com
+familysearch.org/wiki
+rootsweb.ancestry.com
+genealogybeginner.com
+thegenealogyguide.com
+genealogyintime.com
+familytreemagazine.com
+internet genealogy.com
+your genealogist.com
+dearmyrtle.com
+amyjohnsoncrow.com
+lisalouisecooke.com
+genealogygems.com
+legacyfamilytree.com
+rootstech.org
+fgsconference.org
+ngsgenealogy.org
+americanancestors.org
+nehgs.org
+ancestry.com/corporate
+
+# ============================================
+# DISABILITY & ACCESSIBILITY MEDIA
+# ============================================
+disabilityscoop.com
+newmobility.com
+abilitymag.com
+disabilityvisibilityproject.com
+rootedinrights.org
+respectability.org
+ncd.gov
+ada.gov
+adata.org
+askjan.org
+abilitymagazine.com
+disabledworld.com
+disabled-world.com
+specialolympics.org
+paralympic.org
+wheelchairjunkie.com
+spinlife.com/blog
+unitedspinal.org
+christopherreeve.org
+brainandspinalcord.org
+spinalcord.org
+msaa.com
+nationalmssociety.org
+michaeljfox.org
+alsa.org
+mda.org
+blindnewsworld.com
+afb.org
+nfb.org
+acb.org
+hadley.edu
+perkins.org
+deafnewstoday.com
+nad.org
+gallaudet.edu/news
+hearingloss.org
+asha.org
+autism.org
+autismspeaks.org
+autisticadvocacy.org
+autism-society.org
+chadd.org
+ldaamerica.org
+understood.org
+ncld.org
+dyslexiaida.org
+interdys.org
+nichcy.org
+parentcenterhub.org
+wrightslaw.com
+copaa.org
+dredf.org
+ndrn.org
+disabilityrightsca.org
+disabilityrightstx.org
+
+# ============================================
+# MENTAL HEALTH MEDIA
+# ============================================
+psychologytoday.com
+psychiatrictimes.com
+psychiatryadvisor.com
+mdedge.com/psychiatry
+psychcentral.com
+mentalhealthamerica.net
+nami.org
+samhsa.gov
+nimh.nih.gov
+psychiatry.org
+apa.org
+aacap.org
+adaa.org
+anxietycanada.com
+beyondblue.org.au
+mentalhealth.gov
+mhanational.org
+bbrfoundation.org
+afsp.org
+suicidepreventionlifeline.org
+988lifeline.org
+crisistextline.org
+thetrevorproject.org
+jfrjed.org
+activeminds.org
+bringchange2mind.org
+makeitok.org
+childmind.org
+youngminds.org.uk
+headsupguys.org
+manup.org.au
+movember.com/mental-health
+strongmindsinitiative.org
+verywellmind.com
+healthyplace.com
+helpguide.org
+theconversation.com/mental-health
+themighty.com
+healthline.com/mental-health
+medicalnewstoday.com/mental-health
+webmd.com/mental-health
+mayoclinic.org/mental-health
+nytimes.com/mental-health
+
+# ============================================
+# ADDICTION & RECOVERY MEDIA
+# ============================================
+thefix.com
+drugabuse.gov
+niaaa.nih.gov
+aa.org
+na.org
+smartrecovery.org
+hazeldenbettyford.org
+caron.org
+recoverycentersofamerica.com
+americanaddictioncenters.org
+drugrehab.com
+addiction.com
+addictioncenter.com
+drugabuse.com
+rehabs.com
+alcohol.org
+projectknow.com
+sobernation.com
+workit.health/blog
+monumentrecovery.com/blog
+recoveryanswers.org
+recovery.org
+recoveryresearch.org
+facesandvoicesofrecovery.org
+recoveryanswers.org
+drugfree.org
+phoenixhouse.org
+gateway.org
+centeronaddiction.org
+drugpolicy.org
+leap.cc
+mpp.org
+norml.org
+maps.org
+
+# ============================================
+# NONPROFIT & PHILANTHROPY
+# ============================================
+philanthropy.com
+ssir.org
+nonprofitquarterly.org
+nonprofitaf.com
+blueavocado.org
+nonprofitpro.com
+thenonprofittimes.com
+nonprofithub.org
+boardsource.org
+councilofnonprofits.org
+independentsector.org
+foundationsource.com
+cof.org
+philanthropy roundtable.org
+givingusa.org
+candid.org
+guidestar.org
+charitynavigator.org
+givewell.org
+thelifeyoucansave.org
+givingwhatwecan.org
+effectivealtruism.org
+80000hours.org
+openphilanthropy.org
+gatesfoundation.org
+fordfoundation.org
+rockefellerfoundation.org
+macfound.org
+hewlett.org
+packard.org
+moore.org
+arnoldfoundation.org
+omidyar.com
+skoll.org
+schwabfound.org
+ashokachangemakers.org
+echoing green.org
+newprofit.org
+socialenterprise.us
+bcorporation.net
+
+# ============================================
+# SERVICE INDUSTRY TRADES - HVAC
+# ============================================
+achrnews.com
+hvacrnews.com
+hvacinformed.com
+contractormag.com
+pmmag.com
+supplyht.com
+hpacmag.com
+coolingpost.com
+refrigerationworld.com
+ashrae.org/news
+acca.org
+phccweb.org
+mcaa.org
+smacna.org
+sheetmetaljournal.com
+
+# ============================================
+# SERVICE INDUSTRY TRADES - PLUMBING
+# ============================================
+plumbermag.com
+plumbingandhvac.ca
+phcppros.com
+reaborrowsder.com/plumbing
+plumbingperspective.com
+supplyht.com
+pmmag.com
+contractormag.com
+aspe.org
+iapmo.org
+phccweb.org
+ua.org
+plumberslocal1.org
+
+# ============================================
+# SERVICE INDUSTRY TRADES - ELECTRICAL
+# ============================================
+ecmag.com
+ecmweb.com
+electricalcontractor.com
+tedmag.com
+ewweb.com
+electricaltrendstoday.com
+neca-neis.org
+ibew.org
+nfpa.org/electrical
+esfi.org
+mikeholt.com
+jadelearning.com
+
+# ============================================
+# SERVICE INDUSTRY TRADES - ROOFING
+# ============================================
+roofingcontractor.com
+roofingmagazine.com
+professionalroofing.net
+roofingelementsmagazine.com
+metalroofing.com
+metalconstructionnews.com
+nrca.net
+roofcoatings.org
+spri.org
+mrca.org
+frsa.org
+crca.org
+wsrca.com
+
+# ============================================
+# SERVICE INDUSTRY TRADES - FLOORING
+# ============================================
+floordaily.net
+flooringinsite.com
+floortrends.com
+floorcoveringweekly.com
+floorfocus.com
+flooringamerica.com/blog
+nwfa.org
+fcica.com
+starnetflooring.com
+fuse-flooring.com
+fcits.org
+nalfa.com
+tilemagazine.co.uk
+
+# ============================================
+# SERVICE INDUSTRY TRADES - PEST CONTROL
+# ============================================
+pctonline.com
+mypmp.net
+pestcontrolmag.com
+pestworld.org
+npmapc.org
+npic.orst.edu
+epa.gov/pest-control
+beyondpesticides.org
+
+# ============================================
+# SERVICE INDUSTRY TRADES - CLEANING/JANITORIAL
+# ============================================
+cleanlink.com
+cmmonline.com
+aborrowsssaclean.org
+bscai.org
+arcsi.org
+issa.com/blog
+facilitiesnet.com
+cleanfax.com
+iicrc.org
+restorationindustry.org
+
+# ============================================
+# SERVICE INDUSTRY TRADES - LANDSCAPING
+# ============================================
+landscapemanagement.net
+lawnandlandscape.com
+greenindustrypros.com
+totallandscapecare.com
+prosalesmagazine.com
+turf.com
+golfcourseindustry.com
+sportsturfonline.com
+nalp.org
+landscapeprofessionals.org
+planetmembergroups.org
+opei.org
+tcia.org
+treesaregood.org
+
+# ============================================
+# SERVICE INDUSTRY TRADES - POOL & SPA
+# ============================================
+poolspanews.com
+aquamagazine.com
+poolandspanews.com
+watershapes.com
+poolpromagazine.com
+apsp.org
+ipssa.com
+nespa.org
+fspa.com
+phta.org
+
+# ============================================
+# SERVICE INDUSTRY TRADES - SECURITY/ALARM
+# ============================================
+securityinfowatch.com
+sdmmag.com
+securitysystemsnews.com
+asisonline.org
+esaweb.org
+siaonline.org
+aloa.org
+savta.org
+cedia.net
+nsca.org
+
+# ============================================
+# SELF-STORAGE INDUSTRY
+# ============================================
+insideselfstorage.com
+ministoragemessenger.com
+selfstoragemag.com
+sparefoot.com/self-storage/blog
+ssaorg.org
+nssa-selfstorage.org
+selfstorage.org
+storable.com/blog
+
+# ============================================
+# MOVING & RELOCATION INDUSTRY
+# ============================================
+movingcompanyreports.com
+amsa.com
+promover.org
+iam.com
+fidi.org
+hhgfaa.org
+moversonthemove.com
+mymovingreviews.com
+moving.com/blog
+
+# ============================================
+# FUNERAL INDUSTRY TRADE
+# ============================================
+funeralserviceinsider.com
+connectingdirectors.com
+funeralbusinessadvisor.com
+americanfuneraldirector.com
+icfaonline.com
+nfda.org
+iccfa.com
+cremationassociation.org
+selectedfuneralhomes.org
+fsimed.com
+
+# ============================================
+# VETERINARY INDUSTRY
+# ============================================
+dvm360.com
+veterinarypracticenews.com
+veterinarynews.com
+avma.org/javma-news
+todaysveterinarypractice.com
+todaysveterinarybusiness.com
+veterinaryteambrief.com
+cliniciansbrief.com
+vetfolio.com
+veterinaryhospitaldesign.com
+vettechsnet.com
+navta.net
+aahanet.org
+aaha.org/publications
+
+# ============================================
+# DENTAL INDUSTRY
+# ============================================
+dentistrytoday.com
+dentistryiq.com
+dentaleconomics.com
+rdhmag.com
+dentistrytoday.com
+dentalproductsreport.com
+aegisdentalnetwork.com
+perio.org
+ada.org/publications
+agd.org
+aacd.com
+aapd.org
+aae.org
+prosthodontics.org
+dentaltown.com
+dentalxp.com
+
+# ============================================
+# OPTICAL/EYEWEAR INDUSTRY
+# ============================================
+visionmonday.com
+eyecarebusiness.com
+2020mag.com
+reviewofoptometry.com
+reviewofophthalmology.com
+optometrytimes.com
+ophthalmologytimes.com
+aao.org/eyenet
+aoa.org/publications
+theviscouncil.org
+visioncouncil.org
+thevisioncare institute.com
+clspectrum.com
+contactlensupdate.com
+
+# ============================================
+# ACCOUNTING & BOOKKEEPING
+# ============================================
+journalofaccountancy.com
+accountingtoday.com
+cpapracticeadvisor.com
+accountingweb.com
+goingconcern.com
+cpajournal.com
+cpatrendlines.com
+firmofthefuture.com
+insightfulaccountant.com
+aicpa.org/news
+calcpa.org
+nysscpa.org
+txcpa.org
+accounting.com
+accountant-directory.com
+
+# ============================================
+# HR & RECRUITING INDUSTRY
+# ============================================
+shrm.org/hr-today
+hrdive.com
+hrmagazine.co.uk
+hrmorning.com
+hrbartender.com
+tlnt.com
+eaborrowsrehouse.net
+recruitingdaily.com
+sourcecon.com
+ere.net
+recruitingblogs.com
+hireright.com/blog
+jobvite.com/blog
+greenhouse.io/blog
+lever.co/blog
+workable.com/blog
+indeed.com/lead
+linkedin.com/talent-blog
+glassdoor.com/employers/blog
+ziprecruiter.com/blog
+hired.com/blog
+workforce.com
+workforce50.com
+taleo.com/blog
+workday.com/blog
+adp.com/spark
+paychex.com/articles
+gusto.com/blog
+
+# ============================================
+# PAYROLL INDUSTRY
+# ============================================
+payroll.org
+americanpayroll.org
+payrollorg.org
+businesssolver.com/blog
+paylocity.com/resources
+paycom.com/resources
+paycor.com/resource-center
+ultimatesoftware.com/blog
+ceaborrowsridian.com/blog
+
+# ============================================
+# SMALL BUSINESS (NON-TECH)
+# ============================================
+sba.gov/blog
+score.org/blog
+nfib.com/content
+uschamber.com/small-business
+nawbo.org
+smallbusinessmajority.org
+smallbiztrends.com
+smallbizdaily.com
+allbusiness.com
+businessnewsdaily.com
+fundera.com/blog
+nav.com/blog
+kabbage.com/blog
+ondeck.com/resources
+lendio.com/blog
+biz2credit.com/blog
+streetlightmag.org
+mainstreet.org
+ilsr.org
+amiba.net
+localistchoices.org
+civiceconomics.com
+smallbusinesssaturday.us
+
+# ============================================
+# FRANCHISE INDUSTRY
+# ============================================
+franchising.com
+franchisebusinessreview.com
+franchisetimes.com
+franchisewire.com
+thefranchiseking.com
+franchisedirect.com
+franchisegator.com
+entrepreneur.com/franchises
+franchise.org
+bluemauifuneral.com
+frannet.com
+franchisegrade.com
+franchisehelp.com
+franchising.com
+multiunitfranchisee.com
+franchisingworld.com
+qsrmagazine.com/franchising
+franbest.com
+
+# ============================================
+# ECOMMERCE SELLERS
+# ============================================
+# Amazon Sellers
+junglescout.com/blog
+helium10.com/blog
+sellerlabs.com/blog
+sellercentral.amazon.com/forums
+webretailer.com
+ecomcrew.com
+amazingsellingmachine.com/blog
+feedbackexpress.com/blog
+feedbackwhiz.com/blog
+amzscout.net/blog
+
+# eBay Sellers
+community.ebay.com
+tamebay.com
+crazylister.com/blog
+salehoo.com/blog
+dsm.com/blog
+
+# Etsy Sellers
+etsyforums.com
+etsyrank.com/blog
+marmalead.com/blog
+handmadeology.com
+craftprofessional.com
+creativeincomeblog.com
+
+# General eCommerce
+ecommercefuel.com
+practicalecommerce.com
+geteyeopener.com
+digitalcommerce360.com
+shopify.com/blog
+bigcommerce.com/blog
+woocommerce.com/blog
+magentoassociation.org
+adobecommerce.com/blog
+oberlo.com/blog
+spocket.co/blog
+salehoo.com/blog
+cjdropshipping.com/blog
+
+# ============================================
+# PERSONAL FINANCE NICHES
+# ============================================
+# Couponing & Deals
+thekrazycouponlady.com
+coupons.com/blog
+retailmenot.com/blog
+slickdeals.net/blog
+dealnews.com
+bfrjentsheets.com
+hip2save.com
+moneysavingmom.com
+southernsavers.com
+passionatepennypincher.com
+couponmom.com
+couponersunited.com
+
+# Frugality
+thesimpledollar.com
+frugalwoods.com
+budgetsaresexy.com
+clevergirlfinance.com
+thefrugalgirl.com
+goodcheapeats.com
+tightwadgazette.com
+dontwasteyourmoney.com
+choosingvoluntarysimplicity.com
+
+# FIRE Movement
+mrmoneymustache.com
+madfientist.com
+financialsamurai.com
+earlyretirementextreme.com
+retireby40.org
+gocurrycracker.com
+livingafi.com
+rootofgood.com
+physicianonfire.com
+whitecoatinvestor.com
+1500days.com
+esimoney.com
+millionaireeducator.com
+chooseguyfi.com
+firetheigamilg.com
+ourfirepath.com
+
+# Student Finance
+studentaid.gov
+finaid.org
+savingforcollege.com
+scholarships.com
+fastweb.com
+cappex.com
+collegeabacus.org
+edvisors.com
+studentloanborrowersistance.org
+studentloanhero.com
+credible.com/blog
+sofi.com/blog
+commonbond.co/blog
+earnest.com/blog
+
+# ============================================
+# ACADEMIC & SCHOLARLY
+# ============================================
+nature.com
+sciencemag.org
+cell.com
+thelancet.com
+nejm.org
+bmj.com
+jamanetwork.com
+pnas.org
+plos.org
+frontiersin.org
+mdpi.com
+springer.com
+wiley.com
+tandfonline.com
+sagepub.com
+elsevier.com
+cambridge.org
+oxfordjournals.org
+iopscience.iop.org
+acs.org
+rsc.org
+asm.org
+aip.org
+aps.org
+ieee.org/publications
+acm.org/publications
+arxiv.org
+ssrn.com
+researchgate.net
+academia.edu
+jstor.org
+projectmuse.org
+ebscohost.com
+proquest.com
+scholarlycommons.law.northwestern.edu
+bepress.com
+scholarsphere.psu.edu
+
+# ============================================
+# ENGINEERING TRADES
+# ============================================
+# Civil Engineering
+asce.org/cemagazine
+enr.com
+structuremag.org
+concreteconstruction.net
+roadsbridges.com
+stormh2o.com
+waterinfrastructure.org
+civilengineeringcpe.com
+
+# Mechanical Engineering
+asme.org/topics-resources/society-news/asme-news
+machinedesign.com
+designnews.com
+assemblymag.com
+sme.org
+techbriefs.com
+designworldonline.com
+
+# Electrical Engineering
+ieee.org/publications
+edn.com
+eetimes.com
+electronicdesign.com
+powerelectronics.com
+ecmweb.com
+
+# Chemical Engineering
+chemengonline.com
+aiche.org/chenected
+chemicalprocessing.com
+processingmagazine.com
+
+# Structural Engineering
+structuremag.org
+aisc.org/modernsteel
+concreteinternational.com
+pci.org
+
+# Environmental Engineering
+ewri.org
+aeesp.org
+wef.org
+
+# ============================================
+# AV & PRODUCTION INDUSTRY
+# ============================================
+# Pro Audio
+prosoundweb.com
+mixonline.com
+soundonsound.com
+audiomediainternational.com
+prosoundnetwork.com
+livedesignonline.com
+fohonline.com
+prosoundeurope.com
+plsn.com
+avnetwork.com
+systemscontractor.com
+commercialintegrator.com
+cepro.com
+residentialsystems.com
+installationinternational.com
+inavateonthenet.net
+avinteractive.com
+ravepubs.com
+svconline.com
+tfwm.com
+audioxpress.com
+proaudioreview.com
+recordingmag.com
+eaborrowsrmusician.com
+tapeo.com
+sweetwater.com/insync
+musicradar.com/pro
+
+# Lighting
+lightingandsoundamerica.com
+plsn.com
+lightsoundjournal.com
+livedesignonline.com
+ledsmagazine.com
+architecturallighting.com
+iesna.org
+ila-online.org
+usitt.org
+etcp.esta.org
+
+# Live Events
+eventindustrynews.com
+specialevents.com
+eventmarketer.com
+bizbash.com
+eventbrite.com/blog
+cvent.com/en/blog
+meetingsnet.com
+successfulmeetings.com
+pcmaconvene.org
+mpi.org
+ilea.com
+nace.net
+ises.com
+
+# Post-Production
+postmagazine.com
+postperspective.com
+studiodaily.com
+creativeplanetnetwork.com
+shootonline.com
+below-the-line.com
+productionhub.com
+
+# VFX
+vfxvoice.com
+befores-and-afters.com
+fxguide.com
+cgw.com
+3dartistonline.com
+artofvfx.com
+iamag.co
+
+# ============================================
+# SPA/SALON/BEAUTY TRADE
+# ============================================
+# Spa Industry
+americanspa.com
+dayspamagazine.com
+skincarebuisnessguide.com
+dermascope.com
+lesnouvellesesesthetiques.com
+americaspa.com
+spatrade.com
+ispaconference.com
+
+# Salon Industry
+modernsalon.com
+americansalon.com
+salontoday.com
+behindthechair.com
+bangstyle.com
+beautylaunchpad.com
+miladypro.com
+probeauty.org
+salonownersummit.com
+pfrjessionalbeauty.org
+
+# Barbering
+barbersinctv.com
+barberbusiness.com
+officialbarberjean.com
+barberevo.com
+thebarbermagazine.co.uk
+internationalbarbers.com
+
+# Nail Industry
+nailsmag.com
+nailpro.com
+scratchmagazine.co.uk
+nailit.com
+
+# Tattoo Industry
+inkedmag.com
+tattooartistmagazine.com
+tattoodo.com
+askguy.com
+painfulpleasures.com/blog
+
+# ============================================
+# FITNESS INDUSTRY TRADE
+# ============================================
+clubindustry.com
+ihrsa.org/publications
+athleticbusiness.com
+fitnessbusinesscanada.com
+welcoapublishing.com
+ideafit.com
+aaborrowssmtrademedia.com
+perf ormancehealth.com
+personaltrainerdevelopmentcenter.com
+theptdc.com
+nasm.org/resources
+acsm.org/blog
+nsca.com/education
+acefitness.org/resources
+afaa.com
+canfitpro.com
+
+# Gym/Health Club
+clubsolutionsmagazine.com
+fitnessprosmag.com
+precor.com/blog
+lifefitness.com/blog
+technogym.com/blog
+peloton.com/blog/business
+mirrorforbus.com
+tonalforce.com/blog
+
+# Group Fitness
+lesmiaborrowslls.com/instructor
+zumba.com/blog
+soulcycle.com/community
+orangetheory.com/blog
+f45training.com/blog
+crossfit.com/journal
+
+# ============================================
+# THEME PARKS & ATTRACTIONS
+# ============================================
+iaaborrowspa.org
+blooloop.com
+parkworld-online.com
+attractionsmagazine.com
+funworld.iaapa.org
+aaborrowsza.org
+aecom.com/themed-attractions
+thethemeparkaborrowsy.com
+themeparkinsider.com
+orlandoparksnews.com
+themeparktourist.com
+behindthethrills.com
+coasterforce.com
+themeparkjames.com
+attractiontickets.com/blog
+
+# ============================================
+# MUSEUMS & CULTURAL INSTITUTIONS
+# ============================================
+aam-us.org/publications
+museummagazine.com
+museum-id.com
+museumnext.com
+museumplanner.org
+museumsandtheweb.com
+atalm.org
+astc.org
+aaborrowszae.net
+cfrjal.org
+icom.museum
+aborrowshm.org
+midatlanticmuseums.org
+westmuse.org
+mpma.net
+semc.org
+name-aam.org
+pfrjam-us.org
+mercuryarchives.org
+
+# ============================================
+# PERFORMING ARTS TRADE
+# ============================================
+# Theater
+americantheatre.org
+playbill.com
+broadwayworld.com
+theatermania.com
+backstage.com
+dramatistsguild.com
+tcg.org
+usitt.org
+livedesignonline.com
+
+# Dance
+dancemagazine.com
+danceadvantage.net
+danceplace.org
+dance-teacher.com
+dancespirit.com
+pointemagazine.com
+
+# Classical Music/Symphony
+artsjournal.com
+musicalamerica.com
+bachtrack.com
+gramophone.co.uk
+slippedisc.com
+classicfm.com/discover
+bbcmusic.com
+medici.tv/magazine
+classicstonight.com
+
+# Opera
+operanews.com
+parterre.com
+operaamerica.org
+opera.org.uk
+operawire.com
+
+# ============================================
+# WATER & WASTEWATER INDUSTRY
+# ============================================
+waterworld.com
+wef.org/publications
+awwa.org/publications
+wateronline.com
+watertechonline.com
+tpomag.com
+mswmag.com
+stormh2o.com
+forester.net
+pollutionequipmentnews.com
+waterfinance.com
+globalwaterintel.com
+h2o-mag.com
+aguafund.org/news
+circleofblue.org
+pacificwater.org
+americanwatersummit.com
+
+# ============================================
+# WASTE & RECYCLING INDUSTRY
+# ============================================
+waste360.com
+wastetodaymagazine.com
+recyclingtoday.com
+resource-recycling.com
+plasticsrecycling.org
+wasterecyclingnews.com
+waste-management-world.com
+swana.org
+nwra.org
+isri.org
+plasticsindustry.org
+ameripen.org
+sustainablepackaging.org
+cancentral.com
+glassrecycles.org
+corrugated.org
+afandpa.org
+
+# ============================================
+# NUCLEAR & ALTERNATIVE ENERGY
+# ============================================
+# Nuclear
+world-nuclear-news.org
+nei.org/news
+nuclearenergy.com
+nrc.gov/reading-rm/doc-collections/news
+ans.org/news
+world-nuclear.org
+nucleareurope.eu/news
+nucnet.org
+energycentral.com/nuclear
+powermag.com/nuclear
+
+# Hydrogen
+h2-view.com
+hydrogeninsight.com
+fuelcellsworks.com
+hydrogencouncil.com
+chfrjc.ca
+cafcr.org
+hydrogeneurope.eu
+
+# Geothermal
+thinkgeoenergy.com
+geothermal.org
+gea.org
+geothermal-energy.org
+
+# Biofuels/Biomass
+biomassmagazine.com
+ethanolproducer.com
+biodieselmagazine.com
+biofuelsdigest.com
+bioenergy-news.com
+biomassmag.com
+advancedbiofuelsusa.org
+
+# ============================================
+# SIGNAGE INDUSTRY
+# ============================================
+signindustry.com
+signshop.com
+signweb.com
+signmedia.ca
+signs.com/blog
+signsofthetimes.com
+fastsigns.com/blog
+signwarehouse.com/blog
+digital signagetoday.com
+sixteen-nine.net
+ravepubs.com/category/digital-signage
+isa-signs.org
+ussc.org
+
+# ============================================
+# PROMOTIONAL PRODUCTS
+# ============================================
+asicentral.com
+ppai.org
+promomomentum.com
+printwearmag.com
+impressionsmag.com
+identity marketing.com
+promo marketing.com
+promoshop.com/blog
+4imprint.com/blog
+qualitylogoproducts.com/blog
+
+# ============================================
+# SCREEN PRINTING & EMBROIDERY
+# ============================================
+impressionsmag.com
+printwearamag.com
+screenprinting.com
+screenprintingindustry.net
+stitches.com
+nbm.com
+sgia.org
+embdigitizing.com/blog
+ricoma.com/blog
+melcousa.com/blog
+barudan.com
+
+# ============================================
+# UX/UI DESIGN
+# ============================================
+uxdesign.cc
+uxmag.com
+uxmatters.com
+nngroup.com/articles
+smashingmagazine.com/category/ux-design
+uxbooth.com
+uxplanet.org
+usability.gov
+interactiondesign.org
+ixda.org
+aiga.org
+ux-collective.com
+invisionapp.com/inside-design
+figma.com/blog
+sketch.com/blog
+adobe.com/products/xd/blog
+framer.com/blog
+webflow.com/blog
+
+# ============================================
+# ANIMATION INDUSTRY
+# ============================================
+cartoonbrew.com
+animationmagazine.net
+animationworld.net
+skwigly.co.uk
+animationnews.net
+annecy.org/home
+asifa-hollywood.org
+animatedjourneys.com
+motionographer.com
+stashmedia.tv
+motiondesign.school/blog
+
+# ============================================
+# INTERNATIONAL MEDIA - UNITED KINGDOM
+# ============================================
+bbc.com
+bbc.co.uk/news
+theguardian.com
+telegraph.co.uk
+thetimes.co.uk
+independent.co.uk
+dailymail.co.uk
+mirror.co.uk
+thesun.co.uk
+express.co.uk
+metro.co.uk
+standard.co.uk
+cityam.com
+ft.com
+economist.com
+newstatesman.com
+spectator.co.uk
+theweek.co.uk
+prospect magazine.co.uk
+politicshome.com
+conservativehome.com
+labourlist.org
+leftfootforward.org
+capx.co
+unherd.com
+spiked-online.com
+inews.co.uk
+huffingtonpost.co.uk
+buzzfeed.com/uk
+vice.com/en_uk
+itv.com/news
+channel4.com/news
+sky.com/news
+lbc.co.uk
+talkradio.co.uk
+times radio.com
+scottishdailyexpress.co.uk
+heraldscotland.com
+scotsman.com
+dailyrecord.co.uk
+walesonline.co.uk
+belfasttelegraph.co.uk
+irishnews.com
+irishtimes.com
+independent.ie
+rte.ie/news
+thejournal.ie
+breakingnews.ie
+businesspost.ie
+newstalk.com
+todayfm.com
+
+# UK Magazines
+tatler.com
+countrylife.co.uk
+houseandgarden.co.uk
+goodhousekeeping.com/uk
+cosmopolitan.com/uk
+glamourmagazine.co.uk
+graziadaily.co.uk
+marieclaire.co.uk
+redonline.co.uk
+womanandhome.com
+prima.co.uk
+womansweekly.com
+stylist.co.uk
+refinery29.com/en-gb
+hellomagazine.com
+ok.co.uk
+closer-online.co.uk
+grazia.it/uk
+heat-world.com
+nme.com
+kerrang.com
+classicrock.com
+loudersound.com
+musicweek.com
+djmag.co.uk
+mixmag.net
+timeout.com/london
+londonist.com
+secretlondon.com
+
+# ============================================
+# INTERNATIONAL MEDIA - GERMANY
+# ============================================
+spiegel.de
+zeit.de
+faz.net
+sueddeutsche.de
+welt.de
+bild.de
+handelsblatt.com
+wiwo.de
+manager-magazin.de
+stern.de
+focus.de
+tagesspiegel.de
+berliner-zeitung.de
+morgenpost.de
+abendzeitung-muenchen.de
+stuttgarter-zeitung.de
+stuttgarter-nachrichten.de
+haz.de
+maz-online.de
+lvz.de
+freiepresse.de
+saechsische.de
+noz.de
+shz.de
+kn-online.de
+ostsee-zeitung.de
+nordkurier.de
+svz.de
+volksstimme.de
+mz-web.de
+thueringer-allgemeine.de
+insuedthueringen.de
+mainpost.de
+infranken.de
+augsburger-allgemeine.de
+merkur.de
+tz.de
+br.de
+ndr.de
+wdr.de
+swr.de
+hr.de
+mdr.de
+rbb24.de
+dw.com
+tagesschau.de
+heute.de
+ntv.de
+n-tv.de
+rtl.de/news
+sat1.de/news
+prosieben.de/news
+kicker.de
+sportbild.bild.de
+spox.com
+transfermarkt.de
+sport1.de
+ran.de
+
+# German Magazines
+brigitte.de
+freundin.de
+gala.de
+bunte.de
+instyle.de
+vogue.de
+glamour.de
+cosmopolitan.de
+elle.de
+grazia-magazin.de
+jolie.de
+donna-magazin.de
+myself.de
+petra.de
+emotion.de
+flow-magazin.de
+happinez.de
+geo.de
+pm-magazin.de
+spektrum.de
+brand eins.de
+enorm-magazin.de
+emotion.de
+neon.de
+vice.com/de
+buzzfeed.com/de
+
+# ============================================
+# INTERNATIONAL MEDIA - FRANCE
+# ============================================
+lemonde.fr
+lefigaro.fr
+liberation.fr
+lesechos.fr
+latribune.fr
+leparisien.fr
+20minutes.fr
+bfmtv.com
+francetvinfo.fr
+france24.com/fr
+rfi.fr
+lci.fr
+cnews.fr
+lexpress.fr
+lepoint.fr
+lobs.fr
+marianne.net
+atlantico.fr
+mediapart.fr
+slate.fr
+huffingtonpost.fr
+buzzfeed.com/fr
+vice.com/fr
+konbini.com
+brut.media
+loopsider.com
+ouest-france.fr
+sudouest.fr
+lavoixdunord.fr
+ladepeche.fr
+midilibre.fr
+laprovence.fr
+nicematin.com
+ledauphine.com
+leprogres.fr
+lalsace.fr
+dna.fr
+estrepublicain.fr
+republicain-lorrain.fr
+vosgesmatin.fr
+lejsl.com
+bienpublic.com
+lyonmag.com
+rue89lyon.fr
+marsactu.fr
+mediacites.fr
+
+# French Magazines
+parismatch.com
+voici.fr
+closer.fr
+public.fr
+grazia.fr
+elle.fr
+marieclaire.fr
+vogue.fr
+glamour.paris
+cosmopolitan.fr
+madame figaro.fr
+journaldesfemmes.fr
+femmeactuelle.fr
+topsante.com
+sante magazine.fr
+psychologies.com
+philomag.com
+sciencesetavenir.fr
+caminteresse.fr
+geo.fr
+capital.fr
+challenges.fr
+management-magazine.com
+lentreprise.lexpress.fr
+usinenouvelle.com
+journalauto.com
+sportauto.fr
+lequipe.fr
+sofoot.com
+eurosport.fr
+
+# ============================================
+# INTERNATIONAL MEDIA - SPAIN
+# ============================================
+elpais.com
+elmundo.es
+abc.es
+lavanguardia.com
+larazon.es
+elperiodico.com
+20minutos.es
+eldiario.es
+publico.es
+elconfidencial.com
+vozpopuli.com
+libertaddigital.com
+okdiario.com
+esdiario.com
+huffingtonpost.es
+elespanol.com
+elindependiente.com
+infolibre.es
+ctxt.es
+lamarea.com
+nuevatribuna.es
+europapress.es
+efe.com
+as.com
+marca.com
+mundodeportivo.com
+sport.es
+estadiodeportivo.com
+superdeporte.es
+diariosur.es
+diariodenavarra.es
+heraldo.es
+elcorreo.com
+deia.eus
+naiz.eus
+ara.cat
+vilaweb.cat
+naciodigital.cat
+elmon.cat
+catalunyapress.cat
+
+# Spanish Magazines
+hola.com
+lecturas.com
+pronto.es
+diez minutos.es
+semana.es
+vanidad.es
+elle.com/es
+vogue.es
+glamour.es
+cosmopolitan.es
+marieclaire.es
+woman.es
+telva.com
+mujerhoy.com
+clara.es
+cuerpomente.com
+muyinteresante.es
+nationalgeographic.com.es
+quo.es
+emprendedores.es
+
+# ============================================
+# INTERNATIONAL MEDIA - ITALY
+# ============================================
+corriere.it
+repubblica.it
+lastampa.it
+ilsole24ore.com
+ilmessaggero.it
+ilgiornale.it
+libero.it
+ilfattoquotidiano.it
+huffingtonpost.it
+ansa.it
+adnkronos.com
+agi.it
+rainews.it
+tgcom24.mediaset.it
+sky.it/tg24
+la7.it
+fanpage.it
+open.online
+today.it
+leggo.it
+ilpost.it
+internazionale.it
+lettera43.it
+linkiesta.it
+ilfoglio.it
+formiche.net
+startupitalia.eu
+wired.it
+gazzetta.it
+tuttosport.com
+corrieredellosport.it
+sportmediaset.mediaset.it
+
+# Italian Magazines
+panorama.it
+espresso.repubblica.it
+chi.it
+diva-donna.it
+oggi.it
+gente.it
+vanity fair.it
+vogue.it
+elle.com/it
+marieclaire.it
+grazia.it
+cosmopolitan.it
+glamour.it
+donnamoderna.com
+iodonna.it
+marieclaire.it
+alfemminile.com
+style.corriere.it
+icon.panorama.it
+gqitalia.it
+
+# ============================================
+# INTERNATIONAL MEDIA - NETHERLANDS
+# ============================================
+nos.nl
+rtv.nl
+nu.nl
+ad.nl
+telegraaf.nl
+volkskrant.nl
+nrc.nl
+trouw.nl
+fd.nl
+parool.nl
+bndestem.nl
+bd.nl
+tubantia.nl
+destentor.nl
+gelderlander.nl
+limburger.nl
+pzc.nl
+bnr.nl
+rtlnieuws.nl
+sbs6.nl/hart-van-nederland
+at5.nl
+nhnieuws.nl
+rtvnoord.nl
+rtvoost.nl
+omroepgelderland.nl
+
+# ============================================
+# INTERNATIONAL MEDIA - BELGIUM
+# ============================================
+vrt.be/vrtnws
+hln.be
+standaard.be
+nieuwsblad.be
+gva.be
+hbvl.be
+tijd.be
+demorgen.be
+knack.be
+humo.be
+rtbf.be
+lesoir.be
+lalibre.be
+dhnet.be
+lavenir.net
+sudinfo.be
+lecho.be
+trends.be
+levif.be
+moustique.be
+
+# ============================================
+# INTERNATIONAL MEDIA - SWITZERLAND
+# ============================================
+srf.ch
+nzz.ch
+tagesanzeiger.ch
+blick.ch
+20min.ch
+watson.ch
+swissinfo.ch
+rts.ch
+letemps.ch
+tdg.ch
+24heures.ch
+lematin.ch
+arcinfo.ch
+lacote.ch
+rsi.ch
+laregione.ch
+cdt.ch
+tio.ch
+luzernerzeitung.ch
+tagblatt.ch
+bzbasel.ch
+solothurnerzeitung.ch
+aargauerzeitung.ch
+bernerzeitung.ch
+derbund.ch
+fribourg.ch
+suedostschweiz.ch
+
+# ============================================
+# INTERNATIONAL MEDIA - AUSTRIA
+# ============================================
+orf.at
+derstandard.at
+diepresse.com
+kurier.at
+krone.at
+heute.at
+oe24.at
+kleinezeitung.at
+nachrichten.at
+tt.com
+vn.at
+salzburg24.at
+meinbezirk.at
+vienna.at
+wienerin.at
+trend.at
+profil.at
+news.at
+falter.at
+wienerzeitung.at
+
+# ============================================
+# INTERNATIONAL MEDIA - POLAND
+# ============================================
+tvn24.pl
+onet.pl
+wp.pl
+interia.pl
+gazeta.pl
+wyborcza.pl
+rp.pl
+fakt.pl
+se.pl
+tvp.info
+polsatnews.pl
+rmf24.pl
+tokfm.pl
+money.pl
+bankier.pl
+puls biznesu.pl
+forbes.pl
+newsweek.pl
+polityka.pl
+wprost.pl
+tygodnikpowszechny.pl
+gosc.pl
+natemat.pl
+natek.pl
+sport.pl
+sportowefakty.wp.pl
+przegladsportowy.pl
+meczyki.pl
+
+# ============================================
+# INTERNATIONAL MEDIA - CZECH REPUBLIC
+# ============================================
+idnes.cz
+novinky.cz
+seznamzpravy.cz
+aktualne.cz
+irozhlas.cz
+ct24.ceskatelevize.cz
+denik.cz
+blesk.cz
+reflex.cz
+respekt.cz
+echo24.cz
+forum24.cz
+e15.cz
+tyden.cz
+info.cz
+lupa.cz
+root.cz
+zive.cz
+sport.cz
+isport.blesk.cz
+
+# ============================================
+# INTERNATIONAL MEDIA - HUNGARY
+# ============================================
+index.hu
+hvg.hu
+444.hu
+telex.hu
+24.hu
+origo.hu
+portfolio.hu
+napi.hu
+mfor.hu
+blikk.hu
+ripost.hu
+magyarnemzet.hu
+mandiner.hu
+valaszonline.hu
+168.hu
+nepszava.hu
+mti.hu
+hirado.hu
+
+# ============================================
+# INTERNATIONAL MEDIA - SCANDINAVIA
+# ============================================
+# Sweden
+svt.se
+sr.se
+dn.se
+svd.se
+expressen.se
+aftonbladet.se
+gp.se
+sydsvenskan.se
+di.se
+omni.se
+nyheter24.se
+metro.se
+breakit.se
+resume.se
+
+# Norway
+nrk.no
+vg.no
+dagbladet.no
+aftenposten.no
+nettavisen.no
+tv2.no
+dn.no
+e24.no
+digi.no
+tek.no
+bt.no
+adressa.no
+faedrelandsvennen.no
+
+# Denmark
+dr.dk
+tv2.dk
+politiken.dk
+berlingske.dk
+jyllands-posten.dk
+ekstrabladet.dk
+bt.dk
+borsen.dk
+information.dk
+weekendavisen.dk
+
+# Finland
+yle.fi
+hs.fi
+is.fi
+iltalehti.fi
+mtv.fi/uutiset
+kauppalehti.fi
+talouselama.fi
+tekniikkatalous.fi
+tivi.fi
+
+# Iceland
+ruv.is
+mbl.is
+visir.is
+dv.is
+frettabladid.is
+
+# ============================================
+# INTERNATIONAL MEDIA - RUSSIA
+# ============================================
+tass.ru
+ria.ru
+rbc.ru
+lenta.ru
+gazeta.ru
+kommersant.ru
+vedomosti.ru
+iz.ru
+rt.com
+meduza.io
+novayagazeta.ru
+echo.msk.ru
+snob.ru
+theins.ru
+fontanka.ru
+spb.ru
+nn.ru
+e1.ru
+66.ru
+74.ru
+72.ru
+ngs.ru
+sport-express.ru
+championat.com
+sports.ru
+
+# ============================================
+# INTERNATIONAL MEDIA - UKRAINE
+# ============================================
+pravda.com.ua
+ukrinform.ua
+unian.ua
+tsn.ua
+liga.net
+nv.ua
+lb.ua
+zn.ua
+espreso.tv
+hromadske.ua
+radiosvoboda.org
+bbc.com/ukrainian
+dw.com/uk
+suspilne.media
+kyivindependent.com
+kyivpost.com
+ukrayinska pravda.ua
+
+# ============================================
+# INTERNATIONAL MEDIA - TURKEY
+# ============================================
+hurriyet.com.tr
+milliyet.com.tr
+sabah.com.tr
+haberturk.com
+ntv.com.tr
+cnnturk.com
+sozcu.com.tr
+cumhuriyet.com.tr
+birgun.net
+evrensel.net
+t24.com.tr
+gazeteduvar.com.tr
+bianet.org
+ahvalnews.com
+duvarenglish.com
+dailysabah.com
+hurriyetdailynews.com
+trtworld.com
+aa.com.tr
+dha.com.tr
+
+# ============================================
+# INTERNATIONAL MEDIA - GREECE
+# ============================================
+in.gr
+news247.gr
+protothema.gr
+kathimerini.gr
+tanea.gr
+tovima.gr
+iefimerida.gr
+newsbomb.gr
+newsit.gr
+skai.gr
+ant1news.gr
+star.gr
+ert.gr
+naftemporiki.gr
+capital.gr
+euro2day.gr
+
+# ============================================
+# INTERNATIONAL MEDIA - PORTUGAL
+# ============================================
+publico.pt
+dn.pt
+jn.pt
+expresso.pt
+observador.pt
+sabado.pt
+visao.pt
+tsf.pt
+rtp.pt
+sic.pt
+tvi.pt
+cmjornal.pt
+ionline.pt
+eco.pt
+dinheirovivo.pt
+jornaldenegocios.pt
+record.pt
+ojogo.pt
+abola.pt
+maisfutebol.iol.pt
+
+# ============================================
+# INTERNATIONAL MEDIA - BRAZIL
+# ============================================
+globo.com
+g1.globo.com
+uol.com.br
+folha.uol.com.br
+estadao.com.br
+oglobo.globo.com
+valor.globo.com
+exame.com
+infomoney.com.br
+r7.com
+terra.com.br
+ig.com.br
+metropoles.com
+poder360.com.br
+nexojornal.com.br
+theintercept.com/brasil
+bbc.com/portuguese
+cartacapital.com.br
+revistaforum.com.br
+brasil247.com
+diariodocentrodomundo.com.br
+jornaldocomercio.com
+gazetadopovo.com.br
+correiobraziliense.com.br
+em.com.br
+otempo.com.br
+diariodonordeste.com.br
+acritica.com
+nsctotal.com.br
+clicrbs.com.br
+globoesporte.globo.com
+lance.com.br
+espn.com.br
+uol.com.br/esporte
+ge.globo.com
+
+# Brazilian Magazines
+veja.com.br
+istoé.com.br
+epoca.globo.com
+marie claire.globo.com
+glamour.globo.com
+elle.com.br
+cosmobrasil.com.br
+claudia.abril.com.br
+voce sa.abril.com.br
+superinteressante.com.br
+mundoestranho.abril.com.br
+viagem.abril.com.br
+casaejardim.globo.com
+casa vogue.globo.com
+
+# ============================================
+# INTERNATIONAL MEDIA - MEXICO
+# ============================================
+eluniversal.com.mx
+reforma.com
+milenio.com
+excelsior.com.mx
+jornada.com.mx
+proceso.com.mx
+sinembargo.mx
+aristeguinoticias.com
+animalpolitico.com
+nexos.com.mx
+letrasibres.com
+sdpnoticias.com
+elfinanciero.com.mx
+eleconomista.com.mx
+expansion.mx
+forbes.com.mx
+televisa.com/noticias
+tv azteca.com/noticias
+imagentv.com
+multimedios.com
+record.com.mx
+mediotiempo.com
+espn.com.mx
+as.com/mexico
+marca.com/claro/mx
+
+# ============================================
+# INTERNATIONAL MEDIA - ARGENTINA
+# ============================================
+clarin.com
+lanacion.com.ar
+infobae.com
+pagina12.com.ar
+perfil.com
+ambito.com
+cronista.com
+iprofesional.com
+lavoz.com.ar
+losandes.com.ar
+lmneuquen.com
+rionegro.com.ar
+ellitoral.com
+diariouno.com.ar
+minutouno.com
+eldestapeweb.com
+eldiarioar.com
+cenitalcom
+chequeado.com
+ole.com.ar
+tycsports.com
+espn.com.ar
+tn.com.ar
+a24.com
+c5n.com
+
+# ============================================
+# INTERNATIONAL MEDIA - COLOMBIA
+# ============================================
+eltiempo.com
+elespectador.com
+semana.com
+larepublica.co
+dinero.com
+portafolio.co
+pulzo.com
+lafm.com.co
+rcnradio.com
+caracol.com.co
+bluradio.com
+wradio.com.co
+elcolombiano.com
+elheraldo.co
+elpais.com.co
+lapatria.com
+vanguardia.com
+eluniversal.com.co
+
+# ============================================
+# INTERNATIONAL MEDIA - CHILE
+# ============================================
+emol.com
+latercera.com
+biobio.cl
+cooperativa.cl
+t13.cl
+24horas.cl
+elmostrador.cl
+ciperchile.cl
+pauta.cl
+df.cl
+pulso.cl
+lun.com
+lacuarta.com
+soychile.cl
+eldesconcierto.cl
+theclinic.cl
+interferencia.cl
+eldinamo.cl
+publimetro.cl
+
+# ============================================
+# INTERNATIONAL MEDIA - PERU
+# ============================================
+elcomercio.pe
+larepublica.pe
+peru21.pe
+gestion.pe
+correo.pe
+ojo.pe
+trome.pe
+diariocorreo.pe
+rpp.pe
+americatv.com.pe
+panamericana.pe
+canalipe.tv
+idl-reporteros.pe
+ojo-publico.com
+convoca.pe
+wayka.pe
+
+# ============================================
+# INTERNATIONAL MEDIA - VENEZUELA
+# ============================================
+eluniversal.com
+elnacional.com
+runrun.es
+efectococuyo.com
+talcualdigital.com
+lapatilla.com
+caraotadigital.net
+alnavio.com
+prodavinci.com
+contrapunto.com
+el-nacional.com
+2001.com.ve
+
+# ============================================
+# INTERNATIONAL MEDIA - CHINA
+# ============================================
+# English-language
+scmp.com
+chinadaily.com.cn
+globaltimes.cn
+ecns.cn
+xinhuanet.com/english
+cgtn.com
+sixthtone.com
+caixinglobal.com
+yicaiglobal.com
+supchina.com
+thechinaproject.com
+chinafile.com
+chinalawtranslate.com
+whatsonweibo.com
+radii.co
+
+# Chinese-language (major)
+sina.com.cn
+sohu.com
+163.com
+qq.com
+ifeng.com
+people.com.cn
+huanqiu.com
+thepaper.cn
+jiemian.com
+36kr.com
+huxiu.com
+pingwest.com
+geekpark.net
+qdaily.com
+yicai.com
+caixin.com
+21jingji.com
+bjnews.com.cn
+
+# Hong Kong
+scmp.com
+hk01.com
+thestandard.com.hk
+hkfp.com
+hongkongfp.com
+inmediahk.net
+standnews.com
+rthk.hk
+
+# Taiwan
+ltn.com.tw
+udn.com
+chinatimes.com
+appledaily.com/tw
+setn.com
+cna.com.tw
+pts.org.tw
+ttv.com.tw
+cts.com.tw
+ftv.com.tw
+tvbs.com.tw
+ettoday.net
+storm.mg
+newtalk.tw
+thenewslens.com
+twreporter.org
+mirrormedia.mg
+
+# ============================================
+# INTERNATIONAL MEDIA - JAPAN
+# ============================================
+# English
+japantimes.co.jp
+japantoday.com
+mainichi.jp/english
+asahi.com/ajw
+nippon.com
+tokyoreporter.com
+soranews24.com
+tokyoweekender.com
+metropolisjapan.com
+gaijinpot.com
+unseen japan.com
+thediplomat.com/category/japan
+
+# Japanese
+yomiuri.co.jp
+asahi.com
+mainichi.jp
+nikkei.com
+sankei.com
+tokyo-np.co.jp
+chunichi.co.jp
+hokkaido-np.co.jp
+kahoku.news
+chugoku-np.co.jp
+nishinippon.co.jp
+47news.jp
+jiji.com
+kyodonews.jp
+nhk.or.jp/news
+news.tbs.co.jp
+news.tv-asahi.co.jp
+ntv.co.jp/news
+fnn.jp
+toyo keizai.net
+diamond.jp
+president.jp
+bunshun.jp
+shueisha.co.jp
+news.yahoo.co.jp
+livedoor.com
+itmedia.co.jp
+gigazine.net
+natalie.mu
+
+# ============================================
+# INTERNATIONAL MEDIA - SOUTH KOREA
+# ============================================
+# English
+koreaherald.com
+koreatimes.co.kr
+koreajoongangdaily.joins.com
+en.yna.co.kr
+arirang.com
+koreaobserver.com
+koreabizwire.com
+
+# Korean
+chosun.com
+donga.com
+joongang.co.kr
+hani.co.kr
+khan.co.kr
+mk.co.kr
+mt.co.kr
+sedaily.com
+edaily.co.kr
+news.sbs.co.kr
+news.kbs.co.kr
+imnews.imbc.com
+news.jtbc.co.kr
+ytn.co.kr
+newsis.com
+yonhapnews.co.kr
+news.naver.com
+daum.net/news
+osen.mt.co.kr
+sports.chosun.com
+sports.donga.com
+isplus.joins.com
+starin.edaily.co.kr
+mydaily.co.kr
+dispatch.co.kr
+
+# ============================================
+# INTERNATIONAL MEDIA - INDIA
+# ============================================
+# English
+timesofindia.indiatimes.com
+hindustantimes.com
+ndtv.com
+indiatoday.in
+thehindu.com
+indianexpress.com
+news18.com
+firstpost.com
+scroll.in
+thewire.in
+newslaundry.com
+theprint.in
+thequint.com
+livemint.com
+economictimes.indiatimes.com
+businessstandard.com
+moneycontrol.com
+businesstoday.in
+outlookindia.com
+caravanmagazine.in
+openthemagazine.com
+frontline.thehindu.com
+telegraphindia.com
+deccanherald.com
+deccanchronicle.com
+newindianexpress.com
+tribuneindia.com
+dnaindia.com
+mid-day.com
+freepressjournal.in
+asianage.com
+theweek.in
+thestatesman.com
+
+# Hindi
+aajtak.in
+abpnews.abplive.in
+zeenews.india.com
+livehindustan.com
+jagran.com
+bhaskar.com
+amarujala.com
+navbharattimes.indiatimes.com
+patrika.com
+prabhatkhabar.com
+
+# Regional
+mathrubhumi.com
+manoramaonline.com
+asianetnews.com
+eenadu.net
+andhrajyothy.com
+sakshi.com
+dinamalar.com
+dinakaran.com
+dinamani.com
+anandabazar.com
+eisamay.com
+aajkaal.in
+loksatta.com
+lokmat.com
+divyabhaskar.co.in
+gujaratsamachar.com
+sandesh.com
+
+# ============================================
+# INTERNATIONAL MEDIA - PAKISTAN
+# ============================================
+dawn.com
+geo.tv
+arynews.tv
+samaa.tv
+dunyanews.tv
+tribune.com.pk
+thenews.com.pk
+nation.com.pk
+pakistantoday.com.pk
+brecorder.com
+globalvillage space.com
+nayadaur.tv
+voicepk.net
+propakistani.pk
+
+# ============================================
+# INTERNATIONAL MEDIA - BANGLADESH
+# ============================================
+thedailystar.net
+bdnews24.com
+prothomalo.com
+dhakatribune.com
+newagebd.net
+daily-sun.com
+banglanews24.com
+risingbd.com
+jugantor.com
+kalerkantho.com
+samakal.com
+ittefaq.com.bd
+
+# ============================================
+# INTERNATIONAL MEDIA - INDONESIA
+# ============================================
+kompas.com
+detik.com
+tempo.co
+liputan6.com
+tribunnews.com
+okezone.com
+sindonews.com
+cnnindonesia.com
+cnbcindonesia.com
+mediaindonesia.com
+republika.co.id
+antaranews.com
+metrotvnews.com
+viva.co.id
+kumparan.com
+tirto.id
+thejakartapost.com
+jakartaglobe.id
+coconuts.co/jakarta
+
+# ============================================
+# INTERNATIONAL MEDIA - MALAYSIA
+# ============================================
+thestar.com.my
+nst.com.my
+freemalaysiatoday.com
+malaymail.com
+thesundaily.my
+malaysiakini.com
+bernama.com
+astroawani.com
+bharian.com.my
+hmetro.com.my
+sinarharian.com.my
+utusan.com.my
+kosmo.com.my
+chinapress.com.my
+sinchew.com.my
+orientaldaily.com.my
+nanyang.com
+kwongwah.com.my
+
+# ============================================
+# INTERNATIONAL MEDIA - SINGAPORE
+# ============================================
+straitstimes.com
+todayonline.com
+channelnewsasia.com
+businesstimes.com.sg
+tnp.sg
+zaobao.com.sg
+beritaharian.sg
+tamilmurasu.com.sg
+mothership.sg
+ricemedia.co
+vulcanpost.com
+techinasia.com
+coconuts.co/singapore
+
+# ============================================
+# INTERNATIONAL MEDIA - PHILIPPINES
+# ============================================
+inquirer.net
+philstar.com
+mb.com.ph
+rappler.com
+gmanetwork.com/news
+abs-cbn.com/news
+cnnphilippines.com
+news5.com.ph
+sunstar.com.ph
+manilatimes.net
+businessworld.com.ph
+businessmirror.com.ph
+pna.gov.ph
+interaksyon.com
+
+# ============================================
+# INTERNATIONAL MEDIA - THAILAND
+# ============================================
+bangkokpost.com
+nationthailand.com
+thaipbsworld.com
+khaosodenglish.com
+thaiger.com
+coconuts.co/bangkok
+prachatai.com/english
+thisrupt.co
+thairath.co.th
+dailynews.co.th
+matichon.co.th
+manager.co.th
+posttoday.com
+naewna.com
+thaipost.net
+kom-chad-luek.net
+prachachat.net
+
+# ============================================
+# INTERNATIONAL MEDIA - VIETNAM
+# ============================================
+vnexpress.net
+tuoitrenews.vn
+thanhniennews.com
+vietnamnet.vn
+vietnamnews.vn
+hanoitimes.vn
+saigoneer.com
+vov.vn
+vtv.vn
+vneconomy.vn
+cafef.vn
+zingnews.vn
+kenh14.vn
+dantri.com.vn
+eva.vn
+genk.vn
+24h.com.vn
+
+# ============================================
+# INTERNATIONAL MEDIA - AUSTRALIA
+# ============================================
+abc.net.au/news
+sbs.com.au/news
+9news.com.au
+7news.com.au
+10daily.com.au
+skynews.com.au
+news.com.au
+theaustralian.com.au
+smh.com.au
+theage.com.au
+afr.com
+brisbanetimes.com.au
+watoday.com.au
+canberratimes.com.au
+adelaidenow.com.au
+couriermail.com.au
+heraldsun.com.au
+dailytelegraph.com.au
+perthnow.com.au
+ntnews.com.au
+themercury.com.au
+theexaminer.com.au
+theadvocate.com.au
+theguardian.com/australia-news
+crikey.com.au
+thesaturdaypaper.com.au
+quarterlyessay.com.au
+meanjin.com.au
+themonthly.com.au
+insidestory.org.au
+theconversation.com/au
+michaelwest.com.au
+pedestrian.tv
+junkee.com
+buzzfeed.com/australia
+gizmodo.com.au
+lifehacker.com.au
+kotaku.com.au
+
+# Australian Magazines
+womensweekly.com.au
+whomag.com.au
+newideamag.com.au
+nwmag.com.au
+okmagazine.com.au
+marieclaire.com.au
+vogue.com.au
+elle.com.au
+gq.com.au
+menshealth.com.au
+delicious.com.au
+goodfood.com.au
+taste.com.au
+
+# ============================================
+# INTERNATIONAL MEDIA - NEW ZEALAND
+# ============================================
+rnz.co.nz
+tvnz.co.nz
+stuff.co.nz
+nzherald.co.nz
+newshub.co.nz
+1news.co.nz
+scoop.co.nz
+newsroom.co.nz
+interest.co.nz
+nbr.co.nz
+thespinoff.co.nz
+noted.co.nz
+idealog.co.nz
+odt.co.nz
+press.co.nz
+waikatotimes.co.nz
+hawkesbaytoday.co.nz
+nzdoctor.co.nz
+
+# ============================================
+# INTERNATIONAL MEDIA - MIDDLE EAST
+# ============================================
+# UAE
+thenationalnews.com
+gulfnews.com
+khaleejtimes.com
+arabianbusiness.com
+zawya.com
+argaam.com
+alkhaleej.ae
+albayan.ae
+emaratalyoum.com
+
+# Saudi Arabia
+arabnews.com
+saudigazette.com.sa
+spa.gov.sa
+aleqt.com
+alriyadh.com
+alyaum.com
+okaz.com.sa
+al-jazirah.com
+
+# Qatar
+aljazeera.com
+aljazeera.net
+qatar-tribune.com
+gulf-times.com
+thepeninsulaqatar.com
+qna.org.qa
+
+# Kuwait
+arabtimesonline.com
+kuwaittimes.com
+kuna.net.kw
+
+# Bahrain
+bna.bh
+gdnonline.com
+newsofbahrain.com
+
+# Oman
+timesofoman.com
+omanobserver.om
+muscatdaily.com
+
+# Jordan
+jordantimes.com
+petra.gov.jo
+alghad.com
+addustour.com
+
+# Lebanon
+dailystar.com.lb
+lorientlejour.com
+annahar.com
+lbcgroup.tv
+mtv.com.lb
+aljadeed.tv
+nna-leb.gov.lb
+
+# Egypt
+egypttoday.com
+ahram.org.eg
+egyptindependent.com
+dailynewsegypt.com
+madamasr.com
+youm7.com
+masrawy.com
+elwatannews.com
+
+# Iraq
+rudaw.net
+iraqinews.com
+shafaq.com
+nrttv.com
+alsumaria.tv
+
+# Iran
+tehrantimes.com
+presstv.ir
+irna.ir
+tasnimnews.com
+mehrnews.com
+isna.ir
+
+# ============================================
+# INTERNATIONAL MEDIA - AFRICA
+# ============================================
+# South Africa
+news24.com
+timeslive.co.za
+iol.co.za
+dailymaverick.co.za
+mg.co.za
+ewn.co.za
+sabcnews.com
+eNCA.com
+businesslive.co.za
+fin24.com
+biznews.com
+mybroadband.co.za
+thesouthafrican.com
+citizen.co.za
+sowetanlive.co.za
+dispatchlive.co.za
+heraldlive.co.za
+dfa.co.za
+
+# Nigeria
+punchng.com
+thisdaylive.com
+guardian.ng
+vanguardngr.com
+premiumtimesng.com
+dailytrust.com
+thecable.ng
+sahara reporters.com
+channels television.com
+arise.tv
+nairametrics.com
+businessday.ng
+techpoint.africa
+techcabal.com
+
+# Kenya
+nation.africa
+standardmedia.co.ke
+the-star.co.ke
+citizentv.co.ke
+ntv.co.ke
+kbc.co.ke
+businessdailyafrica.com
+capitalfm.co.ke
+
+# Ghana
+myjoyonline.com
+ghanaweb.com
+graphic.com.gh
+citinewsroom.com
+peacefmonline.com
+starrfm.com.gh
+modernghana.com
+
+# Tanzania
+thecitizen.co.tz
+dailynews.co.tz
+ippmedia.com
+
+# Uganda
+monitor.co.ug
+newvision.co.ug
+observer.ug
+nilepost.co.ug
+
+# Ethiopia
+addisstandard.com
+ethiopianreporter.com
+fanabc.com
+ebc.et
+
+# Rwanda
+newtimes.co.rw
+ktpress.rw
+
+# Morocco
+moroccoworldnews.com
+medias24.com
+telquel.ma
+hespress.com
+le360.ma
+yabiladi.com
+
+# Algeria
+aps.dz
+tsa-algerie.com
+elwatan.com
+echoroukonline.com
+
+# Tunisia
+tap.info.tn
+businessnews.com.tn
+webmanagercenter.com
+
+# Senegal
+aps.sn
+seneweb.com
+lequotidien.sn
+
+# Ivory Coast
+fratmat.info
+abidjan.net
+linfodrome.com
+
+# Cameroon
+cameroon-tribune.cm
+journalducameroun.com
+
+# Pan-African
+africanews.com
+allafrica.com
+africareport.com
+theafricareport.com
+qz.com/africa
+bbc.com/afrique
+rfi.fr/afrique
+dw.com/africa
+voanews.com/africa
+icirnigeria.org
+
+# ============================================
+# ADDITIONAL EUROPEAN COUNTRIES
+# ============================================
+# Ireland
+irishtimes.com
+independent.ie
+rte.ie
+thejournal.ie
+irishmirror.ie
+irishexaminer.com
+breakingnews.ie
+joe.ie
+her.ie
+boards.ie
+businesspost.ie
+farmersjournal.ie
+hotpress.com
+image.ie
+irishcentral.com
+dublinlive.ie
+corkbeo.ie
+galwaybeo.ie
+
+# Scotland
+scotsman.com
+heraldscotland.com
+dailyrecord.co.uk
+pressandjournal.co.uk
+thecourier.co.uk
+edinburghnews.scotsman.com
+glasgowlive.co.uk
+scottishdailyexpress.co.uk
+sundaypost.com
+
+# Wales
+walesonline.co.uk
+nation.cymru
+bbc.co.uk/wales
+dailypost.co.uk
+southwalesargus.co.uk
+westerntelegraph.co.uk
+cambrian-news.co.uk
+
+# Northern Ireland
+belfasttelegraph.co.uk
+bbc.co.uk/northernireland
+irishnews.com
+newsletter.co.uk
+sundaylife.co.uk
+belfastlive.co.uk
+
+# Iceland
+icelandreview.com
+grapevine.is
+ruv.is
+mbl.is
+visir.is
+frettabladid.is
+dv.is
+
+# Estonia
+news.err.ee
+postimees.ee
+delfi.ee
+aripaev.ee
+ohtuleht.ee
+epl.ee
+majandus24.ee
+
+# Latvia
+eng.lsm.lv
+delfi.lv
+tvnet.lv
+diena.lv
+nra.lv
+la.lv
+db.lv
+jauns.lv
+
+# Lithuania
+lrt.lt
+delfi.lt
+15min.lt
+ve.lt
+bernardinai.lt
+kauno.diena.lt
+klaipeda.diena.lt
+
+# Belarus
+belarusdigest.com
+naviny.media
+nn.by
+charter97.org
+euroradio.fm
+belsat.eu
+zerkalo.io
+
+# Moldova
+moldpres.md
+moldova.org
+diez.md
+noi.md
+zdg.md
+newsmaker.md
+point.md
+jurnal.md
+
+# Romania
+romania-insider.com
+hotnews.ro
+digi24.ro
+mediafax.ro
+adevarul.ro
+libertatea.ro
+stirileprotv.ro
+ziare.com
+gandul.ro
+economica.net
+wall-street.ro
+
+# Bulgaria
+novinite.com
+bnr.bg
+bnt.bg
+dnevnik.bg
+24chasa.bg
+capital.bg
+mediapool.bg
+offnews.bg
+
+# Serbia
+b92.net
+rts.rs
+blic.rs
+kurir.rs
+novosti.rs
+danas.rs
+n1info.rs
+nova.rs
+euronews.rs
+
+# Croatia
+jutarnji.hr
+vecernji.hr
+24sata.hr
+index.hr
+tportal.hr
+net.hr
+nacional.hr
+hrt.hr
+rtl.hr
+n1info.hr
+
+# Slovenia
+rtvslo.si
+24ur.com
+siol.net
+delo.si
+dnevnik.si
+vecer.com
+sta.si
+total-slovenia-news.com
+
+# Bosnia and Herzegovina
+klix.ba
+avaz.ba
+oslobodjenje.ba
+faktor.ba
+nezavisne.com
+capital.ba
+n1info.ba
+radiosarajevo.ba
+
+# Montenegro
+vijesti.me
+cdm.me
+dan.co.me
+pobjeda.me
+rtcg.me
+portalanalitika.me
+
+# North Macedonia
+mia.mk
+sdk.mk
+24.mk
+meta.mk
+tv21.tv
+sitel.com.mk
+kanal5.com.mk
+makfax.com.mk
+slobodenpecat.mk
+
+# Albania
+top-channel.tv
+tvklan.al
+vizionplus.tv
+gazetaexpress.com
+balkanweb.com
+panorama.com.al
+shekulli.com.al
+koha.net
+
+# Kosovo
+koha.net
+gazetaexpress.com
+kallxo.com
+telegrafi.com
+indeksonline.net
+rtklive.com
+klankosoava.tv
+
+# Luxembourg
+wort.lu
+chronicle.lu
+luxtimes.lu
+rtl.lu
+tageblatt.lu
+lequotidien.lu
+paperjam.lu
+
+# Malta
+timesofmalta.com
+maltatoday.com.mt
+independent.com.mt
+tvm.com.mt
+one.com.mt
+netnews.com.mt
+lovinmalta.com
+
+# Cyprus
+cyprus-mail.com
+philenews.com
+sigmalive.com
+cybc.com.cy
+politis.com.cy
+stockwatch.com.cy
+financialmirror.com
+in-cyprus.philenews.com
+
+# Andorra
+diariandorra.ad
+bondia.ad
+altaveu.com
+andorradifusio.ad
+
+# Monaco
+monacomatin.mc
+monaco-tribune.com
+gouv.mc
+news.mc
+
+# San Marino
+sanmarinortv.sm
+libertas.sm
+sanmarinonotizie.com
+
+# Liechtenstein
+vaterland.li
+volksblatt.li
+1fl.li
+
+# Vatican City
+vaticannews.va
+osservatoreromano.va
+
+# Faroe Islands
+kvf.fo
+portal.fo
+sosialurin.fo
+dimmalætting.fo
+
+# Greenland
+sermitsiaq.ag
+knr.gl
+ag.gl
+
+# Gibraltar
+chronicle.gi
+gbc.gi
+yourgibraltartv.com
+
+# Isle of Man
+iomtoday.co.im
+manxradio.com
+three.fm
+
+# Jersey
+jerseyeveningpost.com
+bailiwickexpress.com
+channel103.com
+
+# Guernsey
+guernseypress.com
+islandecho.co.uk
+
+# ============================================
+# CENTRAL ASIA
+# ============================================
+# Kazakhstan
+inform.kz
+kazinform.kz
+tengrinews.kz
+nur.kz
+zakon.kz
+kapital.kz
+kursiv.kz
+forbes.kz
+vlast.kz
+the-village-kz.com
+orda.kz
+
+# Uzbekistan
+uza.uz
+gazeta.uz
+kun.uz
+daryo.uz
+podrobno.uz
+spot.uz
+nuz.uz
+review.uz
+
+# Turkmenistan
+turkmenistan.gov.tm
+tdh.gov.tm
+turkmenportal.com
+chronicle.tm
+gundogar.org
+azathabar.com
+
+# Tajikistan
+khovar.tj
+tajikta.tj
+asiaplus.tj
+ozodi.org
+avesta.tj
+faraj.tj
+
+# Kyrgyzstan
+kabar.kg
+akipress.com
+24.kg
+kloop.kg
+kaktus.media
+azattyk.org
+sputnik.kg
+knews.kg
+
+# Mongolia
+montsame.mn
+news.mn
+ikon.mn
+gogo.mn
+medee.mn
+eguur.mn
+mongolnews.mn
+theubpost.mn
+
+# ============================================
+# CAUCASUS
+# ============================================
+# Georgia
+civil.ge
+agenda.ge
+oc-media.org
+tabula.ge
+on.ge
+interpressnews.ge
+1tv.ge
+rustavi2.ge
+formulanews.ge
+bm.ge
+
+# Armenia
+armenpress.am
+hetq.am
+azatutyun.am
+civilnet.am
+news.am
+mediamax.am
+168.am
+aravot-en.am
+1lurer.am
+
+# Azerbaijan
+azernews.az
+apa.az
+report.az
+trend.az
+azertag.az
+ictv.az
+aztv.az
+1news.az
+oxu.az
+
+# ============================================
+# SOUTH ASIA (ADDITIONAL)
+# ============================================
+# Nepal
+kathmandupost.com
+ekantipur.com
+onlinekhabar.com
+ratopati.com
+setopati.com
+nepalnews.com
+risingnepaldaily.com
+thehimalayantimes.com
+nepalitimes.com
+myrepublica.nagariknetwork.com
+
+# Sri Lanka
+dailymirror.lk
+dailynews.lk
+sundaytimes.lk
+island.lk
+ceylontoday.lk
+newsfirst.lk
+adaderana.lk
+hirunews.lk
+lankadeepa.lk
+dinamina.lk
+
+# Maldives
+edition.mv
+sun.mv
+mihaaru.com
+avas.mv
+raajje.mv
+psmnews.mv
+dhauru.com
+vaguthu.mv
+
+# Bhutan
+kuenselonline.com
+thebhutanese.bt
+bbs.bt
+businessbhutan.bt
+
+# Afghanistan
+tolonews.com
+pajhwok.com
+ariananews.af
+khaama.com
+1tvnews.af
+baaboraab.af
+etilaatroz.com
+
+# ============================================
+# SOUTHEAST ASIA (ADDITIONAL)
+# ============================================
+# Myanmar/Burma
+mizzima.com
+irrawaddy.com
+mmtimes.com
+frontiermyanmar.net
+dvb.no
+moi.gov.mm
+gnlm.com.mm
+7daydaily.com
+
+# Cambodia
+phnompenhpost.com
+khmertimeskh.com
+cambodiadaily.com
+voacambodia.com
+freshnewsasia.com
+postkhmer.com
+rasmeinews.com
+kohsantepheapdaily.com.kh
+
+# Laos
+vientianetimes.org.la
+laotiantimes.com
+laopost.com
+kpl.gov.la
+
+# Brunei
+brudirect.com
+borneobulletin.com.bn
+rtbnews.rtb.gov.bn
+mediapermata.com.bn
+
+# Timor-Leste
+tatoli.tl
+independente.tl
+thedili.com
+gmntv.tl
+
+# ============================================
+# MIDDLE EAST (ADDITIONAL)
+# ============================================
+# Yemen
+yemenpress.org
+almasdaronline.net
+newsyemen.net
+adenghad.net
+almethaq.net
+saudigazette.com.sa/yemen
+
+# Syria
+sana.sy
+champress.net
+syria-news.com
+enabbaladi.net
+syriadirect.org
+syriauntold.com
+tishreen.news.sy
+
+# Palestine
+wafa.ps
+maannews.com
+alquds.com
+pnn.ps
+imemc.org
+english.palinfo.com
+alwatanvoice.com
+palestinechronicle.com
+mondoweiss.net
+
+# ============================================
+# CARIBBEAN
+# ============================================
+# Cuba
+granma.cu
+cubadebate.cu
+juventudrebelde.cu
+prensa-latina.cu
+oncubanews.com
+diariodecuba.com
+14ymedio.com
+cibercuba.com
+cubanet.org
+
+# Jamaica
+jamaicaobserver.com
+jamaica-gleaner.com
+loopjamaica.com
+nationwide90fm.com
+tvj.co.jm
+rjrnewsonline.com
+go-jamaica.com
+
+# Haiti
+lenouvelliste.com
+haitilibre.com
+metropolehaiti.com
+alterpresse.org
+haitiantimes.com
+ayibopost.com
+radiotelevisioncaraibes.com
+
+# Dominican Republic
+listindiario.com
+diariolibre.com
+elcaribe.com.do
+hoy.com.do
+elnuevodiario.com.do
+z101digital.com
+teleantillas.com.do
+noticiassin.com
+
+# Puerto Rico
+elnuevodia.com
+primerahora.com
+elvocero.com
+noticel.com
+cbsenlinea.com
+metro.pr
+periodicolaperla.com
+larespsatisfecho.com
+
+# Trinidad and Tobago
+guardian.co.tt
+trinidadexpress.com
+newsday.co.tt
+ttconnect.gov.tt
+looptt.com
+cnc3.co.tt
+tv6tnt.com
+
+# Bahamas
+tribune242.com
+thenassauguardian.com
+bahamaspress.com
+aborneone.com
+magneticmediatv.com
+
+# Barbados
+nationnews.com
+barbadostoday.bb
+loopbarbados.com
+barbadosadvocate.com
+gaborone.net
+
+# Saint Lucia
+stluciatimes.com
+thevoiceslu.com
+stlucianewsonline.com
+slbc.lc
+
+# Grenada
+nowgrenada.com
+thegrenadianvoice.com
+caribbeannewsnow.com/grenada
+grenadabroadcast.com
+
+# Saint Vincent and the Grenadines
+iwnsvg.com
+thevincentian.com
+svgtv.com
+searchlight.vc
+
+# Antigua and Barbuda
+antiguaobserver.com
+pointvilletoday.com
+antiguanewsroom.com
+caribbeannewsnow.com/antigua
+
+# Dominica
+dominicanewsonline.com
+thedabornnative.com
+dominicanet.com
+
+# Saint Kitts and Nevis
+thestkittsnevisobserver.com
+sknvibes.com
+winnfm.com
+zizonline.com
+
+# Cayman Islands
+caymancompass.com
+cayman27.com.ky
+caymannewsservice.com
+caymancurrent.com
+
+# British Virgin Islands
+bvinews.com
+virginislandsdailynews.com
+bvibeacon.com
+
+# US Virgin Islands
+virginislandsdailynews.com
+stthomassource.com
+stcroixsource.com
+stjohntradewinds.com
+
+# Turks and Caicos
+suntci.com
+tciway.tc
+magneticmediatv.com/tci
+
+# Bermuda
+royalgazette.com
+bernews.com
+bermudasun.bm
+
+# Aruba
+diario.aw
+arubatoday.com
+24ora.com
+themorningnewsaruba.com
+
+# Curaçao
+curacaochronicle.com
+antilliaandagostocuracao.com
+extra.cw
+vigilante.cw
+
+# Sint Maarten
+thedailyherald.sx
+smn-news.com
+721news.com
+sxmislandtime.com
+
+# Bonaire
+bonairenewspaper.com
+bonaireinsider.com
+flamingotv.net
+
+# Anguilla
+theanguillian.com
+anguillaoye.com
+
+# Montserrat
+themontserratreporter.com
+govms.ms
+
+# ============================================
+# CENTRAL AMERICA
+# ============================================
+# Guatemala
+prensalibre.com
+soy502.com
+publinews.gt
+elperiodico.com.gt
+lahora.gt
+republica.gt
+nomada.gt
+guatevision.com
+
+# Honduras
+laprensa.hn
+elheraldo.hn
+proceso.hn
+tiempo.hn
+latribuna.hn
+criterio.hn
+conexihon.hn
+hondudiario.com
+
+# El Salvador
+elsalvador.com
+laprensagrafica.com
+diariocolatino.com
+eldiariodehoy.com
+elfaro.net
+revistafactum.com
+gato encerrado.com
+
+# Nicaragua
+laprensa.com.ni
+elnuevodiario.com.ni
+confidencial.com.ni
+100noticias.com.ni
+articulo66.com
+havana times.org/nicaragua
+
+# Costa Rica
+nacion.com
+crhoy.com
+ticotimes.net
+larepublica.net
+teletica.com
+ameliarueda.com
+delfino.cr
+elmundo.cr
+
+# Panama
+prensa.com
+laestrella.com.pa
+critica.com.pa
+diaadia.com.pa
+tvn-2.com
+telemetro.com
+metrolibre.com
+panamaamerica.com.pa
+
+# Belize
+amandala.com.bz
+breakingbelizenews.com
+lovefm.com
+sanpedrosun.com
+reporter.bz
+channel5belize.com
+
+# ============================================
+# SOUTH AMERICA (ADDITIONAL)
+# ============================================
+# Ecuador
+eluniverso.com
+elcomercio.com
+expreso.ec
+extra.ec
+lahora.com.ec
+primicias.ec
+vistazo.com
+planv.com.ec
+gk.city
+
+# Bolivia
+eldeber.com.bo
+la-razon.com
+lostiempos.com
+paginasiete.bo
+opinion.com.bo
+eju.tv
+erbol.com.bo
+boliviaentusmanos.com
+
+# Paraguay
+abc.com.py
+lanacion.com.py
+ultimahora.com
+hoy.com.py
+5dias.com.py
+extra.com.py
+ip.gov.py
+
+# Uruguay
+elobservador.com.uy
+elpais.com.uy
+montevideo.com.uy
+subrayado.com.uy
+lr21.com.uy
+ladiaria.com.uy
+busqueda.com.uy
+brecha.com.uy
+
+# Guyana
+staabornnews.com
+kaieteurnewsonline.com
+gaboroneline.com
+ncnguyana.com
+newsroom.gy
+demerarawaves.com
+guyanatimesgy.com
+
+# Suriname
+srherald.com
+waterkant.net
+starnieuws.com
+dwtonline.com
+surinameherald.com
+
+# French Guiana
+guyane.la1ere.fr
+franceguyane.fr
+guyaweb.com
+
+# Falkland Islands
+penguin-news.com
+falklandislands.com
+fig.gov.fk
+
+# ============================================
+# ADDITIONAL AFRICAN COUNTRIES
+# ============================================
+# Libya
+libyaobserver.ly
+libyaherald.com
+alwasat.ly
+218tv.net
+afrigatenews.net
+
+# Sudan
+sudantribune.com
+dabangasudan.org
+sudanakhbar.com
+alrakoba.net
+sudaneseonline.com
+
+# South Sudan
+eyeradio.org
+radiotamazuj.org
+sudanstribune.com/southsudan
+nationmirror.com
+
+# Eritrea
+shabait.com
+tesfanews.net
+madote.com
+awate.com
+asmarino.com
+
+# Djibouti
+lanation.dj
+djiboutinews.com
+adi.dj
+
+# Somalia
+hiiraan.com
+garoweonline.com
+horseedmedia.net
+radioshabelle.com
+voasomali.com
+goobjoog.com
+
+# Somaliland
+somalilandstandard.com
+horndiplomat.com
+somalilandpress.com
+
+# Zimbabwe
+newzimbabwe.com
+zimlive.com
+herald.co.zw
+chronicle.co.zw
+thezimbabwemail.com
+263chat.com
+zbcnews.co.zw
+newsday.co.zw
+
+# Zambia
+lusakatimes.com
+znbc.co.zm
+times.co.zm
+daily-mail.co.zm
+mwebantu.com
+diggers.news
+
+# Malawi
+nyasatimes.com
+mwnation.com
+times.mw
+malawivoice.com
+faceofmalawi.com
+zodiak malawi.com
+
+# Mozambique
+clubofmozambique.com
+verdade.co.mz
+jornalnoticias.co.mz
+opais.co.mz
+savana.co.mz
+@verdade.co.mz
+
+# Botswana
+mmegi.bw
+sundaystandard.info
+thepatriotonsunday.co.bw
+botswanaguardian.co.bw
+dailynews.gov.bw
+thegazette.news
+
+# Namibia
+namibian.com.na
+newera.com.na
+economist.com.na
+confidente.com.na
+informante.web.na
+republikein.com.na
+
+# Angola
+jornaldeangola.ao
+angop.ao
+rna.ao
+tpa.ao
+platinaline.com
+folha8.co.ao
+maka-angola.org
+clubk.net
+
+# Democratic Republic of Congo
+radiookapi.net
+actualite.cd
+7sur7.cd
+mediacongo.net
+congoforum.be
+cas-info.ca
+politico.cd
+
+# Republic of Congo (Congo-Brazzaville)
+adiac-congo.com
+vfrancophone.com
+congo-site.com
+brabornesangolo.com
+
+# Gabon
+gabonreview.com
+gabonactu.com
+union.sonapresse.com
+infos gabon.com
+
+# Equatorial Guinea
+guineaecuatorialpress.com
+asodegue.org
+larepublicaguinea.com
+
+# Central African Republic
+radiondekeluka.org
+africanews.com/tag/central-african-republic
+rfi.fr/afrique/centrafrique
+
+# Chad
+tchadinfos.com
+alwihdainfo.com
+journaldutchad.com
+tchadenligne.com
+
+# Niger
+actuniger.com
+nigerdiaspora.net
+tamtaminfo.com
+lesahel.org
+
+# Mali
+maliweb.net
+bamada.net
+journaldumali.com
+malijet.com
+maliactu.net
+essor.ml
+
+# Burkina Faso
+lefaso.net
+burkina24.com
+sidwaya.info
+omegabf.net
+lobs.bf
+fasonet.bf
+
+# Togo
+republicoftogo.com
+togofirst.com
+icilome.com
+toloinfo.info
+saabornetoday.com
+
+# Benin
+lanouvelletribune.info
+fraternitebj.info
+24haubenin.info
+beninwebtv.com
+ortb.bj
+
+# Guinea
+guineenews.org
+africaguinee.com
+mosaiqueguinee.com
+guineematin.com
+mediaguinee.org
+
+# Guinea-Bissau
+ditadura.info
+gaznot.com
+nfricalusofona.info/guine-bissau
+
+# Sierra Leone
+awoko.org
+awareness times.com
+standardtimespress.org
+sabornestar.com
+politicosl.com
+
+# Liberia
+frontpageafricaonline.com
+liberianobserver.com
+thenewdawnliberia.com
+gabornepost.com
+bushchicken.com
+
+# Gambia
+gainako.com
+foroyaa.net
+standardgm.com
+thepointgm.com
+gambiastandard.com
+
+# Mauritania
+ami.mr
+cridem.org
+alakhbar.info
+mauriweb.info
+saharamedia.net
+
+# Western Sahara
+wsahara.net
+saharawi.net
+spsrasd.info
+
+# Cape Verde
+asemana.cv
+expressodasilhas.cv
+inforpress.cv
+cvtelecom.cv
+rtc.cv
+
+# São Tomé and Príncipe
+telanon.info
+jornaltransparencia.st
+noticiastp.com
+
+# Comoros
+alwatwan.net
+lagazette descomores.com
+comores-infos.net
+
+# Mauritius
+lexpress.mu
+defimedia.info
+lemauricien.com
+ionnews.mu
+lematinal.media
+radioplusalive.com
+
+# Seychelles
+nation.sc
+seychellesnewsagency.com
+todayinseychelles.com
+sbc.sc
+
+# Madagascar
+midi-madagasikara.mg
+lexpressmada.com
+newsmada.com
+matv.mg
+moov.mg
+gasypatriote.com
+
+# Réunion
+linfo.re
+clicanoo.re
+reunion.orange.fr
+imaz-press.com
+
+# Mayotte
+mayottehebdo.com
+flashinfos.mayotte.orange.fr
+kwezi.info
+
+# eSwatini (Swaziland)
+observer.org.sz
+times.co.sz
+swabornenewspaper.co.sz
+
+# Lesotho
+lestimes.com
+sundayexpress.co.ls
+mopheme.co.ls
+publiceyenews.com
+
+# ============================================
+# PACIFIC ISLANDS
+# ============================================
+# Papua New Guinea
+postcourier.com.pg
+thenational.com.pg
+pngfacts.com
+looppng.com
+pngattitude.com
+emtv.com.pg
+
+# Fiji
+fijitimes.com
+fijivillage.com
+fbcnews.com.fj
+fijibroadcasting.com.fj
+fijisun.com.fj
+
+# Solomon Islands
+solomontimes.com
+solomonstarnews.com
+sibconline.com.sb
+
+# Vanuatu
+dailypost.vu
+vanuatudaily.com
+vbtc.vu
+
+# New Caledonia
+lnc.nc
+caledonia.nc
+nouvelle-caledonie.la1ere.fr
+
+# Samoa
+samoaobserver.ws
+samoa planet.com
+talamua.com
+tvsamoa.ws
+
+# American Samoa
+samoanews.com
+kvzk-tv.com
+
+# Tonga
+tongabroadcasting.net
+matangitonga.to
+tongadailynews.to
+keleaonline.com
+
+# Micronesia (FSM)
+fsmpio.fm
+fsmgov.org
+kaselehlie.net
+
+# Palau
+palaugov.pw
+islandtimes.us
+palauwave.com
+
+# Marshall Islands
+marshallislandsjournal.com
+mabornejvoa.com
+yokwe.net
+
+# Kiribati
+bwa.org.ki
+kiribatinewswatch.com
+
+# Nauru
+naurugov.nr
+naurumedia.nr
+
+# Tuvalu
+tuvaluislands.com
+timesoftuvalu.com
+
+# Cook Islands
+cookislandsnews.com
+cook-islands.gov.ck
+
+# Niue
+gov.nu
+bcn.nu
+
+# Tokelau
+tokelau.org.nz
+
+# French Polynesia
+tahiti-infos.com
+ladepeche.pf
+tahiti-nui.tv
+polynesie.la1ere.fr
+
+# Wallis and Futuna
+wallis-et-futuna.la1ere.fr
+
+# Guam
+postguam.com
+kuam.com
+pncguam.com
+guampdn.com
+
+# Northern Mariana Islands
+saipantribune.com
+mabornevariety.com
+
+# Pitcairn Islands
+government.pn
+pitcairn.pn
+
+# Norfolk Island
+norfolkisland.com.au
+
+# Christmas Island
+christmas.net.au
+
+# Cocos (Keeling) Islands
+cocoskeelingislands.com.au
+
+# ============================================
+# ADDITIONAL TERRITORIES & DEPENDENCIES
+# ============================================
+# Hong Kong (expanded)
+hk01.com
+am730.com.hk
+mingpao.com
+hkej.com
+bastillepost.com
+orangenews.hk
+dotdotnews.com
+hket.com
+on.cc
+
+# Macau
+macaudailytimes.com.mo
+macaubusiness.com
+macaupostdaily.com
+macaonews.org
+tdm.com.mo
+exmoo.com
+
+# Taiwan (expanded)
+taiwannews.com.tw
+focustaiwan.tw
+taipeitimes.com
+cna.com.tw
+ltn.com.tw
+udn.com
+chinatimes.com
+ettoday.net
+setn.com
+tvbs.com.tw
+ctitv.com.tw
+nextmag.com.tw
+
+# Åland Islands
+nyan.ax
+alandstidningen.ax
+
+# Svalbard
+svalbardposten.no
+sysselmannen.no
+
+# Saint Pierre and Miquelon
+spm.la1ere.fr
+
+# Saint Helena
+sainthelena.gov.sh
+sthelenaonline.org
+
+# Ascension Island
+ascension.gov.ac
+
+# Tristan da Cunha
+tristandc.com
+
+# South Georgia and South Sandwich Islands
+gov.gs
+
+# French Southern Territories
+taaf.fr
+
+# British Indian Ocean Territory
+bfroa.gov.io
+
+# Heard Island and McDonald Islands
+heardisland.aq
+
+# Bouvet Island
+bouvetisland.info
+
+# Antarctica
+antarctica.gov.au
+antarcticanz.govt.nz
+nsf.gov/geo/opp
+comnap.aq
+
+# Jan Mayen
+jan-mayen.no
+
+# Clipperton Island
+clipperton.fr
+
+# Baker Island / Howland Island / Jarvis Island
+fws.gov/pacific
+
+# Johnston Atoll
+johnstonatoll.com
+
+# Kingman Reef
+kingmanreef.info
+
+# Midway Islands
+fws.gov/refuge/midway-atoll
+
+# Palmyra Atoll
+palmyraatoll.org
+
+# Wake Island
+wakeisland.info
+
+# ============================================
+# ADDITIONAL INTERNATIONAL NEWS NETWORKS
+# ============================================
+# Global Wire Services & News Agencies
+reuters.com
+apnews.com
+afp.com
+xinhuanet.com
+tass.com
+efe.com
+ansa.it
+pap.pl
+apa.at
+belga.be
+lusa.pt
+mti.hu
+ctk.cz
+sta.si
+hina.hr
+tanjug.rs
+mia.mk
+bta.bg
+agerpres.ro
+
+# International Broadcasters
+bbc.com/news
+cnn.com
+aljazeera.com
+dw.com
+france24.com
+rt.com
+cgtn.com
+nhk.or.jp/nhkworld
+arirang.com
+trtworld.com
+euronews.com
+i24news.tv
+wionews.com
+africanews.com
+
+# Regional News Networks
+asiatimes.com
+channelnewsasia.com
+straitstimes.com
+bangkokpost.com
+scmp.com
+japantimes.co.jp
+koreaherald.com
+hindustantimes.com
+dawn.com
+dailystar.net
+bbc.com/persian
+bbc.com/arabic
+bbc.com/russian
+bbc.com/hindi
+bbc.com/urdu
+bbc.com/bangla
+bbc.com/tamil
+bbc.com/telugu
+bbc.com/marathi
+bbc.com/gujarati
+bbc.com/punjabi
+bbc.com/indonesian
+bbc.com/vietnamese
+bbc.com/thai
+bbc.com/burmese
+bbc.com/nepali
+bbc.com/sinhala
+bbc.com/pashto
+bbc.com/hausa
+bbc.com/swahili
+bbc.com/somali
+bbc.com/amharic
+bbc.com/tigrinya
+bbc.com/gahuza
+bbc.com/portuguese
+bbc.com/turkce
+bbc.com/ukrainian
+bbc.com/serbian
+bbc.com/azeri
+bbc.com/uzbek
+bbc.com/kyrgyz
+voafarsi.com
+voaturkce.com
+voaindonesia.com
+voanews.com/khmer
+voanews.com/lao
+voanews.com/tibetan
+rfa.org
+svoboda.org
+
+# Major International Magazines
+economist.com
+foreignaffairs.com
+foreignpolicy.com
+theatlantic.com
+newstatesman.com
+spectator.co.uk
+prospect.org
+lrb.co.uk
+nybooks.com
+harpers.org
+parisreview.org
+granta.com
+n-plus-one.org
+thebaffler.com
+jacobin.com
+currentaffairs.org
+newleftreview.org
+dissent magazine.org
+nationalreview.com
+weeklystandard.com
+americanconservative.com
+amgreatness.com
+city-journal.org
+commentary.org
+firstthings.com
+plough.com
+commonweal magazine.org
+america magazine.org
+thenation.com
+motherjones.com
+inthesetimes.com
+progressive.org
+truthout.org
+counterpunch.org
+consortiumnews.com
+mintpressnews.com
+theintercept.com
+propublica.org
+revealnews.org
+icij.org
+
+# International Business Media
+ft.com
+bloomberg.com
+cnbc.com
+marketwatch.com
+barrons.com
+ibtimes.com
+ibtimes.co.uk
+businessinsider.com
+qz.com
+fastcompany.com
+inc.com
+fortune.com
+forbes.com
+hbr.org
+mckinsey.com
+bcg.com
+bain.com
