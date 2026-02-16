@@ -1,0 +1,1803 @@
+# Daycares & Learning Centers - United States
+# Comprehensive OSINT Resource List
+
+# ============================================
+# FEDERAL OVERSIGHT & REGULATION
+# ============================================
+acf.hhs.gov/occ
+childcareta.acf.hhs.gov
+eclkc.ohs.acf.hhs.gov
+headstart.gov
+fns.usda.gov
+oig.usda.gov
+usda.gov/oig
+ed.gov
+gao.gov
+oig.hhs.gov
+ssa.gov/childcare
+
+# ============================================
+# NATIONAL ASSOCIATIONS
+# ============================================
+naeyc.org
+nafcc.org
+childcareaware.org
+nccanet.org
+nhsa.org
+nieer.org
+zerotothree.org
+naecs-sde.org
+ccsso.org
+naccp.org
+acei.org
+seca.info
+ffyf.org
+childtrends.org
+
+# ============================================
+# MAJOR NATIONAL CHAINS
+# ============================================
+kindercare.com
+brighthorizons.com
+learningcaregroup.com
+goddardschool.com
+primrosefranchise.com
+childrenslighthouse.com
+lightbridgeacademy.com
+cadenceacademy.com
+creativeworldschool.com
+kiddie.com
+thelearningexperience.com
+kidsrkids.com
+childtimeclc.com
+tutor-time.com
+lapetite.com
+newhopechildcarecenter.com
+sunshinelearningcenter.com
+winniepalmer.com
+childcareconnection.org
+kidscountryusa.com
+kidsacademyusa.com
+littlescholarsnyc.com
+sunrisepreschools.com
+appletreekids.com
+buildingblockslearning.com
+creativekidspreschool.com
+discoverykidspreschool.com
+earlylearningacademy.com
+futurestarschildcare.com
+happydayschildcare.com
+kidschoicelearning.com
+learningladderpreschool.com
+littleangelsacademy.com
+littlestarspreschool.com
+nextgenerationkids.com
+playandlearnchildcare.com
+primaryprep.com
+rainbowkidsacademy.com
+risingstarspreschool.com
+sunnysideup.com
+tinytotsdaycare.com
+wonderyearslearning.com
+
+# ============================================
+# ADDITIONAL NATIONAL FRANCHISES
+# ============================================
+adventurekidsplaycare.com
+amazingexplorersmontessori.com
+bestinclassfranchise.com
+bigtimelearningcenters.com
+brightstartacademy.com
+childrenscampus.com
+childrenscourtyard.com
+clubz.com
+cricketlearningcenters.com
+creme-de-la-creme.com
+cyberkinderz.com
+educarechildcare.com
+explorationstation.com
+funshineexpress.com
+gardnerlearning.com
+grandmasgarden.com
+growingroomchilddevelopment.com
+handprintacademy.com
+honeytreepreschool.com
+imaginationlearningcenter.com
+ivykidsearlylearning.com
+journeysearlylearning.com
+justlikehomechildcare.com
+kiddiecorner.com
+kidsacademy.org
+kidscityusa.com
+kidsrgreat.com
+kidstuff.com
+kidstownusa.com
+kidsvillage.com
+kidsworldlearning.com
+kingdomkidslearning.com
+knowledgebeginnings.com
+languagestars.com
+learnandplaychildcare.com
+learningbrooke.com
+learningpost.com
+learningtree.com
+legacyacademy.com
+littleacorns.com
+littleblossoms.com
+littlebrightstars.com
+littlechamps.com
+littleeinsteins.com
+littleexplorers.com
+littleflowers.com
+littlegeniusacademy.com
+littlehands.com
+littleleaderspreschool.com
+littlemonkeys.com
+littleoneschildcare.com
+littlepeoplechildcare.com
+littlerascals.com
+littlescholars.com
+littlesunshinespreschool.com
+littlethinkers.com
+littletikes.com
+littletots.com
+littletreasures.com
+littlewonders.com
+memorygarden.com
+mykidsdaycare.com
+newbeginningsdaycare.com
+newhorizonschildcare.com
+northstarlearning.com
+onceuponachild.com
+openarmschildcare.com
+ourchildrensacademy.com
+parkwaylearningcenter.com
+peacefulplayschool.com
+pebblebrookpreschool.com
+pinnacleacademy.com
+playhouselearningcenter.com
+preciousmomentsdaycare.com
+preparatorylearningcenter.com
+primarylearningacademy.com
+progressivelearning.com
+promiselanddaycare.com
+qualitykidscare.com
+questearlylearning.com
+rainbowchilddevelopment.com
+readysetgrow.com
+risinggeneration.com
+safehavenchildcare.com
+seedsoflearning.com
+shiningstarspreschool.com
+smartstart.com
+smilingfaces.com
+springboardkids.com
+steppingstoneschildcare.com
+sunflowerpreschool.com
+sunshinekidsacademy.com
+sweetpeachildcare.com
+teddybearchildcare.com
+theeducationcenter.com
+thekidscorner.com
+thelearninggarden.com
+thelearningtree.com
+thenurseryschool.com
+theplayroom.com
+tinyfeetdaycare.com
+tinyhandslearning.com
+tinytreasures.com
+toddlersteps.com
+topkidsacademy.com
+treehouselrng.com
+villagekids.com
+whizkidslearning.com
+wiseowlpreschool.com
+wonderlandlearningcenter.com
+yellowbrickroadchildcare.com
+youngmindspreschool.com
+yourchildsfuture.com
+
+# ============================================
+# REGIONAL CHAINS - NORTHEAST
+# ============================================
+celebree.com
+littlepeoplesbigworld.com
+kidsandcompany.com
+appleseeds.com
+blueskydaycare.com
+brightchildcare.com
+abclearningcenterny.com
+alldaychildcare.com
+alphabetacademy.com
+beaconhillnursery.com
+belmontdayschool.com
+berkshirechildcare.com
+bostonnursery.com
+brightkidsboston.com
+brooklynkids.com
+buckscountychildcare.com
+cambridgechildcare.com
+capitaldistrictchildcare.com
+chesapeakechildcare.com
+connecticutkids.com
+discoverychildcarect.com
+earlyyearsacademy.com
+eastcoastkids.com
+elitechildcareny.com
+fairfieldkidscare.com
+foundationschildcare.com
+gardenstatekids.com
+greatstartnj.com
+greenwichchildcare.com
+harborsidechildcare.com
+hartfordchildcare.com
+hudsonvalleychildcare.com
+keystonechildcare.com
+kidsclubny.com
+kidsconnectne.com
+kidsfirstma.com
+kidsharborny.com
+kidsplacenh.com
+kidstationct.com
+kidzonene.com
+kingsparkchildcare.com
+littleacademyny.com
+littlebloomersne.com
+littlefriendsny.com
+littlegeniusny.com
+littlekingdomne.com
+littlelearnersct.com
+littleonesnyc.com
+littlepeopleny.com
+littlestepsma.com
+longislandchildcare.com
+mainechildcare.org
+manhattankidsclub.com
+marylandchildcare.com
+massachusettschildcare.com
+meadowbrookchildcare.com
+midtownkidsnyc.com
+monmouthchildcare.com
+montclairchildcare.com
+nassauchildcare.com
+newenglandchildcare.com
+newhampshirechildcare.com
+newhavenchildcare.com
+newjerseychildcare.com
+newyorkchildcare.com
+northeastlearning.com
+northshorekids.com
+philadelphiachildcare.com
+pittsburghchildcare.com
+premierchildcareny.com
+princetonchildcare.com
+providencechildcare.com
+queenschildcare.com
+rhodeislandchildcare.com
+rochesterchildcare.com
+scarsdalekids.com
+somersetchildcare.com
+southshorekids.com
+springfieldchildcare.com
+stamfordchildcare.com
+statenislandchildcare.com
+suffolkchildcare.com
+syracusechildcare.com
+triboroughkids.com
+uppermontclairkids.com
+vermontchildcare.org
+westchesterchildcare.com
+worcesterchildcare.com
+
+# ============================================
+# REGIONAL CHAINS - SOUTHEAST
+# ============================================
+rainbowstation.org
+kidsconnection.com
+ivyleagueschools.com
+childrenscottage.com
+littlelambnursery.com
+alabamachildcare.com
+atlantachildcare.com
+atlantakidsacademy.com
+buckheadchildcare.com
+carolinachildcare.com
+carolinakidsacademy.com
+charlottechildcare.com
+chattanoogachildcare.com
+coastalchildcare.com
+columbiachildcare.com
+dallaskidscare.com
+dixielandchildcare.com
+durhamchildcare.com
+eastpointchildcare.com
+floridachildcare.com
+floridakidsacademy.com
+fortlauderdalechildcare.com
+gainesvillechildcare.com
+georgiachildcare.com
+greensborochildcare.com
+greateratlantachildcare.com
+gulfcoastchildcare.com
+houstonkidscare.com
+jacksonvillechildcare.com
+kentuckychildcare.com
+knoxvillechildcare.com
+louisianakidscare.com
+maborochildcare.com
+memphischildcare.com
+miamichildcare.com
+mississippikidscare.com
+mobilekidscare.com
+nashvillechildcare.com
+neworldansfamilychildcare.com
+northcarolinachildcare.com
+orlandochildcare.com
+palmbeachchildcare.com
+peachtreechildcare.com
+pensacolachildcare.com
+raleighchildcare.com
+richmondchildcare.com
+sandyhillchildcare.com
+savannahchildcare.com
+southcarolinachildcare.com
+southeastkids.com
+southernkidscare.com
+stpetechildcare.com
+sunbeltchildcare.com
+sunshinestatekids.com
+tallahasseechildcare.com
+tampachildcare.com
+tennesseechildcare.com
+virginiachildcare.com
+westpalmchildcare.com
+wilmingtoncchildcare.com
+
+# ============================================
+# REGIONAL CHAINS - MIDWEST
+# ============================================
+kinderberryhill.com
+newmorningschool.org
+pearlsoflearning.com
+kiddiegardenacademy.com
+littlelearnersdaycare.com
+aurorachildcare.com
+bloomingtonchildcare.com
+cedarrapidschildcare.com
+champaignchildcare.com
+chicagochildcare.com
+chicagokidsacademy.com
+cincinnatichildcare.com
+clevelandchildcare.com
+columbuschildcare.com
+daytonchildcare.com
+desmoineschildcare.com
+detroitchildcare.com
+duluthchildcare.com
+elkgrovechildcare.com
+evanstonchildcare.com
+fortwaynechildcare.com
+grandrapidschildcare.com
+greenbaychildcare.com
+heartlandchildcare.com
+illinoischildcare.com
+indianachildcare.com
+indianapolischildcare.com
+iowachildcare.com
+kansascitychildcare.com
+kansaschildcare.com
+lakeshorekids.com
+lansingchildcare.com
+lincolnchildcare.com
+madisonchildcare.com
+midwesternkids.com
+milwaukeechildcare.com
+minneapolischildcare.com
+minnesotachildcare.com
+missourichildcare.com
+nebraskachildcare.com
+northdakotachildcare.com
+ohiochildcare.com
+omahachildcare.com
+peoriachildcare.com
+prairielandkids.com
+rochestermn.com
+rockfordchildcare.com
+siouxfallschildcare.com
+southdakotachildcare.com
+springfieldilchildcare.com
+stlouischildcare.com
+stpaulchildcare.com
+toledochildcare.com
+topekakidscare.com
+twincitieskids.com
+wichitachildcare.com
+wisconsinchildcare.com
+
+# ============================================
+# REGIONAL CHAINS - SOUTHWEST
+# ============================================
+childrenscourtyard.com
+kidspark.com
+kidsrushour.com
+kiddieprepschool.com
+blueskykindergarten.com
+albuquerquechildcare.com
+amarillochildcare.com
+arizonachildcare.com
+austinchildcare.com
+austinkidsacademy.com
+bigspringchildcare.com
+canyonchildcare.com
+chandlerchildcare.com
+coloradochildcare.com
+dallaschildcare.com
+denverhttps://childcare.com
+denverkidsacademy.com
+elpasonchildcare.com
+flagstaffchildcare.com
+fortworthchildcare.com
+gilbertchildcare.com
+glendalechildcare.com
+houstonchildcare.com
+houstonkidsacademy.com
+lascruceschildcare.com
+lasvegaschildcare.com
+littlerockchildcare.com
+lubbockchildcare.com
+mesachildcare.com
+nevadachildcare.com
+newmexicochildcare.com
+northtexaskids.com
+oklahomacitychildcare.com
+oklahomachildcare.com
+peoriaazchildcare.com
+phoenixchildcare.com
+pueblochildcare.com
+rioranchodchildcare.com
+sanantoniochildcare.com
+santafechildcare.com
+scottsdalechildcare.com
+southwestkidscare.com
+sunvalleychildcare.com
+tempeechildcare.com
+texaschildcare.com
+tucsonchildcare.com
+tulsachildcare.com
+utahchildcare.com
+
+# ============================================
+# REGIONAL CHAINS - WEST
+# ============================================
+actiondayschools.com
+merryhill.com
+paloverde.org
+discoveryland.com
+learningbee.com
+wonderlandschool.com
+alaskachildcare.com
+anchoragechildcare.com
+bakersfieldchildcare.com
+bayareachildcare.com
+bellevuechildcare.com
+boisechildcare.com
+burbankchildcare.com
+californiachildcare.com
+carlsbadchildcare.com
+chuluvistachildcare.com
+concordchildcare.com
+coronachildcare.com
+costamesachildcare.com
+cupertinokids.com
+eastbaychildcare.com
+eugeneochildcare.com
+fremontchildcare.com
+fresnochildcare.com
+fullertonchildcare.com
+glendalecachildcare.com
+hawaiichildcare.com
+hollywoodchildcare.com
+honoluluchildcare.com
+huntingtonbeachchildcare.com
+idahochildcare.com
+irvineechildcare.com
+lachildcare.com
+lakidsacademy.com
+longbeachchildcare.com
+losangeleschildcare.com
+mauikids.com
+modestokidcare.com
+montanachildcare.com
+montereychildcare.com
+northerncaliforniakids.com
+oaklandchildcare.com
+oceanside childcare.com
+ontariochildcare.com
+orangecountychildcare.com
+oregonchildcare.com
+oxnardchildcare.com
+pacificnorthwestkids.com
+palmspringschildcare.com
+pasadenachildcare.com
+pomonachildcare.com
+portlandchildcare.com
+renochildcare.com
+riversidechildcare.com
+sacramentochildcare.com
+salinachildcare.com
+saltlakecitychildcare.com
+sandiegochildcare.com
+sanfranciscochildcare.com
+sanjosechildcare.com
+sanmateochildcare.com
+santaanachildcare.com
+santabarbarachildcare.com
+santaclarakids.com
+santacruzchildcare.com
+santamonicachildcare.com
+seattlechildcare.com
+siliconvalleykids.com
+sonomachildcare.com
+southerncaliforniakids.com
+spokanechildcare.com
+stocktonchildcare.com
+tacomachildcare.com
+temeculachildcare.com
+torrachildcare.com
+vallejochildcare.com
+vancouverwachildcare.com
+venturanchildcare.com
+washingtonchildcare.com
+westcoastkids.com
+wyomingchildcare.com
+
+# ============================================
+# LEARNING CENTERS & TUTORING
+# ============================================
+kumon.com
+sylvanlearning.com
+huntingtonlearning.com
+mathnasium.com
+tutordoctor.com
+oxfordlearning.com
+jeilearning.com
+eyeLevel.com
+c2educate.com
+russianschool.com
+bestbrains.com
+abacusbraingym.com
+academyofmath.com
+aplus.com
+braintreekids.com
+brightmontacademy.com
+burnhamlearning.com
+champs-tutoring.com
+clubz.com
+collegenannies.com
+dragonfly-learning.com
+educationdynamics.com
+educationfirst.com
+eliteprep.com
+enrichmentadvantage.com
+gradesuccess.com
+gradepower.com
+gwlearning.com
+geniuskids.com
+highpointsacademy.com
+homeworkhelpers.com
+ideatech.com
+kaplan.com
+kidsbowlsfree.com
+knowledgepoints.com
+knotts-learning.com
+lctutoring.com
+learningexpress.com
+learningrx.com
+leveleducation.com
+lindamoodbell.com
+literacyfirst.com
+mathemagis.com
+mathpro.com
+mathwizards.com
+mymathgenie.com
+numberworksnwords.com
+oneononelearning.com
+precisionlearning.com
+prepmatters.com
+privatetutoring.com
+readingdoctor.com
+resultslearning.com
+rusticacademy.com
+scoreatshop.com
+smarttutorlearning.com
+snaplearning.com
+soholearning.com
+stemkids.com
+studypoint.com
+successtutoring.com
+tutoringclub.com
+tutoringzone.com
+tutorpace.com
+tutorsacross.com
+varsitytutors.com
+wyzant.com
+
+# ============================================
+# MONTESSORI NETWORKS
+# ============================================
+montessori.org
+amshq.org
+amiusa.org
+guidepostmontessori.com
+leportschools.com
+springstone-montessori.com
+montessorichildren.com
+primarymontessori.com
+montessoriconnections.com
+montessori-nw.org
+montessorischoolsofmassachusetts.org
+
+# ============================================
+# FAITH-BASED NETWORKS
+# ============================================
+lcms.org/schoolministry
+acsi.org
+pcacdm.org
+ncea.org
+agchurches.org
+ucc.org/education
+pcusa.org/childcare
+elca.org/daycare
+umc.org/childcare
+abc-usa.org/childcare
+
+# ============================================
+# HEAD START & EARLY HEAD START
+# ============================================
+nhsa.org
+eclkc.ohs.acf.hhs.gov
+headstartresources.org
+hsnrc.org
+
+# ============================================
+# YMCA & COMMUNITY ORGANIZATIONS
+# ============================================
+ymca.org
+bgca.org
+campfireorg.org
+girlscouts.org
+boyscouts.org
+4-h.org
+ywca.org
+jcca.org
+salvationarmyusa.org
+catholiccharitiesusa.org
+
+# ============================================
+# CHILDCARE SEARCH DIRECTORIES
+# ============================================
+care.com
+winnie.com
+childcarecenter.us
+daycareusa.com
+sittercity.com
+urbansitter.com
+daycare.com
+findchildcare.com
+childcareresource.com
+greatschools.org
+niche.com
+privateschoolreview.com
+boardingschoolreview.com
+
+# ============================================
+# STATE LICENSING LOOKUP PORTALS
+# ============================================
+childcareaware.org/resources/ccrr-search
+# Individual state portals below
+
+# Alabama
+dhr.alabama.gov/child-care
+
+# Alaska
+dhss.alaska.gov/dpa/Pages/ccare
+
+# Arizona
+azdes.gov/childcare
+
+# Arkansas
+arbetterbeginnings.com
+humanservices.arkansas.gov
+
+# California (Expanded)
+cdss.ca.gov/inforesources/child-care-licensing
+rrnetwork.org
+cde.ca.gov/sp/cd
+californiapreschool.org
+cachildcarehealth.org
+cspp.cde.ca.gov
+cappa.ca.gov
+first5california.com
+first5la.org
+first5sf.org
+laup.net
+cccrrn.org
+childcareresourcecenter.org
+crystalstairs.org
+chs-ca.org
+growingtogetherca.org
+resourceconnection4kids.org
+ccrcca.org
+cdefoundation.org
+caeyc.org
+ccala.net
+sccoe.org/childcare
+smcoe.org/for-families/child-care
+acgov.org/ssa/childcare
+sonomacounty.ca.gov/childcare
+sacchildcare.org
+fccc4kids.org
+kernchildcare.org
+occhildcarecouncil.com
+sdcoe.net/childcare
+sbcss.net/childcare
+vcoe.org/childcare
+icoe.org/childcare
+rcoe.us/childcare
+mcoe.org/childcare
+scoe.net/childcare
+
+# Colorado
+coloradoofficeofearlychildhood.com
+colorado.gov/cdhs/childcare
+
+# Connecticut
+ct.gov/oec
+ctoec.org
+
+# Delaware
+dhss.delaware.gov/dss/childcare
+
+# Florida
+myflorida.com/childcare
+floridaearlylearning.com
+
+# Georgia (Expanded)
+decal.ga.gov
+qualityrated.org
+gaefc.org
+georgiaearlyeducation.org
+uga.edu/childcare
+georgiafamily.org
+gavoices.org
+gaccrra.org
+cfnnga.org
+unitedwayatlanta.org/childcare
+qualitycareforkids.org
+brightfromthestart.com
+atlantachildcare.org
+cobbchildcareresources.org
+dekalbchildcare.org
+gwinnettkids.org
+fultonkids.org
+augustapartnership.org
+savannahchildcare.org
+columbuschildcare.org
+maconga.org
+athenschildcare.org
+gaheadstart.org
+gaeyc.org
+georgiadaycare.com
+careconnection.org
+childcaregeorgia.org
+mariettachildcare.org
+sandyspringschildcare.org
+alpharettapreschools.com
+gachildcareproviders.org
+
+# Hawaii
+humanservices.hawaii.gov/bessd/childcare
+
+# Idaho
+healthandwelfare.idaho.gov/children-youth-families
+
+# Illinois
+dhs.state.il.us/page.aspx?item=33855
+inccrra.org
+
+# Indiana
+in.gov/fssa/childcare
+childcareindiana.org
+
+# Iowa
+dhs.iowa.gov/childcare
+iowaaeyc.org
+
+# Kansas
+dcf.ks.gov/services/ees/pages/child-care
+
+# Kentucky
+chfs.ky.gov/agencies/dcbs/dcc
+
+# Louisiana
+louisianabelieves.com/early-childhood
+
+# Maine
+maine.gov/dhhs/ocfs/childcare
+
+# Maryland
+marylandfamilynetwork.org
+earlychildhood.marylandpublicschools.org
+
+# Massachusetts
+mass.gov/orgs/department-of-early-education-and-care
+eec.state.ma.us
+
+# Michigan
+michigan.gov/mde/services/early-learners
+
+# Minnesota (Expanded - Feeding Our Future Investigation)
+education.mn.gov
+dhs.state.mn.us/childcare
+parentaware.org
+mn.gov/dhs/partners-and-providers/licensing/child-care
+mn.gov/dhs/people-we-serve/children-and-families/services/child-care
+mncpd.org
+mnchildcare.org
+mnaeyc.org
+firstchildrensfinance.org
+thinksmall.org
+childcareawaremn.org
+mnafcc.org
+resourcesforchildcaring.org
+communityactionpartnership.com
+minneapolismn.gov/childcare
+stpaul.gov/childcare
+hennepincounty.us/childcare
+ramseycounty.us/childcare
+co.dakota.mn.us/childcare
+co.anoka.mn.us/childcare
+co.washington.mn.us/childcare
+scottcountymn.gov/childcare
+olmstedcounty.com/childcare
+stlouiscountymn.gov/childcare
+claycountymn.gov/childcare
+stearnscountymn.gov/childcare
+blueearthcountymn.gov/childcare
+mnheadstart.org
+greatermspromise.org
+wilder.org
+amherst.org
+lacrescentchildcare.org
+mnchildcareassociation.org
+feedingourchildren.org
+minnesotafoodshelf.org
+mde.state.mn.us
+auditor.state.mn.us
+oig.dhs.state.mn.us
+osa.state.mn.us
+lcc.mn.gov
+
+# Mississippi
+mdhs.ms.gov/childcare
+
+# Missouri
+dss.mo.gov/cd/childcare
+
+# Montana
+dphhs.mt.gov/ecfsd
+
+# Nebraska
+dhhs.ne.gov/childcare
+
+# Nevada
+childcarelicensing.nv.gov
+nvsilverstatestars.org
+
+# New Hampshire
+dhhs.nh.gov/dcyf/cdb
+
+# New Jersey
+childcarenj.gov
+njccis.com
+
+# New Mexico
+cyfd.org
+newmexicoprek.org
+
+# New York
+ocfs.ny.gov/programs/childcare
+qualitystarsny.org
+
+# North Carolina
+ncchildcare.nc.gov
+ncchildcareresources.org
+
+# North Dakota
+nd.gov/dhs/services/childfamily
+
+# Ohio
+childcarelicensing.ohio.gov
+occrra.org
+
+# Oklahoma
+okdhs.org/childcare
+
+# Oregon
+oregonearlylearning.com
+oregon.gov/ode/students-and-family/childcare
+
+# Pennsylvania
+pakeys.org
+dhs.pa.gov/childcare
+
+# Rhode Island
+kids.ri.gov
+dhs.ri.gov/programs-and-services/child-care-services
+
+# South Carolina
+scchildcare.org
+dss.sc.gov/child-care
+
+# South Dakota
+dss.sd.gov/childcare
+
+# Tennessee
+tn.gov/humanservices/for-families/child-care-services
+tnecd.com/early-learning
+
+# Texas
+hhs.texas.gov/services/child-care
+texasrisingstar.org
+
+# Utah
+childcareutah.gov
+care-about-quality.utah.gov
+
+# Vermont
+dcf.vermont.gov/cdd
+
+# Virginia
+doe.virginia.gov/early-childhood
+virginiaquality.com
+
+# Washington
+dcyf.wa.gov/services/earlylearning
+childcarenet.org
+
+# West Virginia
+dhhr.wv.gov/bcf/ece
+
+# Wisconsin
+dcf.wisconsin.gov/childcare
+youngstar.wi.gov
+
+# Wyoming
+health.wyo.gov/behavioralhealth/earlychildhood
+wyomingchildren.org
+wyomingkidscount.org
+wyomingearlychildhood.org
+
+# ============================================
+# US TERRITORIES
+# ============================================
+
+# Washington DC
+osse.dc.gov/childcare
+dcchildcare.org
+childcareconnectionsdc.org
+dcfamilies.org
+dcheadstart.org
+dckids.org
+washingtondc.gov/childcare
+
+# Puerto Rico
+familia.pr.gov
+prfaa.pr.gov
+headstartpr.org
+puertoricokids.org
+childcarepr.org
+prearlychildhood.org
+cuidadoinfantilpr.org
+prchilddevelopment.org
+
+# Guam
+guamchildcare.org
+dphss.guam.gov/childcare
+guamheadstart.org
+guamfamilyservices.org
+guamkids.org
+guamearlylearning.org
+
+# US Virgin Islands
+dhs.vi.gov/childcare
+vichildcare.org
+usviheadstart.org
+virginislandskids.org
+usviearlychildhood.org
+stthomaskids.org
+stcroixchildcare.org
+
+# American Samoa
+dhss.as.gov
+americansamoachildcare.org
+asheadstart.org
+samoakids.org
+
+# Northern Mariana Islands
+cnmidhs.gov.mp
+cnmichildcare.org
+saipanchildcare.org
+marianaheadstart.org
+
+# ============================================
+# EXPANDED STATE RESOURCES - ALL 50 STATES
+# ============================================
+
+# Alabama (Expanded)
+alabamachildcare.org
+alabamakids.org
+alapartnership.org
+birminghamchildcare.org
+maborochildcare.org
+mobilekids.org
+huntsvillechildcare.org
+montgomerychildcare.org
+tuscaloosachildcare.org
+
+# Alaska (Expanded)
+alaskachildcare.org
+anchoragekids.org
+fairbankschildcare.org
+juneauchildcare.org
+alaskaheadstart.org
+threadalaska.org
+
+# Arizona (Expanded)
+arizonakids.org
+phoenixchildcare.org
+tucsonkids.org
+mesachildcare.org
+chandlerkids.org
+tempechildcare.org
+scottsdalechildcare.org
+gilbertkids.org
+glendalechildcare.org
+peoriaazchildcare.org
+flagstaffkids.org
+yumachildcare.org
+firstthingsaz.org
+arizonaearlychildhood.org
+qualityfirstaz.org
+
+# Arkansas (Expanded)
+arkansaschildcare.org
+littlerockkids.org
+fortsmithchildcare.org
+fayettevillechildcare.org
+arkansasheadstart.org
+arkansasearly.org
+arearlychildhood.org
+
+# Colorado (Expanded)
+coloradokids.org
+denverchildcare.org
+coloradospringschildcare.org
+auroracochildcare.org
+boulderkids.org
+fortcollinschildcare.org
+lakewoodchildcare.org
+pueblokids.org
+coloradoshines.com
+earlychildhoodcolorado.org
+qualistar.org
+
+# Connecticut (Expanded)
+connecticutkids.org
+hartfordchildcare.org
+newhavenkids.org
+stamfordchildcare.org
+bridgeportchildcare.org
+waterburychildcare.org
+norwalkchildcare.org
+greenwichkids.org
+ctearlychildhood.org
+
+# Delaware (Expanded)
+delawarechildcare.org
+wilmingtonkids.org
+doverde.gov/childcare
+newarkdechildcare.org
+delawarestars.udel.edu
+delawareearlychildhood.org
+
+# Florida (Expanded)
+floridakids.org
+miamichildcare.org
+orlandokids.org
+tampachildcare.org
+jacksonvillekids.org
+stpetechildcare.org
+fortlauderdalekids.org
+tallahasseechildcare.org
+palmbeachkids.org
+gainesville childcare.org
+pensacolakids.org
+naplesfloridachildcare.org
+floridaheadstart.org
+floridaearlylearning.com
+elcbroward.org
+elcmdm.org
+
+# Hawaii (Expanded)
+hawaiikids.org
+honoluluchildcare.org
+mauichildcare.org
+kauaichildcare.org
+bigislandkids.org
+hawaiiheadstart.org
+goodbeginningshawaii.org
+patch-hi.org
+hawaiiearlychildhood.org
+
+# Idaho (Expanded)
+idahokids.org
+boisechildcare.org
+idahofallschildcare.org
+pocatellokids.org
+nampachildcare.org
+meridianchildcare.org
+idahoaeyc.org
+idahostars.org
+
+# Illinois (Expanded)
+illinoiskids.org
+chicagochildcare.org
+aurorachildcare.org
+rockfordchildcare.org
+jolietchildcare.org
+naperville.gov/childcare
+springfieldilchildcare.org
+peorilailchildcare.org
+elginchildcare.org
+waukegankids.org
+chicagoearlylearning.org
+illinoisearlychildhood.org
+starnet.org
+inccrra.org
+
+# Indiana (Expanded)
+indianakids.org
+indianapolischildcare.org
+fortwaynechildcare.org
+evansvillechildcare.org
+southbendchildcare.org
+carmelchildcare.org
+fisherskids.org
+bloomingtonchildcare.org
+lafayettechildcare.org
+indianaearlylearning.org
+brighterfuturesindiana.org
+
+# Iowa (Expanded)
+iowakids.org
+desmoineschildcare.org
+cedarrapidskids.org
+davenportchildcare.org
+siouxcitychildcare.org
+iowacitychildcare.org
+councilbluffschildcare.org
+iowaccr.org
+iowaearlychildhood.org
+
+# Kansas (Expanded)
+kansaskids.org
+wichitachildcare.org
+overlandparkkids.org
+kansascitykskids.org
+topekachildcare.org
+olathechildcare.org
+lawrencechildcare.org
+kansasearlychildhood.org
+kschildrenscabinet.org
+
+# Kentucky (Expanded)
+kentuckykids.org
+louisvillechildcare.org
+lexingtonchildcare.org
+bowlinggreenchildcare.org
+owensborochildcare.org
+covingtinkids.org
+kentuckyearlychildhood.org
+kentuckystars.org
+
+# Louisiana (Expanded)
+louisianakids.org
+neworleanschildcare.org
+batonrougechildcare.org
+shreveportchildcare.org
+lafayettelachildcare.org
+lakecharleschildcare.org
+louisianaearly.org
+louisianaheadstart.org
+agendaforchildren.org
+
+# Maine (Expanded)
+mainekids.org
+portlandmechildcare.org
+lewistonchildcare.org
+bangorchildcare.org
+augustamechildcare.org
+maineaeyc.org
+mainefamilies.org
+
+# Maryland (Expanded)
+marylandkids.org
+baltimorechildcare.org
+frederickkids.org
+rockvillekids.org
+columbiamdechildcare.org
+annapolis.gov/childcare
+silverspringchildcare.org
+marylandexcels.org
+marylandheadstart.org
+marylandfamilynetwork.org
+
+# Massachusetts (Expanded)
+massachusettskids.org
+bostonchildcare.org
+worcesterkids.org
+springfieldmachildcare.org
+cambridgechildcare.org
+lowellchildcare.org
+newbedfordchildcare.org
+broctonchildcare.org
+quincychildcare.org
+somerville.gov/childcare
+massearlychildhood.org
+buildmasstraining.org
+
+# Michigan (Expanded)
+michigankids.org
+detroitchildcare.org
+grandrapidskids.org
+warrenmichildcare.org
+sterlingheightschildcare.org
+annarborkids.org
+lansingchildcare.org
+flintchildcare.org
+dearbornchildcare.org
+livoniachildcare.org
+westlandchildcare.org
+michiganearlychildhood.org
+greatstartforkids.org
+michigan.gov/mikidsmatters
+
+# Mississippi (Expanded)
+mississippikids.org
+jacksonmschildcare.org
+gulfportchildcare.org
+southavenchildcare.org
+hattiesburg.gov/childcare
+biloxikids.org
+meridianchildcare.org
+mississippiearly.org
+msheadstart.org
+
+# Missouri (Expanded)
+missourikids.org
+stlouischildcare.org
+kansascitymochildcare.org
+springfieldmochildcare.org
+columbiamochildcare.org
+independencechildcare.org
+leesummitchildcare.org
+ofallon.gov/childcare
+stcharles.gov/childcare
+missouriearlychildhood.org
+moheadstart.org
+mofamilies.org
+
+# Montana (Expanded)
+montanakids.org
+billingschildcare.org
+missoulachildcare.org
+greatfallschildcare.org
+bozemanchildcare.org
+buttechildcare.org
+helenachildcare.org
+montanaearlychildhood.org
+
+# Nebraska (Expanded)
+nebraskakids.org
+omahachildcare.org
+lincolnnechildcare.org
+bellevuenechildcare.org
+grandislandchildcare.org
+kearneychildcare.org
+nebraskaearly.org
+nechildren.org
+nebraskaheadstart.org
+
+# Nevada (Expanded)
+nevadakids.org
+lasvegaskids.org
+renochildcare.org
+hendersonchildcare.org
+northlasvegaschildcare.org
+sparkskids.org
+carsoncitychildcare.org
+nevadaearlychildhood.org
+thechildrenscamp.org
+
+# New Hampshire (Expanded)
+newhampshirekids.org
+manchesternhchildcare.org
+nashuachildcare.org
+concordnhchildcare.org
+dovernhchildcare.org
+rochesternh.org/childcare
+nhearlychildhood.org
+sparknh.org
+
+# New Jersey (Expanded)
+newjerseykids.org
+newarkchildcare.org
+jerseycitychildcare.org
+patersonchildcare.org
+elizabethnjchildcare.org
+edisonchildcare.org
+woodbridgechildcare.org
+lakewoodnjchildcare.org
+tomriverchildcare.org
+trentonchildcare.org
+njearlychildhood.org
+grownjkids.org
+advocatesforchildren.org
+
+# New Mexico (Expanded)
+newmexicokids.org
+albuquerquekids.org
+lascruces.gov/childcare
+riograndochildcare.org
+santafechildcare.org
+farmingtonchildcare.org
+newmexicoearlychildhood.org
+nmheadstart.org
+nmfocus.org
+
+# New York (Expanded)
+newyorkkids.org
+nycchildcare.org
+buffalochildcare.org
+rochesternychildcare.org
+yonkerschildcare.org
+syracusechildcare.org
+albanychildcare.org
+newrochellekids.org
+mountvernonchildcare.org
+schenectadykids.org
+whiteplainschildcare.org
+uticschildcare.org
+binghamtonchildcare.org
+nyearlychildhood.org
+nycearlychildhood.org
+earlycareandlearning.org
+nyscccc.org
+
+# North Carolina (Expanded)
+northcarolinakids.org
+charlottekids.org
+raleighchildcare.org
+greensborokids.org
+durhamchildcare.org
+winstonsalemchildcare.org
+fayettevillencchildcare.org
+carychildcare.org
+wilmingtonncchildcare.org
+highpointkids.org
+asheville.gov/childcare
+ncearlychildhood.org
+smartstartNC.org
+ncchildcare.org
+
+# North Dakota (Expanded)
+northdakotakids.org
+fargochildcare.org
+bismarckkids.org
+grandforkschildcare.org
+minotchildcare.org
+westfargochildcare.org
+ndearlychildhood.org
+
+# Ohio (Expanded)
+ohiokids.org
+columbusohchildcare.org
+clevelandkids.org
+cincinnatichildcare.org
+toledokids.org
+akronchildcare.org
+daytonchildcare.org
+parmachildcare.org
+cantonchildcare.org
+youngstownchildcare.org
+lorainkids.org
+hamiltonchildcare.org
+ohioearlychildhood.org
+groundworkohio.org
+stepuptoqualityohio.org
+
+# Oklahoma (Expanded)
+oklahomakids.org
+oklahomacitykids.org
+tulsachildcare.org
+normanchildcare.org
+brokenarrwchildcare.org
+lawtonchildcare.org
+edmonchildcare.org
+mooreokchildcare.org
+oklahomaearly.org
+okheadstart.org
+oklahomapartnership.org
+
+# Oregon (Expanded)
+oregonkids.org
+portlandchildcare.org
+salemchildcare.org
+eugenechildcare.org
+greshamchildcare.org
+hillsborochildcare.org
+bendchildcare.org
+beavertonkids.org
+medfordchildcare.org
+springfieldorchildcare.org
+corvallisnkids.org
+oregonearly.org
+oregonheadstart.org
+oregonaeyc.org
+
+# Pennsylvania (Expanded)
+pennsylvaniakids.org
+philadelphiachildcare.org
+pittsburghkids.org
+allentownchildcare.org
+readingpachildcare.org
+eriechildcare.org
+bethlehemchildcare.org
+lancasterchildcare.org
+harisburgchildcare.org
+scrantonchildcare.org
+upperdarbychildcare.org
+paearlychildhood.org
+paheadstart.org
+tryingtogether.org
+firstup.org
+
+# Rhode Island (Expanded)
+rhodeislandkids.org
+providencechildcare.org
+warwickchildcare.org
+cranstionchildcare.org
+pawtucketchildcare.org
+eastprovidencechildcare.org
+woonsocketchildcare.org
+riearlychildhood.org
+rikidscount.org
+
+# South Carolina (Expanded)
+southcarolinakids.org
+columbascchildcare.org
+charlestonkids.org
+northcharlestonchildcare.org
+mountpleasantkids.org
+rockhill.gov/childcare
+greenvillechildcare.org
+sumterchildcare.org
+hiltonheadchildcare.org
+scearlychildhood.org
+scfirststeps.org
+
+# South Dakota (Expanded)
+southdakotakids.org
+siouxfallskids.org
+rapidcitychildcare.org
+aberdeensdchildcare.org
+brookingschildcare.org
+waterownchildcare.org
+mitchellsdchildcare.org
+sdearlychildhood.org
+
+# Tennessee (Expanded)
+tennesseekids.org
+nashvillekids.org
+memphischildcare.org
+knoxvillechildcare.org
+chattanoogakids.org
+clarksvillechildcare.org
+murfreesborokids.org
+franklinkids.org
+jacksontnchildcare.org
+johnsoncitychildcare.org
+tennesseeearly.org
+tnstarquality.org
+
+# Texas (Expanded)
+texaskids.org
+houstonkids.org
+sanantoniokids.org
+dallaskids.org
+austinkids.org
+fortworkhchildcare.org
+elpasokids.org
+arlingtonchildcare.org
+corpuschristichildcare.org
+planokids.org
+laredo.gov/childcare
+lubbockchildcare.org
+garlandchildcare.org
+irvingchildcare.org
+friscochildcare.org
+mckinneykids.org
+amarillochildcare.org
+grandprairiekids.org
+brownsville.gov/childcare
+texasearlychildhood.org
+childrenslearninginstitute.org
+
+# Utah (Expanded)
+utahkids.org
+saltlakecitykids.org
+westvalleycitychildcare.org
+provokids.org
+westjordanchildcare.org
+oremchildcare.org
+sandychildcare.org
+ogemchildcare.org
+stgeorgechildcare.org
+laytomchildcare.org
+utahearlychildhood.org
+utahheadstart.org
+
+# Vermont (Expanded)
+vermontkids.org
+burlingtonchildcare.org
+southburlingtonchildcare.org
+rutlandchildcare.org
+barrechildcare.org
+montpelierchildcare.org
+benniningtonchildcare.org
+brattleborochildcare.org
+vermontearlychildhood.org
+letsgrowkids.org
+buildingbrightfuturesvt.org
+
+# Virginia (Expanded)
+virginiakids.org
+virginiabeachchildcare.org
+norfolkchildcare.org
+chesapeakechildcare.org
+richmondchildcare.org
+newportnewskids.org
+alexandriachildcare.org
+hamptonchildcare.org
+rosslynchildcare.org
+arlingtonkids.org
+fairfaxchildcare.org
+suffolkvachildcare.org
+lynchburgchildcare.org
+roanokechildcare.org
+virginiaearlychildhood.org
+smartbeginnings.org
+
+# Washington (Expanded)
+washingtonkids.org
+seattlekids.org
+spokanechildcare.org
+tacomachildcare.org
+vancouverwachildcare.org
+bellevuechildcare.org
+kentwachildcare.org
+everettchildcare.org
+rentonnkids.org
+spokanevalleychildcare.org
+federalwaychildcare.org
+yakimachildcare.org
+bellinghamchildcare.org
+kirklandchildcare.org
+olympiachildcare.org
+washingtonearlychildhood.org
+dcyf.wa.gov
+
+# West Virginia (Expanded)
+westvirginiakids.org
+charlestonwvchildcare.org
+huntingtonchildcare.org
+morgantown.gov/childcare
+parkersburgchildcare.org
+wheelingchildcare.org
+weirtonchildcare.org
+fairmonthchildcare.org
+westvirginiaearlychildhood.org
+wvheadstart.org
+
+# Wisconsin (Expanded)
+wisconsinkids.org
+milwaukeekids.org
+madisonchildcare.org
+greenbaychildcare.org
+kenoshachildcare.org
+racinechildcare.org
+appletonchildcare.org
+waukeshachildcare.org
+eauclarkids.org
+oshkoshchildcare.org
+janesville.gov/childcare
+lacrossekids.org
+shedoygannchildcare.org
+fondulacchildcare.org
+wisconsinearly.org
+4cforchildren.org
+youngstaronline.org
+
+# Wyoming (Expanded)
+wyomingkids.org
+cheyennechildcare.org
+casperchildcare.org
+laramiechildcare.org
+gillettchildcare.org
+rockspringschildcare.org
+sheridanchildcare.org
+greenriverchildcare.org
+
+# ============================================
+# PRESCHOOL SOFTWARE & PLATFORMS
+# ============================================
+brightwheel.com
+procaresoftware.com
+himama.com
+kangarootime.com
+kinderlime.com
+tadpoles.com
+bloomz.com
+classcraft.com
+childpilot.com
+sandbox.com
+mybrightwheel.com
+kaymbu.com
+transparent-classroom.com
+sawyer.com
+
+# ============================================
+# CORPORATE BACKUP CARE
+# ============================================
+brighthorizons.com/backup-care
+careadvantage.com
+workplaceoptions.com
+corporatechildcare.com
+kindercare.com/employer-solutions
+
+# ============================================
+# NANNY & AU PAIR AGENCIES
+# ============================================
+aupairinamerica.com
+culturalcare.com
+goaupair.com
+aupaircare.com
+greataupair.com
+nannyauthority.com
+nannynetwork.com
+enannysource.com
+collegiatecareers.com
+nanniescorporate.com
+
+# ============================================
+# COMMERCIAL DATA PROVIDERS
+# ============================================
+data.com
+dnb.com
+referenceusa.com
+infofree.com
+dataaxle.com
+zoominfo.com
+infogroup.com
+acxiom.com
+experian.com/business
+equifax.com/business
+lexisnexis.com
+westlaw.com
+hoovers.com
+
+# ============================================
+# OPEN DATA SOURCES
+# ============================================
+data.gov
+opendata.socrata.com
+census.gov
+bls.gov
+nces.ed.gov
+childstats.gov
+datacenter.kidscount.org
+americanprogress.org
+
+# ============================================
+# FRAUD INVESTIGATION RESOURCES
+# ============================================
+justice.gov
+fbi.gov
+oig.hhs.gov
+oig.usda.gov
+pacer.uscourts.gov
+courtlistener.com
+openthebooks.com
+usaspending.gov
+sam.gov
+fpds.gov
+grantwatch.com
+grants.gov
+
+# ============================================
+# RESEARCH & POLICY
+# ============================================
+childtrends.org
+brookings.edu/topic/early-childhood
+urban.org
+rand.org
+ced.org
+nber.org
+clasp.org
+cbpp.org
+firstfiveyears.org
+ffyf.org
+
+# ============================================
+# NEWS & WATCHDOG
+# ============================================
+startribune.com
+mprnews.org
+propublica.org
+icij.org
+opensecrets.org
+followthemoney.org
+publicintegrity.org
+
+# ============================================
+# FRANCHISE & BUSINESS INTEL
+# ============================================
+franchisedirect.com/childcarefranchises
+entrepreneur.com/franchises/directory/childcare
+franchisegator.com
+thefranchisemall.com
+franchisegrade.com
+bluemaumau.org
+unhappyfranchisee.com
+franchise.org
+bbb.org
+glassdoor.com
+indeed.com
+sec.gov/edgar
+opencorporates.com
+corporationwiki.com
+
+# ============================================
+# BACKGROUND CHECK SERVICES
+# ============================================
+checkr.com
+sterlingcheck.com
+hireright.com
+goodhire.com
+accuratebackground.com
+backgroundchecks.com
+nationalbackgroundcheck.com
+fbi.gov/services/cjis/identity-history-summary-checks
+
+# ============================================
+# SOCIAL MEDIA INTEL
+# ============================================
+facebook.com
+instagram.com
+linkedin.com
+twitter.com
+yelp.com
+google.com/maps
+nextdoor.com
+thumbtack.com
